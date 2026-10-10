@@ -1,0 +1,583 @@
+{
+  "schemaVersion": 1,
+  "background": "F7F1E4",
+  "ink": "2B2721",
+  "pages": [
+    {
+      "id": "pc02-zh-Hans-a4-photo-card",
+      "locale": "zh-Hans",
+      "format": "a4",
+      "photo": {
+        "x": 58,
+        "y": 86,
+        "width": 479.27559055100005,
+        "height": 670
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 42,
+            "y": 28,
+            "width": 126,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15,
+            "lineHeight": 18,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 385.27559055100005,
+            "y": 30,
+            "width": 168,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 13,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 49,
+            "y": 79,
+            "width": 511.27559055100005,
+            "height": 710
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 72,
+            "width": 511.27559055100005,
+            "height": 710
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 56,
+            "y": 84,
+            "width": 483.27559055100005,
+            "height": 674
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 790,
+            "width": 511.27559055100005,
+            "height": 1
+          },
+          "color": "EFE2CC"
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 798,
+            "width": 511.27559055100005,
+            "height": 1
+          },
+          "color": "C6A06B"
+        }
+      ]
+    },
+    {
+      "id": "pc02-zh-Hans-letter-photo-card",
+      "locale": "zh-Hans",
+      "format": "letter",
+      "photo": {
+        "x": 58,
+        "y": 78,
+        "width": 496,
+        "height": 630
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 42,
+            "y": 26,
+            "width": 126,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15,
+            "lineHeight": 18,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 402,
+            "y": 28,
+            "width": 168,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 13,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 49,
+            "y": 71,
+            "width": 528,
+            "height": 670
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 64,
+            "width": 528,
+            "height": 670
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 56,
+            "y": 76,
+            "width": 500,
+            "height": 634
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 742,
+            "width": 528,
+            "height": 1
+          },
+          "color": "EFE2CC"
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 746,
+            "width": 528,
+            "height": 1
+          },
+          "color": "C6A06B"
+        }
+      ]
+    },
+    {
+      "id": "pc02-zh-Hans-story9x16-phone-photo-card",
+      "locale": "zh-Hans",
+      "format": "story9x16",
+      "photo": {
+        "x": 30,
+        "y": 50,
+        "width": 300,
+        "height": 515
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 22,
+            "y": 14,
+            "width": 100,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 12,
+            "lineHeight": 15,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 206,
+            "y": 16,
+            "width": 132,
+            "height": 14
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.5,
+            "lineHeight": 11,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 26,
+            "y": 42,
+            "width": 316,
+            "height": 552
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 22,
+            "y": 38,
+            "width": 316,
+            "height": 552
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 28,
+            "y": 48,
+            "width": 304,
+            "height": 519
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 22,
+            "y": 598,
+            "width": 316,
+            "height": 1
+          },
+          "color": "EFE2CC"
+        },
+        {
+          "box": {
+            "x": 22,
+            "y": 604,
+            "width": 316,
+            "height": 1
+          },
+          "color": "C6A06B"
+        }
+      ]
+    },
+    {
+      "id": "pc02-en-a4-photo-card",
+      "locale": "en",
+      "format": "a4",
+      "photo": {
+        "x": 58,
+        "y": 86,
+        "width": 479.27559055100005,
+        "height": 670
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 42,
+            "y": 28,
+            "width": 126,
+            "height": 20
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 15,
+            "lineHeight": 18,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 385.27559055100005,
+            "y": 30,
+            "width": 168,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 13,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 49,
+            "y": 79,
+            "width": 511.27559055100005,
+            "height": 710
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 72,
+            "width": 511.27559055100005,
+            "height": 710
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 56,
+            "y": 84,
+            "width": 483.27559055100005,
+            "height": 674
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 790,
+            "width": 511.27559055100005,
+            "height": 1
+          },
+          "color": "EFE2CC"
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 798,
+            "width": 511.27559055100005,
+            "height": 1
+          },
+          "color": "C6A06B"
+        }
+      ]
+    },
+    {
+      "id": "pc02-en-letter-photo-card",
+      "locale": "en",
+      "format": "letter",
+      "photo": {
+        "x": 58,
+        "y": 78,
+        "width": 496,
+        "height": 630
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 42,
+            "y": 26,
+            "width": 126,
+            "height": 20
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 15,
+            "lineHeight": 18,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 402,
+            "y": 28,
+            "width": 168,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 13,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 49,
+            "y": 71,
+            "width": 528,
+            "height": 670
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 64,
+            "width": 528,
+            "height": 670
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 56,
+            "y": 76,
+            "width": 500,
+            "height": 634
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 742,
+            "width": 528,
+            "height": 1
+          },
+          "color": "EFE2CC"
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 746,
+            "width": 528,
+            "height": 1
+          },
+          "color": "C6A06B"
+        }
+      ]
+    },
+    {
+      "id": "pc02-en-story9x16-phone-photo-card",
+      "locale": "en",
+      "format": "story9x16",
+      "photo": {
+        "x": 30,
+        "y": 50,
+        "width": 300,
+        "height": 515
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 22,
+            "y": 14,
+            "width": 100,
+            "height": 16
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 12,
+            "lineHeight": 15,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 206,
+            "y": 16,
+            "width": 132,
+            "height": 14
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.5,
+            "lineHeight": 11,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 26,
+            "y": 42,
+            "width": 316,
+            "height": 552
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 22,
+            "y": 38,
+            "width": 316,
+            "height": 552
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 28,
+            "y": 48,
+            "width": 304,
+            "height": 519
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 22,
+            "y": 598,
+            "width": 316,
+            "height": 1
+          },
+          "color": "EFE2CC"
+        },
+        {
+          "box": {
+            "x": 22,
+            "y": 604,
+            "width": 316,
+            "height": 1
+          },
+          "color": "C6A06B"
+        }
+      ]
+    }
+  ]
+}

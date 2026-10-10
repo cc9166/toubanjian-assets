@@ -1,0 +1,5017 @@
+{
+  "schemaVersion": 1,
+  "background": "F7F8F6",
+  "ink": "242927",
+  "pages": [
+    {
+      "id": "hf01-zh-Hans-a4",
+      "locale": "zh-Hans",
+      "format": "a4",
+      "photo": {
+        "x": 47.62204724408001,
+        "y": 170.92913385857995,
+        "width": 500.03149606284006,
+        "height": 439.31338582663807
+      },
+      "texts": [
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 28.573228346448005,
+            "y": 22.70551181138093,
+            "width": 357.16535433060005,
+            "height": 19.048818897632003
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10.714960629918002,
+            "lineHeight": 15.536692913381101,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.643464566926202,
+              "lineHeight": 13.98302362204299,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.429354330704882,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.500472440942601,
+              "lineHeight": 10.87568503936677,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 430.9795275589241,
+            "y": 22.70551181138093,
+            "width": 135.722834645628,
+            "height": 19.048818897632003
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10.119685039367003,
+            "lineHeight": 14.673543307082152,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.107716535430303,
+              "lineHeight": 13.206188976373937,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.095748031493603,
+              "lineHeight": 11.738834645665722,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.083779527556901,
+              "lineHeight": 10.271480314957506,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 28.573228346448005,
+            "y": 51.278740157828935,
+            "width": 538.1291338581041,
+            "height": 55.95590551179401
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 33.335433070856006,
+            "lineHeight": 48.33637795274121,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 30.001889763770407,
+              "lineHeight": 43.50274015746709,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 26.668346456684805,
+              "lineHeight": 38.66910236219297,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 23.334803149599203,
+              "lineHeight": 33.835464566918844,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 28.573228346448005,
+            "y": 113.18740157513295,
+            "width": 538.1291338581041,
+            "height": 38.692913385815004
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 12.500787401571003,
+            "lineHeight": 18.126141732277954,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.250708661413903,
+              "lineHeight": 16.313527559050158,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.000629921256802,
+              "lineHeight": 14.500913385822365,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.750551181099702,
+              "lineHeight": 12.688299212594567,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 47.62204724408001,
+            "y": 613.218897637973,
+            "width": 500.03149606284006,
+            "height": 14.286614173224002
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.143307086612001,
+            "lineHeight": 10.357795275587401,
+            "weight": 400,
+            "color": "E1E8E1"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.428976377950801,
+              "lineHeight": 9.322015748028662,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.7146456692896015,
+              "lineHeight": 8.286236220469922,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.0003149606284,
+              "lineHeight": 7.250456692911181,
+              "weight": 400,
+              "color": "E1E8E1"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 28.573228346448005,
+            "y": 638.220472441115,
+            "width": 538.1291338581041,
+            "height": 27.977952755897004
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 17.262992125979004,
+            "lineHeight": 25.03133858266955,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 15.536692913381104,
+              "lineHeight": 22.528204724402595,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.810393700783203,
+              "lineHeight": 20.025070866135643,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.084094488185302,
+              "lineHeight": 17.521937007868686,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 195.25039370072804,
+            "y": 677.508661417481,
+            "width": 371.45196850382405,
+            "height": 23.811023622040004
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.286614173224002,
+            "lineHeight": 20.715590551174802,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.857952755901602,
+              "lineHeight": 18.644031496057323,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.429291338579203,
+              "lineHeight": 16.572472440939844,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.0006299212568,
+              "lineHeight": 14.500913385822361,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 195.25039370072804,
+            "y": 708.462992126133,
+            "width": 371.45196850382405,
+            "height": 39.28818897636601
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.714960629918002,
+            "lineHeight": 15.536692913381101,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.643464566926202,
+              "lineHeight": 13.98302362204299,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.429354330704882,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.500472440942601,
+              "lineHeight": 10.87568503936677,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 195.25039370072804,
+            "y": 754.2992125985601,
+            "width": 371.45196850382405,
+            "height": 25.001574803142006
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.333858267714001,
+            "lineHeight": 12.084094488185302,
+            "weight": 400,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.500472440942602,
+              "lineHeight": 10.875685039366772,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.667086614171201,
+              "lineHeight": 9.667275590548243,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.833700787399801,
+              "lineHeight": 8.458866141729711,
+              "weight": 400,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 28.573228346448005,
+            "y": 794.7779527560281,
+            "width": 357.16535433060005,
+            "height": 17.85826771653
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.929133858265,
+            "lineHeight": 12.947244094484253,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.036220472438501,
+              "lineHeight": 11.652519685035827,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.143307086612001,
+              "lineHeight": 10.357795275587403,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2503937007855,
+              "lineHeight": 9.063070866138977,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 402.4062992124761,
+            "y": 794.7779527560281,
+            "width": 164.29606299207603,
+            "height": 17.85826771653
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.929133858265,
+            "lineHeight": 12.947244094484253,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.036220472438501,
+              "lineHeight": 11.652519685035827,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.143307086612001,
+              "lineHeight": 10.357795275587403,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2503937007855,
+              "lineHeight": 9.063070866138977,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 28.573228346448005,
+            "y": 162.00000000031497,
+            "width": 538.1291338581041,
+            "height": 466.6960629919841
+          },
+          "color": "242927",
+          "behindPhoto": true
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 172.71496063023295,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 172.71496063023295,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 196.52598425227296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 196.52598425227296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 220.33700787431297,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 220.33700787431297,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 244.14803149635296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 244.14803149635296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 267.959055118393,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 267.959055118393,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 291.77007874043295,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 291.77007874043295,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 315.58110236247296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 315.58110236247296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 339.392125984513,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 339.392125984513,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 363.203149606553,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 363.203149606553,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 387.014173228593,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 387.014173228593,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 410.825196850633,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 410.825196850633,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 434.636220472673,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 434.636220472673,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 458.447244094713,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 458.447244094713,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 482.258267716753,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 482.258267716753,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 506.069291338793,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 506.069291338793,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 529.8803149608331,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 529.8803149608331,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 553.6913385828731,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 553.6913385828731,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 577.502362204913,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 577.502362204913,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 28.573228346448005,
+            "y": 785.8488188977631,
+            "width": 538.1291338581041,
+            "height": 0.5952755905510001
+          },
+          "color": "AABBB5",
+          "behindPhoto": false
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 28.573228346448005,
+            "y": 677.508661417481,
+            "width": 147.62834645664802,
+            "height": 98.81574803146601
+          },
+          "visibility": "landmark"
+        }
+      ]
+    },
+    {
+      "id": "hf01-zh-Hans-letter",
+      "locale": "zh-Hans",
+      "format": "letter",
+      "photo": {
+        "x": 70.75247524752474,
+        "y": 160.75247524752476,
+        "width": 470.4950495049505,
+        "height": 413.3635077793494
+      },
+      "texts": [
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 52.82885431400281,
+            "y": 21.284299858557286,
+            "width": 336.0678925035361,
+            "height": 17.923620933521924
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10.082036775106083,
+            "lineHeight": 14.618953323903819,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.073833097595475,
+              "lineHeight": 13.157057991513437,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.695162659123056,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 10.233267326732673,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 431.46534653465346,
+            "y": 21.284299858557286,
+            "width": 127.70579915134371,
+            "height": 17.923620933521924
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.521923620933523,
+            "lineHeight": 13.806789250353606,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.56973125884017,
+              "lineHeight": 12.426110325318247,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.617538896746819,
+              "lineHeight": 11.045431400282887,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.665346534653465,
+              "lineHeight": 9.664752475247523,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 52.82885431400281,
+            "y": 48.16973125884017,
+            "width": 506.34229137199435,
+            "height": 52.650636492220656
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 31.366336633663366,
+            "lineHeight": 45.481188118811886,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 28.22970297029703,
+              "lineHeight": 40.9330693069307,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 25.093069306930694,
+              "lineHeight": 36.38495049504951,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 21.956435643564355,
+              "lineHeight": 31.836831683168317,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 52.82885431400281,
+            "y": 106.42149929278642,
+            "width": 506.34229137199435,
+            "height": 36.40735502121641
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 11.762376237623762,
+            "lineHeight": 17.055445544554455,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.586138613861387,
+              "lineHeight": 15.34990099009901,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.40990099009901,
+              "lineHeight": 13.644356435643566,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.233663366336634,
+              "lineHeight": 11.938811881188117,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 70.75247524752474,
+            "y": 576.9165487977369,
+            "width": 470.4950495049505,
+            "height": 13.442715700141443
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.721357850070722,
+            "lineHeight": 9.745968882602545,
+            "weight": 400,
+            "color": "E1E8E1"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.04922206506365,
+              "lineHeight": 8.77137199434229,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.377086280056577,
+              "lineHeight": 7.796775106082037,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.704950495049505,
+              "lineHeight": 6.822178217821781,
+              "weight": 400,
+              "color": "E1E8E1"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 52.82885431400281,
+            "y": 600.4413012729844,
+            "width": 506.34229137199435,
+            "height": 26.325318246110328
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 16.243281471004245,
+            "lineHeight": 23.552758132956154,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 14.61895332390382,
+              "lineHeight": 21.197482319660537,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.994625176803396,
+              "lineHeight": 18.842206506364924,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.370297029702972,
+              "lineHeight": 16.486930693069308,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 209.66053748231965,
+            "y": 637.4087694483734,
+            "width": 349.5106082036775,
+            "height": 22.404526166902407
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 13.442715700141443,
+            "lineHeight": 19.49193776520509,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.0984441301273,
+              "lineHeight": 17.54274398868458,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.754172560113155,
+              "lineHeight": 15.593550212164073,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.40990099009901,
+              "lineHeight": 13.644356435643562,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 209.66053748231965,
+            "y": 666.5346534653465,
+            "width": 349.5106082036775,
+            "height": 36.967468175388966
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.082036775106083,
+            "lineHeight": 14.618953323903819,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.073833097595475,
+              "lineHeight": 13.157057991513437,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.695162659123056,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 10.233267326732673,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 209.66053748231965,
+            "y": 709.6633663366337,
+            "width": 349.5106082036775,
+            "height": 23.524752475247524
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.841584158415841,
+            "lineHeight": 11.370297029702972,
+            "weight": 400,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 10.233267326732674,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 9.096237623762377,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.489108910891089,
+              "lineHeight": 7.959207920792079,
+              "weight": 400,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 52.82885431400281,
+            "y": 747.7510608203678,
+            "width": 336.0678925035361,
+            "height": 16.803394625176804
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.401697312588402,
+            "lineHeight": 12.182461103253184,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.561527581329562,
+              "lineHeight": 10.964214992927866,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.721357850070722,
+              "lineHeight": 9.745968882602547,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.881188118811881,
+              "lineHeight": 8.527722772277228,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 404.5799151343706,
+            "y": 747.7510608203678,
+            "width": 154.5912305516266,
+            "height": 16.803394625176804
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.401697312588402,
+            "lineHeight": 12.182461103253184,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.561527581329562,
+              "lineHeight": 10.964214992927866,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.721357850070722,
+              "lineHeight": 9.745968882602547,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.881188118811881,
+              "lineHeight": 8.527722772277228,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 52.82885431400281,
+            "y": 152.35077793493636,
+            "width": 506.34229137199435,
+            "height": 439.1287128712871
+          },
+          "color": "242927",
+          "behindPhoto": true
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 162.43281471004244,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 162.43281471004244,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 184.83734087694484,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 184.83734087694484,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 207.24186704384724,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 207.24186704384724,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 229.64639321074966,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 229.64639321074966,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 252.05091937765206,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 252.05091937765206,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 274.4554455445545,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 274.4554455445545,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 296.85997171145686,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 296.85997171145686,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 319.2644978783593,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 319.2644978783593,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 341.66902404526166,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 341.66902404526166,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 364.0735502121641,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 364.0735502121641,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 386.47807637906647,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 386.47807637906647,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 408.8826025459689,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 408.8826025459689,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 431.2871287128713,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 431.2871287128713,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 453.6916548797737,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 453.6916548797737,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 476.0961810466761,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 476.0961810466761,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 498.5007072135785,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 498.5007072135785,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 520.9052333804809,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 520.9052333804809,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 543.3097595473834,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 543.3097595473834,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 52.82885431400281,
+            "y": 739.3493635077793,
+            "width": 506.34229137199435,
+            "height": 0.5601131541725601
+          },
+          "color": "AABBB5",
+          "behindPhoto": false
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 52.82885431400281,
+            "y": 637.4087694483734,
+            "width": 138.90806223479493,
+            "height": 92.97878359264499
+          },
+          "visibility": "landmark"
+        }
+      ]
+    },
+    {
+      "id": "hf01-zh-Hans-story9x16",
+      "locale": "zh-Hans",
+      "format": "story9x16",
+      "photo": {
+        "x": 28.799999999999997,
+        "y": 168.8,
+        "width": 302.4,
+        "height": 265.68
+      },
+      "texts": [
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 17.28,
+            "y": 79.16000000000003,
+            "width": 216.0,
+            "height": 11.52
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.4799999999999995,
+            "lineHeight": 9.395999999999999,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.832,
+              "lineHeight": 8.456399999999999,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.5168,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.536,
+              "lineHeight": 6.577199999999999,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 260.64,
+            "y": 79.16000000000003,
+            "width": 82.08,
+            "height": 11.52
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.12,
+            "lineHeight": 8.873999999999999,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.508,
+              "lineHeight": 7.986599999999999,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.896000000000001,
+              "lineHeight": 7.0992,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.284,
+              "lineHeight": 6.211799999999998,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 17.28,
+            "y": 96.44000000000001,
+            "width": 325.44,
+            "height": 33.839999999999996
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 20.16,
+            "lineHeight": 29.232,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18.144000000000002,
+              "lineHeight": 26.3088,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 16.128,
+              "lineHeight": 23.3856,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 14.111999999999998,
+              "lineHeight": 20.4624,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 17.28,
+            "y": 133.88,
+            "width": 325.44,
+            "height": 23.4
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 7.56,
+            "lineHeight": 10.962,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.803999999999999,
+              "lineHeight": 9.8658,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.048,
+              "lineHeight": 8.7696,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.292,
+              "lineHeight": 7.673399999999999,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 28.799999999999997,
+            "y": 436.28000000000003,
+            "width": 302.4,
+            "height": 8.64
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 4.32,
+            "lineHeight": 6.263999999999999,
+            "weight": 400,
+            "color": "E1E8E1"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.6376,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.0112,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 4.384799999999999,
+              "weight": 400,
+              "color": "E1E8E1"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 17.28,
+            "y": 451.4,
+            "width": 325.44,
+            "height": 16.919999999999998
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.44,
+            "lineHeight": 15.137999999999998,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.395999999999999,
+              "lineHeight": 13.624199999999998,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.352,
+              "lineHeight": 12.110399999999998,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.307999999999999,
+              "lineHeight": 10.596599999999999,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 118.08,
+            "y": 475.16,
+            "width": 224.64,
+            "height": 14.399999999999999
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 8.64,
+            "lineHeight": 12.527999999999999,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.776000000000001,
+              "lineHeight": 11.2752,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.912000000000001,
+              "lineHeight": 10.0224,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.048,
+              "lineHeight": 8.769599999999999,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 118.08,
+            "y": 493.88,
+            "width": 224.64,
+            "height": 23.759999999999998
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 6.4799999999999995,
+            "lineHeight": 9.395999999999999,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.832,
+              "lineHeight": 8.456399999999999,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.5168,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.536,
+              "lineHeight": 6.577199999999999,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 118.08,
+            "y": 521.6,
+            "width": 224.64,
+            "height": 15.12
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.04,
+            "lineHeight": 7.308,
+            "weight": 400,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.5360000000000005,
+              "lineHeight": 6.5772,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.8464,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.1156,
+              "weight": 400,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 17.28,
+            "y": 546.0799999999999,
+            "width": 216.0,
+            "height": 10.799999999999999
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.3999999999999995,
+            "lineHeight": 7.83,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.859999999999999,
+              "lineHeight": 7.047000000000001,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.319999999999999,
+              "lineHeight": 6.264,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.481,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 243.35999999999999,
+            "y": 546.0799999999999,
+            "width": 99.36,
+            "height": 10.799999999999999
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.3999999999999995,
+            "lineHeight": 7.83,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.859999999999999,
+              "lineHeight": 7.047000000000001,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.319999999999999,
+              "lineHeight": 6.264,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.481,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 17.28,
+            "y": 163.40000000000003,
+            "width": 325.44,
+            "height": 282.24
+          },
+          "color": "242927",
+          "behindPhoto": true
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 169.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 169.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 184.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 184.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 198.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 198.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 213.08,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 213.08,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 227.48000000000002,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 227.48000000000002,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 241.88000000000002,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 241.88000000000002,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 256.28,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 256.28,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 270.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 270.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 285.08000000000004,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 285.08000000000004,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 299.48,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 299.48,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 313.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 313.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 328.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 328.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 342.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 342.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 357.08,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 357.08,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 371.48,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 371.48,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 385.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 385.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 400.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 400.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 414.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 414.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 17.28,
+            "y": 540.6800000000001,
+            "width": 325.44,
+            "height": 0.36
+          },
+          "color": "AABBB5",
+          "behindPhoto": false
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 17.28,
+            "y": 475.16,
+            "width": 89.28,
+            "height": 59.76
+          },
+          "visibility": "landmark"
+        }
+      ]
+    },
+    {
+      "id": "hf01-en-a4",
+      "locale": "en",
+      "format": "a4",
+      "photo": {
+        "x": 47.62204724408001,
+        "y": 170.92913385857995,
+        "width": 500.03149606284006,
+        "height": 439.31338582663807
+      },
+      "texts": [
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 28.573228346448005,
+            "y": 22.70551181138093,
+            "width": 357.16535433060005,
+            "height": 19.048818897632003
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10.714960629918002,
+            "lineHeight": 15.536692913381101,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.643464566926202,
+              "lineHeight": 13.98302362204299,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.429354330704882,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.500472440942601,
+              "lineHeight": 10.87568503936677,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 430.9795275589241,
+            "y": 22.70551181138093,
+            "width": 135.722834645628,
+            "height": 19.048818897632003
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10.119685039367003,
+            "lineHeight": 14.673543307082152,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.107716535430303,
+              "lineHeight": 13.206188976373937,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.095748031493603,
+              "lineHeight": 11.738834645665722,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.083779527556901,
+              "lineHeight": 10.271480314957506,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 28.573228346448005,
+            "y": 51.278740157828935,
+            "width": 538.1291338581041,
+            "height": 55.95590551179401
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 33.335433070856006,
+            "lineHeight": 48.33637795274121,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 30.001889763770407,
+              "lineHeight": 43.50274015746709,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 26.668346456684805,
+              "lineHeight": 38.66910236219297,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 23.334803149599203,
+              "lineHeight": 33.835464566918844,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 28.573228346448005,
+            "y": 113.18740157513295,
+            "width": 538.1291338581041,
+            "height": 38.692913385815004
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 12.500787401571003,
+            "lineHeight": 18.126141732277954,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.250708661413903,
+              "lineHeight": 16.313527559050158,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.000629921256802,
+              "lineHeight": 14.500913385822365,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.750551181099702,
+              "lineHeight": 12.688299212594567,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 47.62204724408001,
+            "y": 613.218897637973,
+            "width": 500.03149606284006,
+            "height": 14.286614173224002
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.143307086612001,
+            "lineHeight": 10.357795275587401,
+            "weight": 400,
+            "color": "E1E8E1"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.428976377950801,
+              "lineHeight": 9.322015748028662,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.7146456692896015,
+              "lineHeight": 8.286236220469922,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.0003149606284,
+              "lineHeight": 7.250456692911181,
+              "weight": 400,
+              "color": "E1E8E1"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 28.573228346448005,
+            "y": 638.220472441115,
+            "width": 538.1291338581041,
+            "height": 27.977952755897004
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 17.262992125979004,
+            "lineHeight": 25.03133858266955,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 15.536692913381104,
+              "lineHeight": 22.528204724402595,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.810393700783203,
+              "lineHeight": 20.025070866135643,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.084094488185302,
+              "lineHeight": 17.521937007868686,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 195.25039370072804,
+            "y": 677.508661417481,
+            "width": 371.45196850382405,
+            "height": 23.811023622040004
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.286614173224002,
+            "lineHeight": 20.715590551174802,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.857952755901602,
+              "lineHeight": 18.644031496057323,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.429291338579203,
+              "lineHeight": 16.572472440939844,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.0006299212568,
+              "lineHeight": 14.500913385822361,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 195.25039370072804,
+            "y": 708.462992126133,
+            "width": 371.45196850382405,
+            "height": 39.28818897636601
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.714960629918002,
+            "lineHeight": 15.536692913381101,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.643464566926202,
+              "lineHeight": 13.98302362204299,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.429354330704882,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.500472440942601,
+              "lineHeight": 10.87568503936677,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 195.25039370072804,
+            "y": 754.2992125985601,
+            "width": 371.45196850382405,
+            "height": 25.001574803142006
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.333858267714001,
+            "lineHeight": 12.084094488185302,
+            "weight": 400,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.500472440942602,
+              "lineHeight": 10.875685039366772,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.667086614171201,
+              "lineHeight": 9.667275590548243,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.833700787399801,
+              "lineHeight": 8.458866141729711,
+              "weight": 400,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 28.573228346448005,
+            "y": 794.7779527560281,
+            "width": 357.16535433060005,
+            "height": 17.85826771653
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.929133858265,
+            "lineHeight": 12.947244094484253,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.036220472438501,
+              "lineHeight": 11.652519685035827,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.143307086612001,
+              "lineHeight": 10.357795275587403,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2503937007855,
+              "lineHeight": 9.063070866138977,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 402.4062992124761,
+            "y": 794.7779527560281,
+            "width": 164.29606299207603,
+            "height": 17.85826771653
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.929133858265,
+            "lineHeight": 12.947244094484253,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.036220472438501,
+              "lineHeight": 11.652519685035827,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.143307086612001,
+              "lineHeight": 10.357795275587403,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2503937007855,
+              "lineHeight": 9.063070866138977,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 28.573228346448005,
+            "y": 162.00000000031497,
+            "width": 538.1291338581041,
+            "height": 466.6960629919841
+          },
+          "color": "242927",
+          "behindPhoto": true
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 172.71496063023295,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 172.71496063023295,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 196.52598425227296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 196.52598425227296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 220.33700787431297,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 220.33700787431297,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 244.14803149635296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 244.14803149635296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 267.959055118393,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 267.959055118393,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 291.77007874043295,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 291.77007874043295,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 315.58110236247296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 315.58110236247296,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 339.392125984513,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 339.392125984513,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 363.203149606553,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 363.203149606553,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 387.014173228593,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 387.014173228593,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 410.825196850633,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 410.825196850633,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 434.636220472673,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 434.636220472673,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 458.447244094713,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 458.447244094713,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 482.258267716753,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 482.258267716753,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 506.069291338793,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 506.069291338793,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 529.8803149608331,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 529.8803149608331,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 553.6913385828731,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 553.6913385828731,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 33.930708661407,
+            "y": 577.502362204913,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 553.6062992124301,
+            "y": 577.502362204913,
+            "width": 7.738582677163001,
+            "height": 11.905511811020002
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 28.573228346448005,
+            "y": 785.8488188977631,
+            "width": 538.1291338581041,
+            "height": 0.5952755905510001
+          },
+          "color": "AABBB5",
+          "behindPhoto": false
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 28.573228346448005,
+            "y": 677.508661417481,
+            "width": 147.62834645664802,
+            "height": 98.81574803146601
+          },
+          "visibility": "landmark"
+        }
+      ]
+    },
+    {
+      "id": "hf01-en-letter",
+      "locale": "en",
+      "format": "letter",
+      "photo": {
+        "x": 70.75247524752474,
+        "y": 160.75247524752476,
+        "width": 470.4950495049505,
+        "height": 413.3635077793494
+      },
+      "texts": [
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 52.82885431400281,
+            "y": 21.284299858557286,
+            "width": 336.0678925035361,
+            "height": 17.923620933521924
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10.082036775106083,
+            "lineHeight": 14.618953323903819,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.073833097595475,
+              "lineHeight": 13.157057991513437,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.695162659123056,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 10.233267326732673,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 431.46534653465346,
+            "y": 21.284299858557286,
+            "width": 127.70579915134371,
+            "height": 17.923620933521924
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.521923620933523,
+            "lineHeight": 13.806789250353606,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.56973125884017,
+              "lineHeight": 12.426110325318247,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.617538896746819,
+              "lineHeight": 11.045431400282887,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.665346534653465,
+              "lineHeight": 9.664752475247523,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 52.82885431400281,
+            "y": 48.16973125884017,
+            "width": 506.34229137199435,
+            "height": 52.650636492220656
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 31.366336633663366,
+            "lineHeight": 45.481188118811886,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 28.22970297029703,
+              "lineHeight": 40.9330693069307,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 25.093069306930694,
+              "lineHeight": 36.38495049504951,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 21.956435643564355,
+              "lineHeight": 31.836831683168317,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 52.82885431400281,
+            "y": 106.42149929278642,
+            "width": 506.34229137199435,
+            "height": 36.40735502121641
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 11.762376237623762,
+            "lineHeight": 17.055445544554455,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.586138613861387,
+              "lineHeight": 15.34990099009901,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.40990099009901,
+              "lineHeight": 13.644356435643566,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.233663366336634,
+              "lineHeight": 11.938811881188117,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 70.75247524752474,
+            "y": 576.9165487977369,
+            "width": 470.4950495049505,
+            "height": 13.442715700141443
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.721357850070722,
+            "lineHeight": 9.745968882602545,
+            "weight": 400,
+            "color": "E1E8E1"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.04922206506365,
+              "lineHeight": 8.77137199434229,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.377086280056577,
+              "lineHeight": 7.796775106082037,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.704950495049505,
+              "lineHeight": 6.822178217821781,
+              "weight": 400,
+              "color": "E1E8E1"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 52.82885431400281,
+            "y": 600.4413012729844,
+            "width": 506.34229137199435,
+            "height": 26.325318246110328
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 16.243281471004245,
+            "lineHeight": 23.552758132956154,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 14.61895332390382,
+              "lineHeight": 21.197482319660537,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.994625176803396,
+              "lineHeight": 18.842206506364924,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.370297029702972,
+              "lineHeight": 16.486930693069308,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 209.66053748231965,
+            "y": 637.4087694483734,
+            "width": 349.5106082036775,
+            "height": 22.404526166902407
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 13.442715700141443,
+            "lineHeight": 19.49193776520509,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.0984441301273,
+              "lineHeight": 17.54274398868458,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.754172560113155,
+              "lineHeight": 15.593550212164073,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.40990099009901,
+              "lineHeight": 13.644356435643562,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 209.66053748231965,
+            "y": 666.5346534653465,
+            "width": 349.5106082036775,
+            "height": 36.967468175388966
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.082036775106083,
+            "lineHeight": 14.618953323903819,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.073833097595475,
+              "lineHeight": 13.157057991513437,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.695162659123056,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 10.233267326732673,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 209.66053748231965,
+            "y": 709.6633663366337,
+            "width": 349.5106082036775,
+            "height": 23.524752475247524
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.841584158415841,
+            "lineHeight": 11.370297029702972,
+            "weight": 400,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 10.233267326732674,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 9.096237623762377,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.489108910891089,
+              "lineHeight": 7.959207920792079,
+              "weight": 400,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 52.82885431400281,
+            "y": 747.7510608203678,
+            "width": 336.0678925035361,
+            "height": 16.803394625176804
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.401697312588402,
+            "lineHeight": 12.182461103253184,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.561527581329562,
+              "lineHeight": 10.964214992927866,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.721357850070722,
+              "lineHeight": 9.745968882602547,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.881188118811881,
+              "lineHeight": 8.527722772277228,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 404.5799151343706,
+            "y": 747.7510608203678,
+            "width": 154.5912305516266,
+            "height": 16.803394625176804
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.401697312588402,
+            "lineHeight": 12.182461103253184,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.561527581329562,
+              "lineHeight": 10.964214992927866,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.721357850070722,
+              "lineHeight": 9.745968882602547,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.881188118811881,
+              "lineHeight": 8.527722772277228,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 52.82885431400281,
+            "y": 152.35077793493636,
+            "width": 506.34229137199435,
+            "height": 439.1287128712871
+          },
+          "color": "242927",
+          "behindPhoto": true
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 162.43281471004244,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 162.43281471004244,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 184.83734087694484,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 184.83734087694484,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 207.24186704384724,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 207.24186704384724,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 229.64639321074966,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 229.64639321074966,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 252.05091937765206,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 252.05091937765206,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 274.4554455445545,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 274.4554455445545,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 296.85997171145686,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 296.85997171145686,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 319.2644978783593,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 319.2644978783593,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 341.66902404526166,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 341.66902404526166,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 364.0735502121641,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 364.0735502121641,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 386.47807637906647,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 386.47807637906647,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 408.8826025459689,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 408.8826025459689,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 431.2871287128713,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 431.2871287128713,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 453.6916548797737,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 453.6916548797737,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 476.0961810466761,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 476.0961810466761,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 498.5007072135785,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 498.5007072135785,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 520.9052333804809,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 520.9052333804809,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 57.869872701555856,
+            "y": 543.3097595473834,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 546.8486562942009,
+            "y": 543.3097595473834,
+            "width": 7.281471004243282,
+            "height": 11.202263083451204
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 52.82885431400281,
+            "y": 739.3493635077793,
+            "width": 506.34229137199435,
+            "height": 0.5601131541725601
+          },
+          "color": "AABBB5",
+          "behindPhoto": false
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 52.82885431400281,
+            "y": 637.4087694483734,
+            "width": 138.90806223479493,
+            "height": 92.97878359264499
+          },
+          "visibility": "landmark"
+        }
+      ]
+    },
+    {
+      "id": "hf01-en-story9x16",
+      "locale": "en",
+      "format": "story9x16",
+      "photo": {
+        "x": 28.799999999999997,
+        "y": 168.8,
+        "width": 302.4,
+        "height": 265.68
+      },
+      "texts": [
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 17.28,
+            "y": 79.16000000000003,
+            "width": 216.0,
+            "height": 11.52
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.4799999999999995,
+            "lineHeight": 9.395999999999999,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.832,
+              "lineHeight": 8.456399999999999,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.5168,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.536,
+              "lineHeight": 6.577199999999999,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 260.64,
+            "y": 79.16000000000003,
+            "width": 82.08,
+            "height": 11.52
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.12,
+            "lineHeight": 8.873999999999999,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.508,
+              "lineHeight": 7.986599999999999,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.896000000000001,
+              "lineHeight": 7.0992,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.284,
+              "lineHeight": 6.211799999999998,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 17.28,
+            "y": 96.44000000000001,
+            "width": 325.44,
+            "height": 33.839999999999996
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 20.16,
+            "lineHeight": 29.232,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18.144000000000002,
+              "lineHeight": 26.3088,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 16.128,
+              "lineHeight": 23.3856,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 14.111999999999998,
+              "lineHeight": 20.4624,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 17.28,
+            "y": 133.88,
+            "width": 325.44,
+            "height": 23.4
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 7.56,
+            "lineHeight": 10.962,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.803999999999999,
+              "lineHeight": 9.8658,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.048,
+              "lineHeight": 8.7696,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.292,
+              "lineHeight": 7.673399999999999,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 28.799999999999997,
+            "y": 436.28000000000003,
+            "width": 302.4,
+            "height": 8.64
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 4.32,
+            "lineHeight": 6.263999999999999,
+            "weight": 400,
+            "color": "E1E8E1"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.6376,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.0112,
+              "weight": 400,
+              "color": "E1E8E1"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 4.384799999999999,
+              "weight": 400,
+              "color": "E1E8E1"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 17.28,
+            "y": 451.4,
+            "width": 325.44,
+            "height": 16.919999999999998
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.44,
+            "lineHeight": 15.137999999999998,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.395999999999999,
+              "lineHeight": 13.624199999999998,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.352,
+              "lineHeight": 12.110399999999998,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.307999999999999,
+              "lineHeight": 10.596599999999999,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 118.08,
+            "y": 475.16,
+            "width": 224.64,
+            "height": 14.399999999999999
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 8.64,
+            "lineHeight": 12.527999999999999,
+            "weight": 800,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.776000000000001,
+              "lineHeight": 11.2752,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.912000000000001,
+              "lineHeight": 10.0224,
+              "weight": 800,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.048,
+              "lineHeight": 8.769599999999999,
+              "weight": 800,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 118.08,
+            "y": 493.88,
+            "width": 224.64,
+            "height": 23.759999999999998
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 6.4799999999999995,
+            "lineHeight": 9.395999999999999,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.832,
+              "lineHeight": 8.456399999999999,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.5168,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.536,
+              "lineHeight": 6.577199999999999,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 118.08,
+            "y": 521.6,
+            "width": 224.64,
+            "height": 15.12
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.04,
+            "lineHeight": 7.308,
+            "weight": 400,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.5360000000000005,
+              "lineHeight": 6.5772,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.8464,
+              "weight": 400,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.1156,
+              "weight": 400,
+              "color": "456B68"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 17.28,
+            "y": 546.0799999999999,
+            "width": 216.0,
+            "height": 10.799999999999999
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.3999999999999995,
+            "lineHeight": 7.83,
+            "weight": 400,
+            "color": "242927"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.859999999999999,
+              "lineHeight": 7.047000000000001,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.319999999999999,
+              "lineHeight": 6.264,
+              "weight": 400,
+              "color": "242927"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.481,
+              "weight": 400,
+              "color": "242927"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 243.35999999999999,
+            "y": 546.0799999999999,
+            "width": 99.36,
+            "height": 10.799999999999999
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.3999999999999995,
+            "lineHeight": 7.83,
+            "weight": 800,
+            "color": "456B68"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.859999999999999,
+              "lineHeight": 7.047000000000001,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.319999999999999,
+              "lineHeight": 6.264,
+              "weight": 800,
+              "color": "456B68"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.481,
+              "weight": 800,
+              "color": "456B68"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 17.28,
+            "y": 163.40000000000003,
+            "width": 325.44,
+            "height": 282.24
+          },
+          "color": "242927",
+          "behindPhoto": true
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 169.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 169.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 184.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 184.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 198.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 198.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 213.08,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 213.08,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 227.48000000000002,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 227.48000000000002,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 241.88000000000002,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 241.88000000000002,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 256.28,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 256.28,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 270.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 270.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 285.08000000000004,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 285.08000000000004,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 299.48,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 299.48,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 313.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 313.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 328.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 328.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 342.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 342.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 357.08,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 357.08,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 371.48,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 371.48,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 385.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 385.88,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 400.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 400.28000000000003,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 20.52,
+            "y": 414.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 334.8,
+            "y": 414.68,
+            "width": 4.68,
+            "height": 7.199999999999999
+          },
+          "color": "F7F8F6",
+          "behindPhoto": false
+        },
+        {
+          "box": {
+            "x": 17.28,
+            "y": 540.6800000000001,
+            "width": 325.44,
+            "height": 0.36
+          },
+          "color": "AABBB5",
+          "behindPhoto": false
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 17.28,
+            "y": 475.16,
+            "width": 89.28,
+            "height": 59.76
+          },
+          "visibility": "landmark"
+        }
+      ]
+    }
+  ]
+}

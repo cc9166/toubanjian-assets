@@ -1,0 +1,4771 @@
+{
+  "schemaVersion": 1,
+  "background": "FFFEFC",
+  "ink": "222222",
+  "pages": [
+    {
+      "id": "hc01-zh-Hans-a4",
+      "locale": "zh-Hans",
+      "format": "a4",
+      "photo": {
+        "x": 23.811023622040004,
+        "y": 249.50551181131198,
+        "width": 339.30708661407004,
+        "height": 375.6188976376811
+      },
+      "texts": [
+        {
+          "field": "date",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 15.56220472476893,
+            "width": 190.48818897632003,
+            "height": 16.072440944877002
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.524409448816002,
+            "lineHeight": 13.3341732283424,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.00075590550816,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.619527559052802,
+              "lineHeight": 10.66733858267392,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.6670866141712,
+              "lineHeight": 9.33392125983968,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalEdition",
+          "box": {
+            "x": 279.7795275589701,
+            "y": 15.56220472476893,
+            "width": 291.68503936999,
+            "height": 16.072440944877002
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.524409448816002,
+            "lineHeight": 13.3341732283424,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.00075590550816,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.619527559052802,
+              "lineHeight": 10.66733858267392,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.6670866141712,
+              "lineHeight": 9.33392125983968,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalName",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 44.730708661767935,
+            "width": 351.21259842509005,
+            "height": 76.79055118107901
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 52.979527559039006,
+            "lineHeight": 74.17133858265461,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 47.681574803135106,
+              "lineHeight": 66.75420472438915,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 42.383622047231206,
+              "lineHeight": 59.337070866123696,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 37.0856692913273,
+              "lineHeight": 51.91993700785822,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalMotto",
+          "box": {
+            "x": 392.88188976366007,
+            "y": 56.040944882236936,
+            "width": 178.58267716530003,
+            "height": 38.692913385815004
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.286614173224002,
+            "lineHeight": 20.0012598425136,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.857952755901602,
+              "lineHeight": 18.001133858262243,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.429291338579203,
+              "lineHeight": 16.00100787401088,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.0006299212568,
+              "lineHeight": 14.000881889759519,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalIssue",
+          "box": {
+            "x": 392.88188976366007,
+            "y": 102.47244094521494,
+            "width": 178.58267716530003,
+            "height": 18.453543307081002
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.738582677163001,
+            "lineHeight": 10.834015748028202,
+            "weight": 400,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.964724409446701,
+              "lineHeight": 9.750614173225381,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.190866141730401,
+              "lineHeight": 8.667212598422562,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.417007874014101,
+              "lineHeight": 7.583811023619741,
+              "weight": 400,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 124.49763779560195,
+            "width": 547.6535433069201,
+            "height": 17.262992125979004
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 11.310236220469001,
+            "lineHeight": 15.834330708656601,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 10.179212598422101,
+              "lineHeight": 14.250897637790942,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.0481889763752,
+              "lineHeight": 12.667464566925283,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.9171653543283,
+              "lineHeight": 11.08403149605962,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 158.42834645700896,
+            "width": 547.6535433069201,
+            "height": 45.83622047242701
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 28.573228346448005,
+            "lineHeight": 40.0025196850272,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 25.715905511803204,
+              "lineHeight": 36.002267716524486,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 22.858582677158406,
+              "lineHeight": 32.00201574802176,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 20.0012598425136,
+              "lineHeight": 28.001763779519038,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 207.24094488219097,
+            "width": 547.6535433069201,
+            "height": 30.359055118101004
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.714960629918002,
+            "lineHeight": 15.000944881885202,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.643464566926202,
+              "lineHeight": 13.500850393696682,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.000755905508163,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.500472440942601,
+              "lineHeight": 10.500661417319641,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalArtLabel",
+          "box": {
+            "x": 380.97637795264006,
+            "y": 249.50551181131198,
+            "width": 190.48818897632003,
+            "height": 17.85826771653
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.524409448816002,
+            "lineHeight": 13.3341732283424,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.00075590550816,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.619527559052802,
+              "lineHeight": 10.66733858267392,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.6670866141712,
+              "lineHeight": 9.33392125983968,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 380.97637795264006,
+            "y": 417.968503937245,
+            "width": 190.48818897632003,
+            "height": 42.85984251967201
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15.477165354326003,
+            "lineHeight": 21.668031496056404,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.929448818893402,
+              "lineHeight": 19.501228346450763,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.381732283460803,
+              "lineHeight": 17.334425196845125,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.834015748028202,
+              "lineHeight": 15.167622047239481,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 380.97637795264006,
+            "y": 472.733858267937,
+            "width": 190.48818897632003,
+            "height": 69.05196850391602
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 11.310236220469001,
+            "lineHeight": 15.834330708656601,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.179212598422101,
+              "lineHeight": 14.250897637790942,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.0481889763752,
+              "lineHeight": 12.667464566925283,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.9171653543283,
+              "lineHeight": 11.08403149605962,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 380.97637795264006,
+            "y": 556.072440945077,
+            "width": 190.48818897632003,
+            "height": 63.09921259840601
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 16.667716535428003,
+            "lineHeight": 23.3348031495992,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 15.000944881885204,
+              "lineHeight": 21.00132283463928,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.334173228342403,
+              "lineHeight": 18.66784251967936,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.667401574799602,
+              "lineHeight": 16.33436220471944,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 631.077165354503,
+            "width": 547.6535433069201,
+            "height": 17.262992125979004
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.929133858265,
+            "lineHeight": 12.500787401571003,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.036220472438501,
+              "lineHeight": 11.250708661413903,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.143307086612001,
+              "lineHeight": 10.000629921256802,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2503937007855,
+              "lineHeight": 8.750551181099702,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 665.603149606461,
+            "width": 264.89763779519507,
+            "height": 23.215748031489003
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.881889763775003,
+            "lineHeight": 20.834645669285003,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.393700787397503,
+              "lineHeight": 18.751181102356504,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.905511811020004,
+              "lineHeight": 16.667716535428003,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.417322834642501,
+              "lineHeight": 14.584251968499501,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 694.1763779529091,
+            "width": 264.89763779519507,
+            "height": 101.79212598422102
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 9.524409448816002,
+            "lineHeight": 13.3341732283424,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.00075590550816,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.619527559052802,
+              "lineHeight": 10.66733858267392,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.6670866141712,
+              "lineHeight": 9.33392125983968,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalHeading2",
+          "box": {
+            "x": 306.56692913376503,
+            "y": 665.603149606461,
+            "width": 264.89763779519507,
+            "height": 23.215748031489003
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.881889763775003,
+            "lineHeight": 20.834645669285003,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.393700787397503,
+              "lineHeight": 18.751181102356504,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.905511811020004,
+              "lineHeight": 16.667716535428003,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.417322834642501,
+              "lineHeight": 14.584251968499501,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalBody2",
+          "box": {
+            "x": 306.56692913376503,
+            "y": 694.1763779529091,
+            "width": 264.89763779519507,
+            "height": 101.79212598422102
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 9.524409448816002,
+            "lineHeight": 13.3341732283424,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.00075590550816,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.619527559052802,
+              "lineHeight": 10.66733858267392,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.6670866141712,
+              "lineHeight": 9.33392125983968,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 809.6598425198031,
+            "width": 285.73228346448,
+            "height": 16.667716535428003
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.333858267714001,
+            "lineHeight": 11.6674015747996,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.500472440942602,
+              "lineHeight": 10.50066141731964,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.667086614171201,
+              "lineHeight": 9.33392125983968,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.833700787399801,
+              "lineHeight": 8.16718110235972,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 342.28346456682505,
+            "y": 809.6598425198031,
+            "width": 229.18110236213505,
+            "height": 16.667716535428003
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.333858267714001,
+            "lineHeight": 11.6674015747996,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.500472440942602,
+              "lineHeight": 10.50066141731964,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.667086614171201,
+              "lineHeight": 9.33392125983968,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.833700787399801,
+              "lineHeight": 8.16718110235972,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 23.811023622040004,
+            "y": 38.182677165706934,
+            "width": 547.6535433069201,
+            "height": 1.1905511811020002
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 23.811023622040004,
+            "y": 148.30866141764196,
+            "width": 547.6535433069201,
+            "height": 1.7858267716530003
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 23.811023622040004,
+            "y": 656.078740157645,
+            "width": 547.6535433069201,
+            "height": 1.1905511811020002
+          },
+          "color": "A83436"
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 380.97637795264006,
+            "y": 271.53070866169895,
+            "width": 190.48818897632003,
+            "height": 135.722834645628
+          },
+          "visibility": "landmark"
+        }
+      ]
+    },
+    {
+      "id": "hc01-zh-Hans-letter",
+      "locale": "zh-Hans",
+      "format": "letter",
+      "photo": {
+        "x": 48.347949080622335,
+        "y": 234.6874115983027,
+        "width": 319.2644978783593,
+        "height": 353.4314002828854
+      },
+      "texts": [
+        {
+          "field": "date",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 14.562942008486564,
+            "width": 179.23620933521926,
+            "height": 15.123055162659124
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.961810466760962,
+            "lineHeight": 12.546534653465347,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.16944837340877,
+              "lineHeight": 10.037227722772279,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalEdition",
+          "box": {
+            "x": 289.1966053748232,
+            "y": 14.562942008486564,
+            "width": 274.4554455445545,
+            "height": 15.123055162659124
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.961810466760962,
+            "lineHeight": 12.546534653465347,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.16944837340877,
+              "lineHeight": 10.037227722772279,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalName",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 42.00848656294201,
+            "width": 330.4667609618105,
+            "height": 72.25459688826025
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 49.85007072135785,
+            "lineHeight": 69.79009900990098,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 44.865063649222066,
+              "lineHeight": 62.811089108910885,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 39.880056577086286,
+              "lineHeight": 55.83207920792079,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 34.89504950495049,
+              "lineHeight": 48.853069306930685,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalMotto",
+          "box": {
+            "x": 395.6181046676096,
+            "y": 52.650636492220656,
+            "width": 168.03394625176804,
+            "height": 36.40735502121641
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 13.442715700141443,
+            "lineHeight": 18.81980198019802,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.0984441301273,
+              "lineHeight": 16.93782178217822,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.754172560113155,
+              "lineHeight": 15.055841584158415,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.40990099009901,
+              "lineHeight": 13.173861386138613,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalIssue",
+          "box": {
+            "x": 395.6181046676096,
+            "y": 96.33946251768035,
+            "width": 168.03394625176804,
+            "height": 17.363507779349366
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.281471004243282,
+            "lineHeight": 10.194059405940594,
+            "weight": 400,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.553323903818954,
+              "lineHeight": 9.174653465346536,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.825176803394626,
+              "lineHeight": 8.155247524752475,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.097029702970297,
+              "lineHeight": 7.135841584158415,
+              "weight": 400,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 117.06364922206507,
+            "width": 515.3041018387553,
+            "height": 16.243281471004245
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10.642149929278643,
+            "lineHeight": 14.899009900990098,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.577934936350779,
+              "lineHeight": 13.409108910891089,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.513719943422915,
+              "lineHeight": 11.91920792079208,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.44950495049505,
+              "lineHeight": 10.429306930693068,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 148.990099009901,
+            "width": 515.3041018387553,
+            "height": 43.12871287128713
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 26.885431400282886,
+            "lineHeight": 37.63960396039604,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 24.1968882602546,
+              "lineHeight": 33.87564356435644,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 21.50834512022631,
+              "lineHeight": 30.11168316831683,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18.81980198019802,
+              "lineHeight": 26.347722772277226,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 194.91937765205094,
+            "width": 515.3041018387553,
+            "height": 28.565770862800566
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.082036775106083,
+            "lineHeight": 14.114851485148515,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.073833097595475,
+              "lineHeight": 12.703366336633664,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 9.88039603960396,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalArtLabel",
+          "box": {
+            "x": 384.41584158415844,
+            "y": 234.6874115983027,
+            "width": 179.23620933521926,
+            "height": 16.803394625176804
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.961810466760962,
+            "lineHeight": 12.546534653465347,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.16944837340877,
+              "lineHeight": 10.037227722772279,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 384.41584158415844,
+            "y": 393.19943422913724,
+            "width": 179.23620933521926,
+            "height": 40.32814710042433
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.562942008486564,
+            "lineHeight": 20.38811881188119,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.106647807637907,
+              "lineHeight": 18.34930693069307,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.650353606789253,
+              "lineHeight": 16.31049504950495,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.194059405940594,
+              "lineHeight": 14.27168316831683,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 384.41584158415844,
+            "y": 444.72984441301276,
+            "width": 179.23620933521926,
+            "height": 64.97312588401698
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.642149929278643,
+            "lineHeight": 14.899009900990098,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.577934936350779,
+              "lineHeight": 13.409108910891089,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.513719943422915,
+              "lineHeight": 11.91920792079208,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.44950495049505,
+              "lineHeight": 10.429306930693068,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 384.41584158415844,
+            "y": 523.1456859971712,
+            "width": 179.23620933521926,
+            "height": 59.37199434229137
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15.683168316831683,
+            "lineHeight": 21.956435643564355,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 14.114851485148515,
+              "lineHeight": 19.76079207920792,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.546534653465347,
+              "lineHeight": 17.565148514851483,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.978217821782177,
+              "lineHeight": 15.369504950495047,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 593.7199434229137,
+            "width": 515.3041018387553,
+            "height": 16.243281471004245
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.401697312588402,
+            "lineHeight": 11.762376237623762,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.561527581329562,
+              "lineHeight": 10.586138613861387,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.721357850070722,
+              "lineHeight": 9.40990099009901,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.881188118811881,
+              "lineHeight": 8.233663366336634,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 626.2065063649222,
+            "width": 249.25035360678925,
+            "height": 21.844413012729845
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.002828854314004,
+            "lineHeight": 19.603960396039604,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.602545968882604,
+              "lineHeight": 17.643564356435643,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.202263083451204,
+              "lineHeight": 15.683168316831683,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.801980198019802,
+              "lineHeight": 13.722772277227723,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 653.0919377652051,
+            "width": 249.25035360678925,
+            "height": 95.77934936350778
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 8.961810466760962,
+            "lineHeight": 12.546534653465347,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.16944837340877,
+              "lineHeight": 10.037227722772279,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalHeading2",
+          "box": {
+            "x": 314.4016973125884,
+            "y": 626.2065063649222,
+            "width": 249.25035360678925,
+            "height": 21.844413012729845
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.002828854314004,
+            "lineHeight": 19.603960396039604,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.602545968882604,
+              "lineHeight": 17.643564356435643,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.202263083451204,
+              "lineHeight": 15.683168316831683,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.801980198019802,
+              "lineHeight": 13.722772277227723,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalBody2",
+          "box": {
+            "x": 314.4016973125884,
+            "y": 653.0919377652051,
+            "width": 249.25035360678925,
+            "height": 95.77934936350778
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 8.961810466760962,
+            "lineHeight": 12.546534653465347,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.16944837340877,
+              "lineHeight": 10.037227722772279,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 761.7538896746818,
+            "width": 268.85431400282886,
+            "height": 15.683168316831683
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.841584158415841,
+            "lineHeight": 10.978217821782177,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 9.88039603960396,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.489108910891089,
+              "lineHeight": 7.684752475247524,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 348.008486562942,
+            "y": 761.7538896746818,
+            "width": 215.64356435643566,
+            "height": 15.683168316831683
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.841584158415841,
+            "lineHeight": 10.978217821782177,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 9.88039603960396,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.489108910891089,
+              "lineHeight": 7.684752475247524,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 48.347949080622335,
+            "y": 35.84724186704385,
+            "width": 515.3041018387553,
+            "height": 1.1202263083451203
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 48.347949080622335,
+            "y": 139.46817538896747,
+            "width": 515.3041018387553,
+            "height": 1.6803394625176804
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 48.347949080622335,
+            "y": 617.2446958981612,
+            "width": 515.3041018387553,
+            "height": 1.1202263083451203
+          },
+          "color": "A83436"
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 384.41584158415844,
+            "y": 255.41159830268742,
+            "width": 179.23620933521926,
+            "height": 127.70579915134371
+          },
+          "visibility": "landmark"
+        }
+      ]
+    },
+    {
+      "id": "hc01-zh-Hans-story9x16",
+      "locale": "zh-Hans",
+      "format": "story9x16",
+      "photo": {
+        "x": 14.399999999999999,
+        "y": 216.32000000000002,
+        "width": 205.2,
+        "height": 227.16
+      },
+      "texts": [
+        {
+          "field": "date",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 74.84000000000002,
+            "width": 115.19999999999999,
+            "height": 9.719999999999999
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.76,
+            "lineHeight": 8.064,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.608,
+              "lineHeight": 6.4512,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalEdition",
+          "box": {
+            "x": 169.2,
+            "y": 74.84000000000002,
+            "width": 176.4,
+            "height": 9.719999999999999
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.76,
+            "lineHeight": 8.064,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.608,
+              "lineHeight": 6.4512,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalName",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 92.48000000000002,
+            "width": 212.4,
+            "height": 46.44
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 32.04,
+            "lineHeight": 44.855999999999995,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 28.836,
+              "lineHeight": 40.3704,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 25.632,
+              "lineHeight": 35.8848,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 22.427999999999997,
+              "lineHeight": 31.399199999999993,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalMotto",
+          "box": {
+            "x": 237.6,
+            "y": 99.32000000000002,
+            "width": 108.0,
+            "height": 23.4
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 8.64,
+            "lineHeight": 12.095999999999998,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.776000000000001,
+              "lineHeight": 10.886399999999998,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.912000000000001,
+              "lineHeight": 9.6768,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.048,
+              "lineHeight": 8.467199999999998,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalIssue",
+          "box": {
+            "x": 237.6,
+            "y": 127.4,
+            "width": 108.0,
+            "height": 11.16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 4.68,
+            "lineHeight": 6.552,
+            "weight": 400,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.212,
+              "lineHeight": 5.8968,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.2416,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 4.586399999999999,
+              "weight": 400,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 140.72000000000003,
+            "width": 331.2,
+            "height": 10.44
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.84,
+            "lineHeight": 9.575999999999999,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.156,
+              "lineHeight": 8.6184,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.472,
+              "lineHeight": 7.660799999999999,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.787999999999999,
+              "lineHeight": 6.703199999999999,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 161.24,
+            "width": 331.2,
+            "height": 27.72
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 17.28,
+            "lineHeight": 24.191999999999997,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 15.552000000000001,
+              "lineHeight": 21.772799999999997,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.824000000000002,
+              "lineHeight": 19.3536,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.096,
+              "lineHeight": 16.934399999999997,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 190.76000000000002,
+            "width": 331.2,
+            "height": 18.36
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 6.4799999999999995,
+            "lineHeight": 9.072,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.832,
+              "lineHeight": 8.1648,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.536,
+              "lineHeight": 6.350399999999999,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalArtLabel",
+          "box": {
+            "x": 230.39999999999998,
+            "y": 216.32000000000002,
+            "width": 115.19999999999999,
+            "height": 10.799999999999999
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.76,
+            "lineHeight": 8.064,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.608,
+              "lineHeight": 6.4512,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 230.39999999999998,
+            "y": 318.20000000000005,
+            "width": 115.19999999999999,
+            "height": 25.919999999999998
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 9.36,
+            "lineHeight": 13.104,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.424,
+              "lineHeight": 11.7936,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.4879999999999995,
+              "lineHeight": 10.4832,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.552,
+              "lineHeight": 9.172799999999999,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 230.39999999999998,
+            "y": 351.32,
+            "width": 115.19999999999999,
+            "height": 41.76
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 6.84,
+            "lineHeight": 9.575999999999999,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.156,
+              "lineHeight": 8.6184,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.472,
+              "lineHeight": 7.660799999999999,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.787999999999999,
+              "lineHeight": 6.703199999999999,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 230.39999999999998,
+            "y": 401.72,
+            "width": 115.19999999999999,
+            "height": 38.16
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.08,
+            "lineHeight": 14.111999999999998,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.072000000000001,
+              "lineHeight": 12.7008,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.064,
+              "lineHeight": 11.2896,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.055999999999999,
+              "lineHeight": 9.878399999999997,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 447.08,
+            "width": 331.2,
+            "height": 10.44
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.3999999999999995,
+            "lineHeight": 7.56,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.859999999999999,
+              "lineHeight": 6.803999999999999,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.319999999999999,
+              "lineHeight": 6.048,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.292,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 467.96,
+            "width": 160.2,
+            "height": 14.04
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 9.0,
+            "lineHeight": 12.6,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.1,
+              "lineHeight": 11.34,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.2,
+              "lineHeight": 10.08,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.3,
+              "lineHeight": 8.819999999999999,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 485.24,
+            "width": 160.2,
+            "height": 61.559999999999995
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 5.76,
+            "lineHeight": 8.064,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.608,
+              "lineHeight": 6.4512,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalHeading2",
+          "box": {
+            "x": 185.4,
+            "y": 467.96,
+            "width": 160.2,
+            "height": 14.04
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 9.0,
+            "lineHeight": 12.6,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.1,
+              "lineHeight": 11.34,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.2,
+              "lineHeight": 10.08,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.3,
+              "lineHeight": 8.819999999999999,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalBody2",
+          "box": {
+            "x": 185.4,
+            "y": 485.24,
+            "width": 160.2,
+            "height": 61.559999999999995
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 5.76,
+            "lineHeight": 8.064,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.608,
+              "lineHeight": 6.4512,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 555.0799999999999,
+            "width": 172.79999999999998,
+            "height": 10.08
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.04,
+            "lineHeight": 7.055999999999999,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.5360000000000005,
+              "lineHeight": 6.3504,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 4.939199999999999,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 207.0,
+            "y": 555.0799999999999,
+            "width": 138.6,
+            "height": 10.08
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.04,
+            "lineHeight": 7.055999999999999,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.5360000000000005,
+              "lineHeight": 6.3504,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 4.939199999999999,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 14.399999999999999,
+            "y": 88.52000000000001,
+            "width": 331.2,
+            "height": 0.72
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 14.399999999999999,
+            "y": 155.12,
+            "width": 331.2,
+            "height": 1.08
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 14.399999999999999,
+            "y": 462.2,
+            "width": 331.2,
+            "height": 0.72
+          },
+          "color": "A83436"
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 230.39999999999998,
+            "y": 229.64000000000001,
+            "width": 115.19999999999999,
+            "height": 82.08
+          },
+          "visibility": "landmark"
+        }
+      ]
+    },
+    {
+      "id": "hc01-en-a4",
+      "locale": "en",
+      "format": "a4",
+      "photo": {
+        "x": 23.811023622040004,
+        "y": 249.50551181131198,
+        "width": 339.30708661407004,
+        "height": 375.6188976376811
+      },
+      "texts": [
+        {
+          "field": "date",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 15.56220472476893,
+            "width": 190.48818897632003,
+            "height": 16.072440944877002
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.524409448816002,
+            "lineHeight": 13.3341732283424,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.00075590550816,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.619527559052802,
+              "lineHeight": 10.66733858267392,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.6670866141712,
+              "lineHeight": 9.33392125983968,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalEdition",
+          "box": {
+            "x": 279.7795275589701,
+            "y": 15.56220472476893,
+            "width": 291.68503936999,
+            "height": 16.072440944877002
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.524409448816002,
+            "lineHeight": 13.3341732283424,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.00075590550816,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.619527559052802,
+              "lineHeight": 10.66733858267392,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.6670866141712,
+              "lineHeight": 9.33392125983968,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalName",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 44.730708661767935,
+            "width": 351.21259842509005,
+            "height": 76.79055118107901
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 52.979527559039006,
+            "lineHeight": 74.17133858265461,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 47.681574803135106,
+              "lineHeight": 66.75420472438915,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 42.383622047231206,
+              "lineHeight": 59.337070866123696,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 37.0856692913273,
+              "lineHeight": 51.91993700785822,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalMotto",
+          "box": {
+            "x": 392.88188976366007,
+            "y": 56.040944882236936,
+            "width": 178.58267716530003,
+            "height": 38.692913385815004
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.286614173224002,
+            "lineHeight": 20.0012598425136,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.857952755901602,
+              "lineHeight": 18.001133858262243,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.429291338579203,
+              "lineHeight": 16.00100787401088,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.0006299212568,
+              "lineHeight": 14.000881889759519,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalIssue",
+          "box": {
+            "x": 392.88188976366007,
+            "y": 102.47244094521494,
+            "width": 178.58267716530003,
+            "height": 18.453543307081002
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.738582677163001,
+            "lineHeight": 10.834015748028202,
+            "weight": 400,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.964724409446701,
+              "lineHeight": 9.750614173225381,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.190866141730401,
+              "lineHeight": 8.667212598422562,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.417007874014101,
+              "lineHeight": 7.583811023619741,
+              "weight": 400,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 124.49763779560195,
+            "width": 547.6535433069201,
+            "height": 17.262992125979004
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 11.310236220469001,
+            "lineHeight": 15.834330708656601,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 10.179212598422101,
+              "lineHeight": 14.250897637790942,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.0481889763752,
+              "lineHeight": 12.667464566925283,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.9171653543283,
+              "lineHeight": 11.08403149605962,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 158.42834645700896,
+            "width": 547.6535433069201,
+            "height": 45.83622047242701
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 28.573228346448005,
+            "lineHeight": 40.0025196850272,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 25.715905511803204,
+              "lineHeight": 36.002267716524486,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 22.858582677158406,
+              "lineHeight": 32.00201574802176,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 20.0012598425136,
+              "lineHeight": 28.001763779519038,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 207.24094488219097,
+            "width": 547.6535433069201,
+            "height": 30.359055118101004
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.714960629918002,
+            "lineHeight": 15.000944881885202,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.643464566926202,
+              "lineHeight": 13.500850393696682,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.000755905508163,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.500472440942601,
+              "lineHeight": 10.500661417319641,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalArtLabel",
+          "box": {
+            "x": 380.97637795264006,
+            "y": 249.50551181131198,
+            "width": 190.48818897632003,
+            "height": 17.85826771653
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.524409448816002,
+            "lineHeight": 13.3341732283424,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.00075590550816,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.619527559052802,
+              "lineHeight": 10.66733858267392,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.6670866141712,
+              "lineHeight": 9.33392125983968,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 380.97637795264006,
+            "y": 417.968503937245,
+            "width": 190.48818897632003,
+            "height": 42.85984251967201
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15.477165354326003,
+            "lineHeight": 21.668031496056404,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.929448818893402,
+              "lineHeight": 19.501228346450763,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.381732283460803,
+              "lineHeight": 17.334425196845125,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.834015748028202,
+              "lineHeight": 15.167622047239481,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 380.97637795264006,
+            "y": 472.733858267937,
+            "width": 190.48818897632003,
+            "height": 69.05196850391602
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 11.310236220469001,
+            "lineHeight": 15.834330708656601,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.179212598422101,
+              "lineHeight": 14.250897637790942,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.0481889763752,
+              "lineHeight": 12.667464566925283,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.9171653543283,
+              "lineHeight": 11.08403149605962,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 380.97637795264006,
+            "y": 556.072440945077,
+            "width": 190.48818897632003,
+            "height": 63.09921259840601
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 16.667716535428003,
+            "lineHeight": 23.3348031495992,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 15.000944881885204,
+              "lineHeight": 21.00132283463928,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.334173228342403,
+              "lineHeight": 18.66784251967936,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.667401574799602,
+              "lineHeight": 16.33436220471944,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 631.077165354503,
+            "width": 547.6535433069201,
+            "height": 17.262992125979004
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.929133858265,
+            "lineHeight": 12.500787401571003,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.036220472438501,
+              "lineHeight": 11.250708661413903,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.143307086612001,
+              "lineHeight": 10.000629921256802,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2503937007855,
+              "lineHeight": 8.750551181099702,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 665.603149606461,
+            "width": 264.89763779519507,
+            "height": 23.215748031489003
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.881889763775003,
+            "lineHeight": 20.834645669285003,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.393700787397503,
+              "lineHeight": 18.751181102356504,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.905511811020004,
+              "lineHeight": 16.667716535428003,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.417322834642501,
+              "lineHeight": 14.584251968499501,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 694.1763779529091,
+            "width": 264.89763779519507,
+            "height": 101.79212598422102
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 9.524409448816002,
+            "lineHeight": 13.3341732283424,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.00075590550816,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.619527559052802,
+              "lineHeight": 10.66733858267392,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.6670866141712,
+              "lineHeight": 9.33392125983968,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalHeading2",
+          "box": {
+            "x": 306.56692913376503,
+            "y": 665.603149606461,
+            "width": 264.89763779519507,
+            "height": 23.215748031489003
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.881889763775003,
+            "lineHeight": 20.834645669285003,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.393700787397503,
+              "lineHeight": 18.751181102356504,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.905511811020004,
+              "lineHeight": 16.667716535428003,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.417322834642501,
+              "lineHeight": 14.584251968499501,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalBody2",
+          "box": {
+            "x": 306.56692913376503,
+            "y": 694.1763779529091,
+            "width": 264.89763779519507,
+            "height": 101.79212598422102
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 9.524409448816002,
+            "lineHeight": 13.3341732283424,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.571968503934402,
+              "lineHeight": 12.00075590550816,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.619527559052802,
+              "lineHeight": 10.66733858267392,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.6670866141712,
+              "lineHeight": 9.33392125983968,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 23.811023622040004,
+            "y": 809.6598425198031,
+            "width": 285.73228346448,
+            "height": 16.667716535428003
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.333858267714001,
+            "lineHeight": 11.6674015747996,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.500472440942602,
+              "lineHeight": 10.50066141731964,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.667086614171201,
+              "lineHeight": 9.33392125983968,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.833700787399801,
+              "lineHeight": 8.16718110235972,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 342.28346456682505,
+            "y": 809.6598425198031,
+            "width": 229.18110236213505,
+            "height": 16.667716535428003
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.333858267714001,
+            "lineHeight": 11.6674015747996,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.500472440942602,
+              "lineHeight": 10.50066141731964,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.667086614171201,
+              "lineHeight": 9.33392125983968,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.833700787399801,
+              "lineHeight": 8.16718110235972,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 23.811023622040004,
+            "y": 38.182677165706934,
+            "width": 547.6535433069201,
+            "height": 1.1905511811020002
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 23.811023622040004,
+            "y": 148.30866141764196,
+            "width": 547.6535433069201,
+            "height": 1.7858267716530003
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 23.811023622040004,
+            "y": 656.078740157645,
+            "width": 547.6535433069201,
+            "height": 1.1905511811020002
+          },
+          "color": "A83436"
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 380.97637795264006,
+            "y": 271.53070866169895,
+            "width": 190.48818897632003,
+            "height": 135.722834645628
+          },
+          "visibility": "landmark"
+        }
+      ]
+    },
+    {
+      "id": "hc01-en-letter",
+      "locale": "en",
+      "format": "letter",
+      "photo": {
+        "x": 48.347949080622335,
+        "y": 234.6874115983027,
+        "width": 319.2644978783593,
+        "height": 353.4314002828854
+      },
+      "texts": [
+        {
+          "field": "date",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 14.562942008486564,
+            "width": 179.23620933521926,
+            "height": 15.123055162659124
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.961810466760962,
+            "lineHeight": 12.546534653465347,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.16944837340877,
+              "lineHeight": 10.037227722772279,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalEdition",
+          "box": {
+            "x": 289.1966053748232,
+            "y": 14.562942008486564,
+            "width": 274.4554455445545,
+            "height": 15.123055162659124
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.961810466760962,
+            "lineHeight": 12.546534653465347,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.16944837340877,
+              "lineHeight": 10.037227722772279,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalName",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 42.00848656294201,
+            "width": 330.4667609618105,
+            "height": 72.25459688826025
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 49.85007072135785,
+            "lineHeight": 69.79009900990098,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 44.865063649222066,
+              "lineHeight": 62.811089108910885,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 39.880056577086286,
+              "lineHeight": 55.83207920792079,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 34.89504950495049,
+              "lineHeight": 48.853069306930685,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalMotto",
+          "box": {
+            "x": 395.6181046676096,
+            "y": 52.650636492220656,
+            "width": 168.03394625176804,
+            "height": 36.40735502121641
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 13.442715700141443,
+            "lineHeight": 18.81980198019802,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.0984441301273,
+              "lineHeight": 16.93782178217822,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.754172560113155,
+              "lineHeight": 15.055841584158415,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.40990099009901,
+              "lineHeight": 13.173861386138613,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalIssue",
+          "box": {
+            "x": 395.6181046676096,
+            "y": 96.33946251768035,
+            "width": 168.03394625176804,
+            "height": 17.363507779349366
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.281471004243282,
+            "lineHeight": 10.194059405940594,
+            "weight": 400,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.553323903818954,
+              "lineHeight": 9.174653465346536,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.825176803394626,
+              "lineHeight": 8.155247524752475,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.097029702970297,
+              "lineHeight": 7.135841584158415,
+              "weight": 400,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 117.06364922206507,
+            "width": 515.3041018387553,
+            "height": 16.243281471004245
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10.642149929278643,
+            "lineHeight": 14.899009900990098,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.577934936350779,
+              "lineHeight": 13.409108910891089,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.513719943422915,
+              "lineHeight": 11.91920792079208,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.44950495049505,
+              "lineHeight": 10.429306930693068,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 148.990099009901,
+            "width": 515.3041018387553,
+            "height": 43.12871287128713
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 26.885431400282886,
+            "lineHeight": 37.63960396039604,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 24.1968882602546,
+              "lineHeight": 33.87564356435644,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 21.50834512022631,
+              "lineHeight": 30.11168316831683,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18.81980198019802,
+              "lineHeight": 26.347722772277226,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 194.91937765205094,
+            "width": 515.3041018387553,
+            "height": 28.565770862800566
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.082036775106083,
+            "lineHeight": 14.114851485148515,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.073833097595475,
+              "lineHeight": 12.703366336633664,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 9.88039603960396,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalArtLabel",
+          "box": {
+            "x": 384.41584158415844,
+            "y": 234.6874115983027,
+            "width": 179.23620933521926,
+            "height": 16.803394625176804
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.961810466760962,
+            "lineHeight": 12.546534653465347,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.16944837340877,
+              "lineHeight": 10.037227722772279,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 384.41584158415844,
+            "y": 393.19943422913724,
+            "width": 179.23620933521926,
+            "height": 40.32814710042433
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.562942008486564,
+            "lineHeight": 20.38811881188119,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.106647807637907,
+              "lineHeight": 18.34930693069307,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.650353606789253,
+              "lineHeight": 16.31049504950495,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.194059405940594,
+              "lineHeight": 14.27168316831683,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 384.41584158415844,
+            "y": 444.72984441301276,
+            "width": 179.23620933521926,
+            "height": 64.97312588401698
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.642149929278643,
+            "lineHeight": 14.899009900990098,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.577934936350779,
+              "lineHeight": 13.409108910891089,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.513719943422915,
+              "lineHeight": 11.91920792079208,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.44950495049505,
+              "lineHeight": 10.429306930693068,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 384.41584158415844,
+            "y": 523.1456859971712,
+            "width": 179.23620933521926,
+            "height": 59.37199434229137
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15.683168316831683,
+            "lineHeight": 21.956435643564355,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 14.114851485148515,
+              "lineHeight": 19.76079207920792,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.546534653465347,
+              "lineHeight": 17.565148514851483,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10.978217821782177,
+              "lineHeight": 15.369504950495047,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 593.7199434229137,
+            "width": 515.3041018387553,
+            "height": 16.243281471004245
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.401697312588402,
+            "lineHeight": 11.762376237623762,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.561527581329562,
+              "lineHeight": 10.586138613861387,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.721357850070722,
+              "lineHeight": 9.40990099009901,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.881188118811881,
+              "lineHeight": 8.233663366336634,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 626.2065063649222,
+            "width": 249.25035360678925,
+            "height": 21.844413012729845
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.002828854314004,
+            "lineHeight": 19.603960396039604,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.602545968882604,
+              "lineHeight": 17.643564356435643,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.202263083451204,
+              "lineHeight": 15.683168316831683,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.801980198019802,
+              "lineHeight": 13.722772277227723,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 653.0919377652051,
+            "width": 249.25035360678925,
+            "height": 95.77934936350778
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 8.961810466760962,
+            "lineHeight": 12.546534653465347,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.16944837340877,
+              "lineHeight": 10.037227722772279,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalHeading2",
+          "box": {
+            "x": 314.4016973125884,
+            "y": 626.2065063649222,
+            "width": 249.25035360678925,
+            "height": 21.844413012729845
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14.002828854314004,
+            "lineHeight": 19.603960396039604,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.602545968882604,
+              "lineHeight": 17.643564356435643,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11.202263083451204,
+              "lineHeight": 15.683168316831683,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.801980198019802,
+              "lineHeight": 13.722772277227723,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalBody2",
+          "box": {
+            "x": 314.4016973125884,
+            "y": 653.0919377652051,
+            "width": 249.25035360678925,
+            "height": 95.77934936350778
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 8.961810466760962,
+            "lineHeight": 12.546534653465347,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.065629420084866,
+              "lineHeight": 11.291881188118813,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.16944837340877,
+              "lineHeight": 10.037227722772279,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 48.347949080622335,
+            "y": 761.7538896746818,
+            "width": 268.85431400282886,
+            "height": 15.683168316831683
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.841584158415841,
+            "lineHeight": 10.978217821782177,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 9.88039603960396,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.489108910891089,
+              "lineHeight": 7.684752475247524,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 348.008486562942,
+            "y": 761.7538896746818,
+            "width": 215.64356435643566,
+            "height": 15.683168316831683
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.841584158415841,
+            "lineHeight": 10.978217821782177,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.0574257425742575,
+              "lineHeight": 9.88039603960396,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.2732673267326735,
+              "lineHeight": 8.782574257425741,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.489108910891089,
+              "lineHeight": 7.684752475247524,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 48.347949080622335,
+            "y": 35.84724186704385,
+            "width": 515.3041018387553,
+            "height": 1.1202263083451203
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 48.347949080622335,
+            "y": 139.46817538896747,
+            "width": 515.3041018387553,
+            "height": 1.6803394625176804
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 48.347949080622335,
+            "y": 617.2446958981612,
+            "width": 515.3041018387553,
+            "height": 1.1202263083451203
+          },
+          "color": "A83436"
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 384.41584158415844,
+            "y": 255.41159830268742,
+            "width": 179.23620933521926,
+            "height": 127.70579915134371
+          },
+          "visibility": "landmark"
+        }
+      ]
+    },
+    {
+      "id": "hc01-en-story9x16",
+      "locale": "en",
+      "format": "story9x16",
+      "photo": {
+        "x": 14.399999999999999,
+        "y": 216.32000000000002,
+        "width": 205.2,
+        "height": 227.16
+      },
+      "texts": [
+        {
+          "field": "date",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 74.84000000000002,
+            "width": 115.19999999999999,
+            "height": 9.719999999999999
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.76,
+            "lineHeight": 8.064,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.608,
+              "lineHeight": 6.4512,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalEdition",
+          "box": {
+            "x": 169.2,
+            "y": 74.84000000000002,
+            "width": 176.4,
+            "height": 9.719999999999999
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.76,
+            "lineHeight": 8.064,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.608,
+              "lineHeight": 6.4512,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalName",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 92.48000000000002,
+            "width": 212.4,
+            "height": 46.44
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 32.04,
+            "lineHeight": 44.855999999999995,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 28.836,
+              "lineHeight": 40.3704,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 25.632,
+              "lineHeight": 35.8848,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 22.427999999999997,
+              "lineHeight": 31.399199999999993,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalMotto",
+          "box": {
+            "x": 237.6,
+            "y": 99.32000000000002,
+            "width": 108.0,
+            "height": 23.4
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 8.64,
+            "lineHeight": 12.095999999999998,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.776000000000001,
+              "lineHeight": 10.886399999999998,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.912000000000001,
+              "lineHeight": 9.6768,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.048,
+              "lineHeight": 8.467199999999998,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalIssue",
+          "box": {
+            "x": 237.6,
+            "y": 127.4,
+            "width": 108.0,
+            "height": 11.16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 4.68,
+            "lineHeight": 6.552,
+            "weight": 400,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.212,
+              "lineHeight": 5.8968,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.2416,
+              "weight": 400,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 4.586399999999999,
+              "weight": 400,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalEnglish",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 140.72000000000003,
+            "width": 331.2,
+            "height": 10.44
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.84,
+            "lineHeight": 9.575999999999999,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.156,
+              "lineHeight": 8.6184,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.472,
+              "lineHeight": 7.660799999999999,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.787999999999999,
+              "lineHeight": 6.703199999999999,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 161.24,
+            "width": 331.2,
+            "height": 27.72
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 17.28,
+            "lineHeight": 24.191999999999997,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 15.552000000000001,
+              "lineHeight": 21.772799999999997,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.824000000000002,
+              "lineHeight": 19.3536,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.096,
+              "lineHeight": 16.934399999999997,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 190.76000000000002,
+            "width": 331.2,
+            "height": 18.36
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 6.4799999999999995,
+            "lineHeight": 9.072,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.832,
+              "lineHeight": 8.1648,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.536,
+              "lineHeight": 6.350399999999999,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalArtLabel",
+          "box": {
+            "x": 230.39999999999998,
+            "y": 216.32000000000002,
+            "width": 115.19999999999999,
+            "height": 10.799999999999999
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.76,
+            "lineHeight": 8.064,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.608,
+              "lineHeight": 6.4512,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtTitle",
+          "box": {
+            "x": 230.39999999999998,
+            "y": 318.20000000000005,
+            "width": 115.19999999999999,
+            "height": 25.919999999999998
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 9.36,
+            "lineHeight": 13.104,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.424,
+              "lineHeight": 11.7936,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.4879999999999995,
+              "lineHeight": 10.4832,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.552,
+              "lineHeight": 9.172799999999999,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalArtNote",
+          "box": {
+            "x": 230.39999999999998,
+            "y": 351.32,
+            "width": 115.19999999999999,
+            "height": 41.76
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 6.84,
+            "lineHeight": 9.575999999999999,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.156,
+              "lineHeight": 8.6184,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.472,
+              "lineHeight": 7.660799999999999,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.787999999999999,
+              "lineHeight": 6.703199999999999,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalQuote",
+          "box": {
+            "x": 230.39999999999998,
+            "y": 401.72,
+            "width": 115.19999999999999,
+            "height": 38.16
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.08,
+            "lineHeight": 14.111999999999998,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.072000000000001,
+              "lineHeight": 12.7008,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.064,
+              "lineHeight": 11.2896,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.055999999999999,
+              "lineHeight": 9.878399999999997,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 447.08,
+            "width": 331.2,
+            "height": 10.44
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.3999999999999995,
+            "lineHeight": 7.56,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.859999999999999,
+              "lineHeight": 6.803999999999999,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.319999999999999,
+              "lineHeight": 6.048,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 5.292,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 467.96,
+            "width": 160.2,
+            "height": 14.04
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 9.0,
+            "lineHeight": 12.6,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.1,
+              "lineHeight": 11.34,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.2,
+              "lineHeight": 10.08,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.3,
+              "lineHeight": 8.819999999999999,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 485.24,
+            "width": 160.2,
+            "height": 61.559999999999995
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 5.76,
+            "lineHeight": 8.064,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.608,
+              "lineHeight": 6.4512,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalHeading2",
+          "box": {
+            "x": 185.4,
+            "y": 467.96,
+            "width": 160.2,
+            "height": 14.04
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 9.0,
+            "lineHeight": 12.6,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8.1,
+              "lineHeight": 11.34,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.2,
+              "lineHeight": 10.08,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.3,
+              "lineHeight": 8.819999999999999,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        },
+        {
+          "field": "journalBody2",
+          "box": {
+            "x": 185.4,
+            "y": 485.24,
+            "width": 160.2,
+            "height": 61.559999999999995
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 5.76,
+            "lineHeight": 8.064,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 5.184,
+              "lineHeight": 7.2576,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.608,
+              "lineHeight": 6.4512,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "journalTail1",
+          "box": {
+            "x": 14.399999999999999,
+            "y": 555.0799999999999,
+            "width": 172.79999999999998,
+            "height": 10.08
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.04,
+            "lineHeight": 7.055999999999999,
+            "weight": 400,
+            "color": "222222"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.5360000000000005,
+              "lineHeight": 6.3504,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 400,
+              "color": "222222"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 4.939199999999999,
+              "weight": 400,
+              "color": "222222"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 207.0,
+            "y": 555.0799999999999,
+            "width": 138.6,
+            "height": 10.08
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.04,
+            "lineHeight": 7.055999999999999,
+            "weight": 900,
+            "color": "A83436"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.5360000000000005,
+              "lineHeight": 6.3504,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.032,
+              "lineHeight": 5.6448,
+              "weight": 900,
+              "color": "A83436"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4,
+              "lineHeight": 4.939199999999999,
+              "weight": 900,
+              "color": "A83436"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 14.399999999999999,
+            "y": 88.52000000000001,
+            "width": 331.2,
+            "height": 0.72
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 14.399999999999999,
+            "y": 155.12,
+            "width": 331.2,
+            "height": 1.08
+          },
+          "color": "A83436"
+        },
+        {
+          "box": {
+            "x": 14.399999999999999,
+            "y": 462.2,
+            "width": 331.2,
+            "height": 0.72
+          },
+          "color": "A83436"
+        }
+      ],
+      "images": [
+        {
+          "box": {
+            "x": 230.39999999999998,
+            "y": 229.64000000000001,
+            "width": 115.19999999999999,
+            "height": 82.08
+          },
+          "visibility": "landmark"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1547 @@
+{
+  "schemaVersion": 1,
+  "background": "FAFBF8",
+  "ink": "263A34",
+  "pages": [
+    {
+      "id": "mu01-zh-Hans-a4",
+      "locale": "zh-Hans",
+      "format": "a4",
+      "photo": {
+        "x": 39.74960629920556,
+        "y": 69.84409448853884,
+        "width": 515.776377952589,
+        "height": 565.4897637793446
+      },
+      "texts": [
+        {
+          "field": "keepsakeSeries",
+          "box": {
+            "x": 55.28503937006667,
+            "y": 657.860236220632,
+            "width": 484.7055118108667,
+            "height": 15.535433070861114
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.321259842516668,
+            "lineHeight": 13.205118110231947,
+            "weight": 400,
+            "color": "49736B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.389133858265001,
+              "lineHeight": 11.884606299208752,
+              "weight": 400,
+              "color": "49736B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.4570078740133345,
+              "lineHeight": 10.564094488185559,
+              "weight": 400,
+              "color": "49736B"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeTitle",
+          "box": {
+            "x": 55.28503937006667,
+            "y": 678.8330708662945,
+            "width": 484.7055118108667,
+            "height": 33.401181102351394
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 23.30314960629167,
+            "lineHeight": 31.847637795265282,
+            "weight": 500,
+            "color": "263A34"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 20.972834645662502,
+              "lineHeight": 28.662874015738755,
+              "weight": 500,
+              "color": "263A34"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18.642519685033335,
+              "lineHeight": 25.478110236212228,
+              "weight": 500,
+              "color": "263A34"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeNote",
+          "box": {
+            "x": 55.28503937006667,
+            "y": 716.1181102363612,
+            "width": 484.7055118108667,
+            "height": 19.419291338576393
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 12.42834645668889,
+            "lineHeight": 17.088976377947226,
+            "weight": 400,
+            "color": "53635E"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 11.185511811020001,
+              "lineHeight": 15.380078740152504,
+              "weight": 400,
+              "color": "53635E"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.942677165351114,
+              "lineHeight": 13.671181102357782,
+              "weight": 400,
+              "color": "53635E"
+            }
+          ],
+          "visibility": "note"
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 55.28503937006667,
+            "y": 739.4212598426527,
+            "width": 484.7055118108667,
+            "height": 15.535433070861114
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.544488188973613,
+            "lineHeight": 11.651574803145834,
+            "weight": 400,
+            "color": "75817B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.690039370076252,
+              "lineHeight": 10.486417322831251,
+              "weight": 400,
+              "color": "75817B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.835590551178891,
+              "lineHeight": 9.321259842516668,
+              "weight": 400,
+              "color": "75817B"
+            }
+          ],
+          "visibility": "date"
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 39.74960629920556,
+            "y": 657.860236220632,
+            "width": 3.1070866141722226,
+            "height": 85.44488188973612
+          },
+          "color": "49736B"
+        }
+      ]
+    },
+    {
+      "id": "mu01-zh-Hans-letter",
+      "locale": "zh-Hans",
+      "format": "letter",
+      "photo": {
+        "x": 44.55,
+        "y": 40.05,
+        "width": 522.9,
+        "height": 573.3
+      },
+      "texts": [
+        {
+          "field": "keepsakeSeries",
+          "box": {
+            "x": 60.3,
+            "y": 636.1875,
+            "width": 491.4,
+            "height": 15.75
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.45,
+            "lineHeight": 13.3875,
+            "weight": 400,
+            "color": "49736B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.504999999999999,
+              "lineHeight": 12.04875,
+              "weight": 400,
+              "color": "49736B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.56,
+              "lineHeight": 10.71,
+              "weight": 400,
+              "color": "49736B"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeTitle",
+          "box": {
+            "x": 60.3,
+            "y": 657.4499999999999,
+            "width": 491.4,
+            "height": 33.8625
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 23.625,
+            "lineHeight": 32.2875,
+            "weight": 500,
+            "color": "263A34"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 21.2625,
+              "lineHeight": 29.058750000000003,
+              "weight": 500,
+              "color": "263A34"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18.900000000000002,
+              "lineHeight": 25.830000000000002,
+              "weight": 500,
+              "color": "263A34"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeNote",
+          "box": {
+            "x": 60.3,
+            "y": 695.25,
+            "width": 491.4,
+            "height": 19.6875
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 12.6,
+            "lineHeight": 17.325,
+            "weight": 400,
+            "color": "53635E"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 11.34,
+              "lineHeight": 15.5925,
+              "weight": 400,
+              "color": "53635E"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 10.08,
+              "lineHeight": 13.86,
+              "weight": 400,
+              "color": "53635E"
+            }
+          ],
+          "visibility": "note"
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 60.3,
+            "y": 718.875,
+            "width": 491.4,
+            "height": 15.75
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.6625,
+            "lineHeight": 11.8125,
+            "weight": 400,
+            "color": "75817B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.79625,
+              "lineHeight": 10.63125,
+              "weight": 400,
+              "color": "75817B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.93,
+              "lineHeight": 9.450000000000001,
+              "weight": 400,
+              "color": "75817B"
+            }
+          ],
+          "visibility": "date"
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 44.55,
+            "y": 636.1875,
+            "width": 3.15,
+            "height": 86.625
+          },
+          "color": "49736B"
+        }
+      ]
+    },
+    {
+      "id": "mu01-zh-Hans-story9x16",
+      "locale": "zh-Hans",
+      "format": "story9x16",
+      "photo": {
+        "x": 14.0,
+        "y": 94.0,
+        "width": 332.0,
+        "height": 364.0
+      },
+      "texts": [
+        {
+          "field": "keepsakeSeries",
+          "box": {
+            "x": 24.0,
+            "y": 472.5,
+            "width": 312.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.0,
+            "lineHeight": 8.5,
+            "weight": 400,
+            "color": "49736B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.4,
+              "lineHeight": 7.65,
+              "weight": 400,
+              "color": "49736B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.800000000000001,
+              "lineHeight": 6.800000000000001,
+              "weight": 400,
+              "color": "49736B"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeTitle",
+          "box": {
+            "x": 24.0,
+            "y": 486.0,
+            "width": 312.0,
+            "height": 21.5
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15.0,
+            "lineHeight": 20.5,
+            "weight": 500,
+            "color": "263A34"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.5,
+              "lineHeight": 18.45,
+              "weight": 500,
+              "color": "263A34"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.0,
+              "lineHeight": 16.400000000000002,
+              "weight": 500,
+              "color": "263A34"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeNote",
+          "box": {
+            "x": 24.0,
+            "y": 510.0,
+            "width": 312.0,
+            "height": 12.5
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.0,
+            "lineHeight": 11.0,
+            "weight": 400,
+            "color": "53635E"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.2,
+              "lineHeight": 9.9,
+              "weight": 400,
+              "color": "53635E"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.4,
+              "lineHeight": 8.8,
+              "weight": 400,
+              "color": "53635E"
+            }
+          ],
+          "visibility": "note"
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 24.0,
+            "y": 525.0,
+            "width": 312.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.5,
+            "lineHeight": 7.5,
+            "weight": 400,
+            "color": "75817B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.95,
+              "lineHeight": 6.75,
+              "weight": 400,
+              "color": "75817B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.4,
+              "lineHeight": 6.0,
+              "weight": 400,
+              "color": "75817B"
+            }
+          ],
+          "visibility": "date"
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 14.0,
+            "y": 472.5,
+            "width": 2.0,
+            "height": 55.0
+          },
+          "color": "49736B"
+        }
+      ]
+    },
+    {
+      "id": "mu01-zh-Hans-cardPortrait3x4",
+      "locale": "zh-Hans",
+      "format": "cardPortrait3x4",
+      "photo": {
+        "x": 14.0,
+        "y": 14.0,
+        "width": 332.0,
+        "height": 364.0
+      },
+      "texts": [
+        {
+          "field": "keepsakeSeries",
+          "box": {
+            "x": 24.0,
+            "y": 392.5,
+            "width": 312.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.0,
+            "lineHeight": 8.5,
+            "weight": 400,
+            "color": "49736B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.4,
+              "lineHeight": 7.65,
+              "weight": 400,
+              "color": "49736B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.800000000000001,
+              "lineHeight": 6.800000000000001,
+              "weight": 400,
+              "color": "49736B"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeTitle",
+          "box": {
+            "x": 24.0,
+            "y": 406.0,
+            "width": 312.0,
+            "height": 21.5
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15.0,
+            "lineHeight": 20.5,
+            "weight": 500,
+            "color": "263A34"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.5,
+              "lineHeight": 18.45,
+              "weight": 500,
+              "color": "263A34"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.0,
+              "lineHeight": 16.400000000000002,
+              "weight": 500,
+              "color": "263A34"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeNote",
+          "box": {
+            "x": 24.0,
+            "y": 430.0,
+            "width": 312.0,
+            "height": 12.5
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.0,
+            "lineHeight": 11.0,
+            "weight": 400,
+            "color": "53635E"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.2,
+              "lineHeight": 9.9,
+              "weight": 400,
+              "color": "53635E"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.4,
+              "lineHeight": 8.8,
+              "weight": 400,
+              "color": "53635E"
+            }
+          ],
+          "visibility": "note"
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 24.0,
+            "y": 445.0,
+            "width": 312.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.5,
+            "lineHeight": 7.5,
+            "weight": 400,
+            "color": "75817B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.95,
+              "lineHeight": 6.75,
+              "weight": 400,
+              "color": "75817B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.4,
+              "lineHeight": 6.0,
+              "weight": 400,
+              "color": "75817B"
+            }
+          ],
+          "visibility": "date"
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 14.0,
+            "y": 392.5,
+            "width": 2.0,
+            "height": 55.0
+          },
+          "color": "49736B"
+        }
+      ]
+    },
+    {
+      "id": "mu01-zh-Hans-cardLandscape4x3",
+      "locale": "zh-Hans",
+      "format": "cardLandscape4x3",
+      "photo": {
+        "x": 14.0,
+        "y": 14.0,
+        "width": 452.0,
+        "height": 255.0
+      },
+      "texts": [
+        {
+          "field": "keepsakeSeries",
+          "box": {
+            "x": 24.0,
+            "y": 280.0,
+            "width": 432.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.0,
+            "lineHeight": 8.5,
+            "weight": 400,
+            "color": "49736B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.4,
+              "lineHeight": 7.65,
+              "weight": 400,
+              "color": "49736B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.800000000000001,
+              "lineHeight": 6.800000000000001,
+              "weight": 400,
+              "color": "49736B"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeTitle",
+          "box": {
+            "x": 24.0,
+            "y": 293.5,
+            "width": 432.0,
+            "height": 21.5
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15.0,
+            "lineHeight": 20.5,
+            "weight": 500,
+            "color": "263A34"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.5,
+              "lineHeight": 18.45,
+              "weight": 500,
+              "color": "263A34"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.0,
+              "lineHeight": 16.400000000000002,
+              "weight": 500,
+              "color": "263A34"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeNote",
+          "box": {
+            "x": 24.0,
+            "y": 317.5,
+            "width": 432.0,
+            "height": 12.5
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.0,
+            "lineHeight": 11.0,
+            "weight": 400,
+            "color": "53635E"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.2,
+              "lineHeight": 9.9,
+              "weight": 400,
+              "color": "53635E"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.4,
+              "lineHeight": 8.8,
+              "weight": 400,
+              "color": "53635E"
+            }
+          ],
+          "visibility": "note"
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 24.0,
+            "y": 332.5,
+            "width": 432.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.5,
+            "lineHeight": 7.5,
+            "weight": 400,
+            "color": "75817B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.95,
+              "lineHeight": 6.75,
+              "weight": 400,
+              "color": "75817B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.4,
+              "lineHeight": 6.0,
+              "weight": 400,
+              "color": "75817B"
+            }
+          ],
+          "visibility": "date"
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 14.0,
+            "y": 280.0,
+            "width": 2.0,
+            "height": 55.0
+          },
+          "color": "49736B"
+        }
+      ]
+    },
+    {
+      "id": "mu01-en-a4",
+      "locale": "en",
+      "format": "a4",
+      "photo": {
+        "x": 39.74960629920556,
+        "y": 69.84409448853884,
+        "width": 515.776377952589,
+        "height": 565.4897637793446
+      },
+      "texts": [
+        {
+          "field": "keepsakeSeries",
+          "box": {
+            "x": 55.28503937006667,
+            "y": 657.860236220632,
+            "width": 484.7055118108667,
+            "height": 15.535433070861114
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.321259842516668,
+            "lineHeight": 13.205118110231947,
+            "weight": 400,
+            "color": "49736B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.389133858265001,
+              "lineHeight": 11.884606299208752,
+              "weight": 400,
+              "color": "49736B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.4570078740133345,
+              "lineHeight": 10.564094488185559,
+              "weight": 400,
+              "color": "49736B"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeTitle",
+          "box": {
+            "x": 55.28503937006667,
+            "y": 678.8330708662945,
+            "width": 484.7055118108667,
+            "height": 33.401181102351394
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 23.30314960629167,
+            "lineHeight": 31.847637795265282,
+            "weight": 500,
+            "color": "263A34"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 20.972834645662502,
+              "lineHeight": 28.662874015738755,
+              "weight": 500,
+              "color": "263A34"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18.642519685033335,
+              "lineHeight": 25.478110236212228,
+              "weight": 500,
+              "color": "263A34"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeNote",
+          "box": {
+            "x": 55.28503937006667,
+            "y": 716.1181102363612,
+            "width": 484.7055118108667,
+            "height": 19.419291338576393
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 12.42834645668889,
+            "lineHeight": 17.088976377947226,
+            "weight": 400,
+            "color": "53635E"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 11.185511811020001,
+              "lineHeight": 15.380078740152504,
+              "weight": 400,
+              "color": "53635E"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9.942677165351114,
+              "lineHeight": 13.671181102357782,
+              "weight": 400,
+              "color": "53635E"
+            }
+          ],
+          "visibility": "note"
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 55.28503937006667,
+            "y": 739.4212598426527,
+            "width": 484.7055118108667,
+            "height": 15.535433070861114
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.544488188973613,
+            "lineHeight": 11.651574803145834,
+            "weight": 400,
+            "color": "75817B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.690039370076252,
+              "lineHeight": 10.486417322831251,
+              "weight": 400,
+              "color": "75817B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.835590551178891,
+              "lineHeight": 9.321259842516668,
+              "weight": 400,
+              "color": "75817B"
+            }
+          ],
+          "visibility": "date"
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 39.74960629920556,
+            "y": 657.860236220632,
+            "width": 3.1070866141722226,
+            "height": 85.44488188973612
+          },
+          "color": "49736B"
+        }
+      ]
+    },
+    {
+      "id": "mu01-en-letter",
+      "locale": "en",
+      "format": "letter",
+      "photo": {
+        "x": 44.55,
+        "y": 40.05,
+        "width": 522.9,
+        "height": 573.3
+      },
+      "texts": [
+        {
+          "field": "keepsakeSeries",
+          "box": {
+            "x": 60.3,
+            "y": 636.1875,
+            "width": 491.4,
+            "height": 15.75
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9.45,
+            "lineHeight": 13.3875,
+            "weight": 400,
+            "color": "49736B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8.504999999999999,
+              "lineHeight": 12.04875,
+              "weight": 400,
+              "color": "49736B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.56,
+              "lineHeight": 10.71,
+              "weight": 400,
+              "color": "49736B"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeTitle",
+          "box": {
+            "x": 60.3,
+            "y": 657.4499999999999,
+            "width": 491.4,
+            "height": 33.8625
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 23.625,
+            "lineHeight": 32.2875,
+            "weight": 500,
+            "color": "263A34"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 21.2625,
+              "lineHeight": 29.058750000000003,
+              "weight": 500,
+              "color": "263A34"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18.900000000000002,
+              "lineHeight": 25.830000000000002,
+              "weight": 500,
+              "color": "263A34"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeNote",
+          "box": {
+            "x": 60.3,
+            "y": 695.25,
+            "width": 491.4,
+            "height": 19.6875
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 12.6,
+            "lineHeight": 17.325,
+            "weight": 400,
+            "color": "53635E"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 11.34,
+              "lineHeight": 15.5925,
+              "weight": 400,
+              "color": "53635E"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 10.08,
+              "lineHeight": 13.86,
+              "weight": 400,
+              "color": "53635E"
+            }
+          ],
+          "visibility": "note"
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 60.3,
+            "y": 718.875,
+            "width": 491.4,
+            "height": 15.75
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.6625,
+            "lineHeight": 11.8125,
+            "weight": 400,
+            "color": "75817B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.79625,
+              "lineHeight": 10.63125,
+              "weight": 400,
+              "color": "75817B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.93,
+              "lineHeight": 9.450000000000001,
+              "weight": 400,
+              "color": "75817B"
+            }
+          ],
+          "visibility": "date"
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 44.55,
+            "y": 636.1875,
+            "width": 3.15,
+            "height": 86.625
+          },
+          "color": "49736B"
+        }
+      ]
+    },
+    {
+      "id": "mu01-en-story9x16",
+      "locale": "en",
+      "format": "story9x16",
+      "photo": {
+        "x": 14.0,
+        "y": 94.0,
+        "width": 332.0,
+        "height": 364.0
+      },
+      "texts": [
+        {
+          "field": "keepsakeSeries",
+          "box": {
+            "x": 24.0,
+            "y": 472.5,
+            "width": 312.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.0,
+            "lineHeight": 8.5,
+            "weight": 400,
+            "color": "49736B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.4,
+              "lineHeight": 7.65,
+              "weight": 400,
+              "color": "49736B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.800000000000001,
+              "lineHeight": 6.800000000000001,
+              "weight": 400,
+              "color": "49736B"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeTitle",
+          "box": {
+            "x": 24.0,
+            "y": 486.0,
+            "width": 312.0,
+            "height": 21.5
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15.0,
+            "lineHeight": 20.5,
+            "weight": 500,
+            "color": "263A34"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.5,
+              "lineHeight": 18.45,
+              "weight": 500,
+              "color": "263A34"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.0,
+              "lineHeight": 16.400000000000002,
+              "weight": 500,
+              "color": "263A34"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeNote",
+          "box": {
+            "x": 24.0,
+            "y": 510.0,
+            "width": 312.0,
+            "height": 12.5
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.0,
+            "lineHeight": 11.0,
+            "weight": 400,
+            "color": "53635E"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.2,
+              "lineHeight": 9.9,
+              "weight": 400,
+              "color": "53635E"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.4,
+              "lineHeight": 8.8,
+              "weight": 400,
+              "color": "53635E"
+            }
+          ],
+          "visibility": "note"
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 24.0,
+            "y": 525.0,
+            "width": 312.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.5,
+            "lineHeight": 7.5,
+            "weight": 400,
+            "color": "75817B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.95,
+              "lineHeight": 6.75,
+              "weight": 400,
+              "color": "75817B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.4,
+              "lineHeight": 6.0,
+              "weight": 400,
+              "color": "75817B"
+            }
+          ],
+          "visibility": "date"
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 14.0,
+            "y": 472.5,
+            "width": 2.0,
+            "height": 55.0
+          },
+          "color": "49736B"
+        }
+      ]
+    },
+    {
+      "id": "mu01-en-cardPortrait3x4",
+      "locale": "en",
+      "format": "cardPortrait3x4",
+      "photo": {
+        "x": 14.0,
+        "y": 14.0,
+        "width": 332.0,
+        "height": 364.0
+      },
+      "texts": [
+        {
+          "field": "keepsakeSeries",
+          "box": {
+            "x": 24.0,
+            "y": 392.5,
+            "width": 312.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.0,
+            "lineHeight": 8.5,
+            "weight": 400,
+            "color": "49736B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.4,
+              "lineHeight": 7.65,
+              "weight": 400,
+              "color": "49736B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.800000000000001,
+              "lineHeight": 6.800000000000001,
+              "weight": 400,
+              "color": "49736B"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeTitle",
+          "box": {
+            "x": 24.0,
+            "y": 406.0,
+            "width": 312.0,
+            "height": 21.5
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15.0,
+            "lineHeight": 20.5,
+            "weight": 500,
+            "color": "263A34"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.5,
+              "lineHeight": 18.45,
+              "weight": 500,
+              "color": "263A34"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.0,
+              "lineHeight": 16.400000000000002,
+              "weight": 500,
+              "color": "263A34"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeNote",
+          "box": {
+            "x": 24.0,
+            "y": 430.0,
+            "width": 312.0,
+            "height": 12.5
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.0,
+            "lineHeight": 11.0,
+            "weight": 400,
+            "color": "53635E"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.2,
+              "lineHeight": 9.9,
+              "weight": 400,
+              "color": "53635E"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.4,
+              "lineHeight": 8.8,
+              "weight": 400,
+              "color": "53635E"
+            }
+          ],
+          "visibility": "note"
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 24.0,
+            "y": 445.0,
+            "width": 312.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.5,
+            "lineHeight": 7.5,
+            "weight": 400,
+            "color": "75817B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.95,
+              "lineHeight": 6.75,
+              "weight": 400,
+              "color": "75817B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.4,
+              "lineHeight": 6.0,
+              "weight": 400,
+              "color": "75817B"
+            }
+          ],
+          "visibility": "date"
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 14.0,
+            "y": 392.5,
+            "width": 2.0,
+            "height": 55.0
+          },
+          "color": "49736B"
+        }
+      ]
+    },
+    {
+      "id": "mu01-en-cardLandscape4x3",
+      "locale": "en",
+      "format": "cardLandscape4x3",
+      "photo": {
+        "x": 14.0,
+        "y": 14.0,
+        "width": 452.0,
+        "height": 255.0
+      },
+      "texts": [
+        {
+          "field": "keepsakeSeries",
+          "box": {
+            "x": 24.0,
+            "y": 280.0,
+            "width": 432.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.0,
+            "lineHeight": 8.5,
+            "weight": 400,
+            "color": "49736B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 5.4,
+              "lineHeight": 7.65,
+              "weight": 400,
+              "color": "49736B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.800000000000001,
+              "lineHeight": 6.800000000000001,
+              "weight": 400,
+              "color": "49736B"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeTitle",
+          "box": {
+            "x": 24.0,
+            "y": 293.5,
+            "width": 432.0,
+            "height": 21.5
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15.0,
+            "lineHeight": 20.5,
+            "weight": 500,
+            "color": "263A34"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 13.5,
+              "lineHeight": 18.45,
+              "weight": 500,
+              "color": "263A34"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12.0,
+              "lineHeight": 16.400000000000002,
+              "weight": 500,
+              "color": "263A34"
+            }
+          ]
+        },
+        {
+          "field": "keepsakeNote",
+          "box": {
+            "x": 24.0,
+            "y": 317.5,
+            "width": 432.0,
+            "height": 12.5
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.0,
+            "lineHeight": 11.0,
+            "weight": 400,
+            "color": "53635E"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7.2,
+              "lineHeight": 9.9,
+              "weight": 400,
+              "color": "53635E"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.4,
+              "lineHeight": 8.8,
+              "weight": 400,
+              "color": "53635E"
+            }
+          ],
+          "visibility": "note"
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 24.0,
+            "y": 332.5,
+            "width": 432.0,
+            "height": 10.0
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 5.5,
+            "lineHeight": 7.5,
+            "weight": 400,
+            "color": "75817B"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.95,
+              "lineHeight": 6.75,
+              "weight": 400,
+              "color": "75817B"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 4.4,
+              "lineHeight": 6.0,
+              "weight": 400,
+              "color": "75817B"
+            }
+          ],
+          "visibility": "date"
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 14.0,
+            "y": 280.0,
+            "width": 2.0,
+            "height": 55.0
+          },
+          "color": "49736B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1703 @@
+{
+  "schemaVersion": 1,
+  "background": "F7F1E4",
+  "ink": "2B2721",
+  "pages": [
+    {
+      "id": "pc-zh-Hans-a4-souvenir-card",
+      "locale": "zh-Hans",
+      "format": "a4",
+      "photo": {
+        "x": 58,
+        "y": 88,
+        "width": 479.27559055100005,
+        "height": 318
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 42,
+            "y": 28,
+            "width": 126,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15,
+            "lineHeight": 19,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 385.27559055100005,
+            "y": 30,
+            "width": 168,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 13,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 58,
+            "y": 418,
+            "width": 479.27559055100005,
+            "height": 28
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 500,
+            "color": "3A3026",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 12,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 42,
+            "y": 492,
+            "width": 511.27559055100005,
+            "height": 76
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 34,
+            "lineHeight": 39,
+            "weight": 800,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 28,
+              "lineHeight": 33,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 23,
+              "lineHeight": 28,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 19,
+              "lineHeight": 23,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 70,
+            "y": 574,
+            "width": 455.27559055100005,
+            "height": 42
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 13,
+            "lineHeight": 18,
+            "weight": 500,
+            "color": "3A3026",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 11,
+              "lineHeight": 15,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9,
+              "lineHeight": 13,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 42,
+            "y": 642,
+            "width": 511.27559055100005,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "A94732",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 12,
+              "weight": 700,
+              "color": "A94732",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 58,
+            "y": 670,
+            "width": 479.27559055100005,
+            "height": 92
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 11,
+            "lineHeight": 16,
+            "weight": 400,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.5,
+              "lineHeight": 13,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8,
+              "lineHeight": 11,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7,
+              "lineHeight": 9.5,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 42,
+            "y": 794,
+            "width": 511.27559055100005,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 500,
+            "color": "C6A06B",
+            "alignment": "center"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 49,
+            "y": 79,
+            "width": 511.27559055100005,
+            "height": 390
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 72,
+            "width": 511.27559055100005,
+            "height": 390
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 56,
+            "y": 86,
+            "width": 483.27559055100005,
+            "height": 322
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 468,
+            "width": 511.27559055100005,
+            "height": 1.2
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 172,
+            "y": 632,
+            "width": 251.27559055100005,
+            "height": 1
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 780,
+            "width": 511.27559055100005,
+            "height": 1
+          },
+          "color": "EFE2CC"
+        }
+      ]
+    },
+    {
+      "id": "pc-zh-Hans-letter-souvenir-card",
+      "locale": "zh-Hans",
+      "format": "letter",
+      "photo": {
+        "x": 58,
+        "y": 80,
+        "width": 496,
+        "height": 294
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 42,
+            "y": 26,
+            "width": 126,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15,
+            "lineHeight": 19,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 402,
+            "y": 28,
+            "width": 168,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 13,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 58,
+            "y": 386,
+            "width": 496,
+            "height": 26
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 500,
+            "color": "3A3026",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 12,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 42,
+            "y": 456,
+            "width": 528,
+            "height": 72
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 32,
+            "lineHeight": 37,
+            "weight": 800,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 27,
+              "lineHeight": 32,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 22,
+              "lineHeight": 27,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18,
+              "lineHeight": 22,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 68,
+            "y": 534,
+            "width": 476,
+            "height": 38
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 12,
+            "lineHeight": 17,
+            "weight": 500,
+            "color": "3A3026",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 10,
+              "lineHeight": 14,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 12,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 42,
+            "y": 596,
+            "width": 528,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "A94732",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 12,
+              "weight": 700,
+              "color": "A94732",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 58,
+            "y": 624,
+            "width": 496,
+            "height": 86
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10.5,
+            "lineHeight": 15,
+            "weight": 400,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9,
+              "lineHeight": 12.5,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.6,
+              "lineHeight": 10.5,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.6,
+              "lineHeight": 9,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 42,
+            "y": 744,
+            "width": 528,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 500,
+            "color": "C6A06B",
+            "alignment": "center"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 49,
+            "y": 71,
+            "width": 528,
+            "height": 362
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 64,
+            "width": 528,
+            "height": 362
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 56,
+            "y": 78,
+            "width": 500,
+            "height": 298
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 438,
+            "width": 528,
+            "height": 1.2
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 172,
+            "y": 586,
+            "width": 268,
+            "height": 1
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 728,
+            "width": 528,
+            "height": 1
+          },
+          "color": "EFE2CC"
+        }
+      ]
+    },
+    {
+      "id": "pc-zh-Hans-story9x16-souvenir-card",
+      "locale": "zh-Hans",
+      "format": "story9x16",
+      "photo": {
+        "x": 36,
+        "y": 46,
+        "width": 288,
+        "height": 300
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 22,
+            "y": 12,
+            "width": 100,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 13,
+            "lineHeight": 16,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 214,
+            "y": 14,
+            "width": 124,
+            "height": 14
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.8,
+            "lineHeight": 11,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 36,
+            "y": 358,
+            "width": 288,
+            "height": 26
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.3,
+            "lineHeight": 12,
+            "weight": 500,
+            "color": "3A3026",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.8,
+              "lineHeight": 10,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 22,
+            "y": 446,
+            "width": 316,
+            "height": 70
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 26,
+            "lineHeight": 31,
+            "weight": 800,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 22,
+              "lineHeight": 26,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18,
+              "lineHeight": 22,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 15,
+              "lineHeight": 18,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 22,
+            "y": 532,
+            "width": 316,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.5,
+            "lineHeight": 12,
+            "weight": 700,
+            "color": "A94732",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7,
+              "lineHeight": 10,
+              "weight": 700,
+              "color": "A94732",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 30,
+            "y": 556,
+            "width": 300,
+            "height": 46
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 8.4,
+            "lineHeight": 11.5,
+            "weight": 400,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.2,
+              "lineHeight": 9.8,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.2,
+              "lineHeight": 8.4,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 22,
+            "y": 616,
+            "width": 316,
+            "height": 12
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.5,
+            "lineHeight": 9,
+            "weight": 500,
+            "color": "C6A06B",
+            "alignment": "center"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 25,
+            "y": 36,
+            "width": 320,
+            "height": 398
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 20,
+            "y": 30,
+            "width": 320,
+            "height": 398
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 44,
+            "width": 292,
+            "height": 304
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 22,
+            "y": 436,
+            "width": 316,
+            "height": 1
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 94,
+            "y": 524,
+            "width": 172,
+            "height": 0.8
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 22,
+            "y": 608,
+            "width": 316,
+            "height": 0.8
+          },
+          "color": "EFE2CC"
+        }
+      ]
+    },
+    {
+      "id": "pc-en-a4-souvenir-card",
+      "locale": "en",
+      "format": "a4",
+      "photo": {
+        "x": 58,
+        "y": 88,
+        "width": 479.27559055100005,
+        "height": 318
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 42,
+            "y": 28,
+            "width": 126,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15,
+            "lineHeight": 19,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 385.27559055100005,
+            "y": 30,
+            "width": 168,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 13,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 58,
+            "y": 418,
+            "width": 479.27559055100005,
+            "height": 28
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 500,
+            "color": "3A3026",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 12,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 42,
+            "y": 492,
+            "width": 511.27559055100005,
+            "height": 76
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 30,
+            "lineHeight": 35,
+            "weight": 800,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 25,
+              "lineHeight": 30,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 21,
+              "lineHeight": 25,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18,
+              "lineHeight": 22,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 70,
+            "y": 574,
+            "width": 455.27559055100005,
+            "height": 42
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 12,
+            "lineHeight": 17,
+            "weight": 500,
+            "color": "3A3026",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 11,
+              "lineHeight": 15,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9,
+              "lineHeight": 13,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 42,
+            "y": 642,
+            "width": 511.27559055100005,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "A94732",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 12,
+              "weight": 700,
+              "color": "A94732",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 58,
+            "y": 670,
+            "width": 479.27559055100005,
+            "height": 92
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 400,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9.5,
+              "lineHeight": 13,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 8,
+              "lineHeight": 11,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7,
+              "lineHeight": 9.5,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 42,
+            "y": 794,
+            "width": 511.27559055100005,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 500,
+            "color": "C6A06B",
+            "alignment": "center"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 49,
+            "y": 79,
+            "width": 511.27559055100005,
+            "height": 390
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 72,
+            "width": 511.27559055100005,
+            "height": 390
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 56,
+            "y": 86,
+            "width": 483.27559055100005,
+            "height": 322
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 468,
+            "width": 511.27559055100005,
+            "height": 1.2
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 172,
+            "y": 632,
+            "width": 251.27559055100005,
+            "height": 1
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 780,
+            "width": 511.27559055100005,
+            "height": 1
+          },
+          "color": "EFE2CC"
+        }
+      ]
+    },
+    {
+      "id": "pc-en-letter-souvenir-card",
+      "locale": "en",
+      "format": "letter",
+      "photo": {
+        "x": 58,
+        "y": 80,
+        "width": 496,
+        "height": 294
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 42,
+            "y": 26,
+            "width": 126,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 15,
+            "lineHeight": 19,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 402,
+            "y": 28,
+            "width": 168,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 13,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 58,
+            "y": 386,
+            "width": 496,
+            "height": 26
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 500,
+            "color": "3A3026",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 12,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 42,
+            "y": 456,
+            "width": 528,
+            "height": 72
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 28,
+            "lineHeight": 33,
+            "weight": 800,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 24,
+              "lineHeight": 29,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 20,
+              "lineHeight": 24,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 18,
+              "lineHeight": 22,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 68,
+            "y": 534,
+            "width": 476,
+            "height": 38
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 11,
+            "lineHeight": 16,
+            "weight": 500,
+            "color": "3A3026",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 10,
+              "lineHeight": 14,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 12,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 42,
+            "y": 596,
+            "width": 528,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "A94732",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 12,
+              "weight": 700,
+              "color": "A94732",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 58,
+            "y": 624,
+            "width": 496,
+            "height": 86
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 9.5,
+            "lineHeight": 13.5,
+            "weight": 400,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 9,
+              "lineHeight": 12.5,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.6,
+              "lineHeight": 10.5,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.6,
+              "lineHeight": 9,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 42,
+            "y": 744,
+            "width": 528,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 500,
+            "color": "C6A06B",
+            "alignment": "center"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 49,
+            "y": 71,
+            "width": 528,
+            "height": 362
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 64,
+            "width": 528,
+            "height": 362
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 56,
+            "y": 78,
+            "width": 500,
+            "height": 298
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 438,
+            "width": 528,
+            "height": 1.2
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 172,
+            "y": 586,
+            "width": 268,
+            "height": 1
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 42,
+            "y": 728,
+            "width": 528,
+            "height": 1
+          },
+          "color": "EFE2CC"
+        }
+      ]
+    },
+    {
+      "id": "pc-en-story9x16-souvenir-card",
+      "locale": "en",
+      "format": "story9x16",
+      "photo": {
+        "x": 36,
+        "y": 46,
+        "width": 288,
+        "height": 300
+      },
+      "texts": [
+        {
+          "field": "brand",
+          "box": {
+            "x": 22,
+            "y": 12,
+            "width": 100,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 13,
+            "lineHeight": 16,
+            "weight": 800,
+            "color": "A94732"
+          }
+        },
+        {
+          "field": "date",
+          "box": {
+            "x": 214,
+            "y": 14,
+            "width": 124,
+            "height": 14
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.8,
+            "lineHeight": 11,
+            "weight": 600,
+            "color": "3A3026",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 36,
+            "y": 358,
+            "width": 288,
+            "height": 26
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.3,
+            "lineHeight": 12,
+            "weight": 500,
+            "color": "3A3026",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.8,
+              "lineHeight": 10,
+              "weight": 500,
+              "color": "3A3026",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 22,
+            "y": 446,
+            "width": 316,
+            "height": 70
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 23,
+            "lineHeight": 28,
+            "weight": 800,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 20,
+              "lineHeight": 24,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 17,
+              "lineHeight": 21,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 15,
+              "lineHeight": 18,
+              "weight": 800,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 22,
+            "y": 532,
+            "width": 316,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8.5,
+            "lineHeight": 12,
+            "weight": 700,
+            "color": "A94732",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7,
+              "lineHeight": 10,
+              "weight": 700,
+              "color": "A94732",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 30,
+            "y": 556,
+            "width": 300,
+            "height": 46
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 7.8,
+            "lineHeight": 10.6,
+            "weight": 400,
+            "color": "2B2721",
+            "alignment": "center"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 7.2,
+              "lineHeight": 9.8,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 6.2,
+              "lineHeight": 8.4,
+              "weight": 400,
+              "color": "2B2721",
+              "alignment": "center"
+            }
+          ]
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 22,
+            "y": 616,
+            "width": 316,
+            "height": 12
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.5,
+            "lineHeight": 9,
+            "weight": 500,
+            "color": "C6A06B",
+            "alignment": "center"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 25,
+            "y": 36,
+            "width": 320,
+            "height": 398
+          },
+          "color": "DDD2BE",
+          "strokeWidth": 1.0
+        },
+        {
+          "box": {
+            "x": 20,
+            "y": 30,
+            "width": 320,
+            "height": 398
+          },
+          "color": "FFFCF4",
+          "strokeWidth": 1.4
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 44,
+            "width": 292,
+            "height": 304
+          },
+          "color": "F7F1E4",
+          "strokeWidth": 2.0
+        },
+        {
+          "box": {
+            "x": 22,
+            "y": 436,
+            "width": 316,
+            "height": 1
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 94,
+            "y": 524,
+            "width": 172,
+            "height": 0.8
+          },
+          "color": "C6A06B"
+        },
+        {
+          "box": {
+            "x": 22,
+            "y": 608,
+            "width": 316,
+            "height": 0.8
+          },
+          "color": "EFE2CC"
+        }
+      ]
+    }
+  ]
+}

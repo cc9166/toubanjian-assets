@@ -1,0 +1,2455 @@
+{
+  "schemaVersion": 1,
+  "background": "FAFAF7",
+  "ink": "222222",
+  "pages": [
+    {
+      "id": "tk-zh-Hans-a4-standard",
+      "locale": "zh-Hans",
+      "format": "a4",
+      "photo": {
+        "x": 151,
+        "y": 214,
+        "width": 410.27559055100005,
+        "height": 300
+      },
+      "texts": [
+        {
+          "field": "section.ticketMeta",
+          "box": {
+            "x": 34,
+            "y": 28,
+            "width": 527.275590551,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketName",
+          "box": {
+            "x": 34,
+            "y": 50,
+            "width": 370,
+            "height": 46
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 32,
+            "lineHeight": 44,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "brand",
+          "box": {
+            "x": 426.27559055100005,
+            "y": 55,
+            "width": 135,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "section.ticketPurpose",
+          "box": {
+            "x": 426.27559055100005,
+            "y": 72,
+            "width": 135,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 34,
+            "y": 110,
+            "width": 527.275590551,
+            "height": 76
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 28,
+            "lineHeight": 36,
+            "weight": 700
+          }
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 34,
+            "y": 188,
+            "width": 527.275590551,
+            "height": 23
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 11,
+            "lineHeight": 16,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketRegion",
+          "box": {
+            "x": 46,
+            "y": 226,
+            "width": 93,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "dateStamp",
+          "box": {
+            "x": 46,
+            "y": 259,
+            "width": 93,
+            "height": 96
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 44,
+            "lineHeight": 46,
+            "weight": 700,
+            "color": "F9D63B"
+          }
+        },
+        {
+          "field": "dateYearLabel",
+          "box": {
+            "x": 46,
+            "y": 365,
+            "width": 93,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.5,
+            "lineHeight": 13,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "section.ticketPlace",
+          "box": {
+            "x": 46,
+            "y": 433,
+            "width": 93,
+            "height": 29
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 18,
+            "lineHeight": 26,
+            "weight": 700,
+            "color": "FAFAF7"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12,
+              "lineHeight": 13,
+              "weight": 700,
+              "color": "FAFAF7"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10,
+              "lineHeight": 13,
+              "weight": 700,
+              "color": "FAFAF7"
+            }
+          ]
+        },
+        {
+          "field": "section.ticketHint",
+          "box": {
+            "x": 46,
+            "y": 466,
+            "width": 93,
+            "height": 30
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 14,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 34,
+            "y": 521,
+            "width": 527.275590551,
+            "height": 15
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "storyHeading",
+          "box": {
+            "x": 34,
+            "y": 550,
+            "width": 255.63779527550003,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14,
+            "lineHeight": 22,
+            "weight": 700
+          }
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 305.6377952755,
+            "y": 550,
+            "width": 255.63779527550003,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14,
+            "lineHeight": 22,
+            "weight": 700
+          }
+        },
+        {
+          "field": "story",
+          "box": {
+            "x": 34,
+            "y": 578,
+            "width": 255.63779527550003,
+            "height": 120
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 12,
+            "lineHeight": 17,
+            "weight": 400
+          }
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 305.6377952755,
+            "y": 578,
+            "width": 255.63779527550003,
+            "height": 120
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 12,
+            "lineHeight": 17,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketKeep",
+          "box": {
+            "x": 46,
+            "y": 730,
+            "width": 503.27559055100005,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "place",
+          "box": {
+            "x": 46,
+            "y": 750,
+            "width": 333.27559055100005,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 15,
+            "lineHeight": 24,
+            "weight": 700
+          }
+        },
+        {
+          "field": "dateLong",
+          "box": {
+            "x": 389.27559055100005,
+            "y": 750,
+            "width": 160,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 15,
+            "lineHeight": 24,
+            "weight": 700,
+            "color": "245B4B",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 46,
+            "y": 777,
+            "width": 503.27559055100005,
+            "height": 23
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "sources",
+          "box": {
+            "x": 34,
+            "y": 817,
+            "width": 527.275590551,
+            "height": 13
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7,
+            "lineHeight": 12,
+            "weight": 400
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 34,
+            "y": 100,
+            "width": 527.275590551,
+            "height": 1.5
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 214,
+            "width": 117,
+            "height": 300
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 46,
+            "y": 428,
+            "width": 93,
+            "height": 0.6
+          },
+          "color": "9BBAAF"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 541,
+            "width": 527.275590551,
+            "height": 0.8
+          },
+          "color": "222222"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 722,
+            "width": 527.275590551,
+            "height": 90
+          },
+          "color": "245B4B",
+          "strokeWidth": 1,
+          "dash": [
+            4,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tk-zh-Hans-letter-standard",
+      "locale": "zh-Hans",
+      "format": "letter",
+      "photo": {
+        "x": 151,
+        "y": 214,
+        "width": 427,
+        "height": 224
+      },
+      "texts": [
+        {
+          "field": "section.ticketMeta",
+          "box": {
+            "x": 34,
+            "y": 28,
+            "width": 544,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketName",
+          "box": {
+            "x": 34,
+            "y": 50,
+            "width": 370,
+            "height": 46
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 32,
+            "lineHeight": 44,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "brand",
+          "box": {
+            "x": 443,
+            "y": 55,
+            "width": 135,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "section.ticketPurpose",
+          "box": {
+            "x": 443,
+            "y": 72,
+            "width": 135,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 34,
+            "y": 110,
+            "width": 544,
+            "height": 76
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 28,
+            "lineHeight": 36,
+            "weight": 700
+          }
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 34,
+            "y": 188,
+            "width": 544,
+            "height": 23
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 11,
+            "lineHeight": 16,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketRegion",
+          "box": {
+            "x": 46,
+            "y": 226,
+            "width": 93,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "dateStamp",
+          "box": {
+            "x": 46,
+            "y": 254,
+            "width": 93,
+            "height": 84
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 36,
+            "lineHeight": 40,
+            "weight": 700,
+            "color": "F9D63B"
+          }
+        },
+        {
+          "field": "dateYearLabel",
+          "box": {
+            "x": 46,
+            "y": 343,
+            "width": 93,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.5,
+            "lineHeight": 13,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "section.ticketPlace",
+          "box": {
+            "x": 46,
+            "y": 375,
+            "width": 93,
+            "height": 29
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 18,
+            "lineHeight": 26,
+            "weight": 700,
+            "color": "FAFAF7"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 12,
+              "lineHeight": 13,
+              "weight": 700,
+              "color": "FAFAF7"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10,
+              "lineHeight": 13,
+              "weight": 700,
+              "color": "FAFAF7"
+            }
+          ]
+        },
+        {
+          "field": "section.ticketHint",
+          "box": {
+            "x": 46,
+            "y": 407,
+            "width": 93,
+            "height": 26
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 34,
+            "y": 445,
+            "width": 544,
+            "height": 15
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "storyHeading",
+          "box": {
+            "x": 34,
+            "y": 474,
+            "width": 264.0,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14,
+            "lineHeight": 22,
+            "weight": 700
+          }
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 314.0,
+            "y": 474,
+            "width": 264.0,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14,
+            "lineHeight": 22,
+            "weight": 700
+          }
+        },
+        {
+          "field": "story",
+          "box": {
+            "x": 34,
+            "y": 502,
+            "width": 264.0,
+            "height": 136
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 12,
+            "lineHeight": 17,
+            "weight": 400
+          }
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 314.0,
+            "y": 502,
+            "width": 264.0,
+            "height": 136
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 12,
+            "lineHeight": 17,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketKeep",
+          "box": {
+            "x": 46,
+            "y": 670,
+            "width": 520,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "place",
+          "box": {
+            "x": 46,
+            "y": 690,
+            "width": 350,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 15,
+            "lineHeight": 24,
+            "weight": 700
+          }
+        },
+        {
+          "field": "dateLong",
+          "box": {
+            "x": 406,
+            "y": 690,
+            "width": 160,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 15,
+            "lineHeight": 24,
+            "weight": 700,
+            "color": "245B4B",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 46,
+            "y": 717,
+            "width": 520,
+            "height": 23
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "sources",
+          "box": {
+            "x": 34,
+            "y": 757,
+            "width": 544,
+            "height": 13
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7,
+            "lineHeight": 12,
+            "weight": 400
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 34,
+            "y": 100,
+            "width": 544,
+            "height": 1.5
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 214,
+            "width": 117,
+            "height": 224
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 46,
+            "y": 370,
+            "width": 93,
+            "height": 0.6
+          },
+          "color": "9BBAAF"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 465,
+            "width": 544,
+            "height": 0.8
+          },
+          "color": "222222"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 662,
+            "width": 544,
+            "height": 90
+          },
+          "color": "245B4B",
+          "strokeWidth": 1,
+          "dash": [
+            4,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tk-zh-Hans-story9x16-standard",
+      "locale": "zh-Hans",
+      "format": "story9x16",
+      "photo": {
+        "x": 102,
+        "y": 186,
+        "width": 238,
+        "height": 190
+      },
+      "texts": [
+        {
+          "field": "section.ticketMeta",
+          "box": {
+            "x": 20,
+            "y": 18,
+            "width": 320,
+            "height": 14
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketName",
+          "box": {
+            "x": 20,
+            "y": 36,
+            "width": 235,
+            "height": 33
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 22,
+            "lineHeight": 32,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "brand",
+          "box": {
+            "x": 265,
+            "y": 42,
+            "width": 75,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 16,
+            "weight": 700,
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 20,
+            "y": 82,
+            "width": 320,
+            "height": 62
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 22,
+            "lineHeight": 30,
+            "weight": 700
+          }
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 20,
+            "y": 150,
+            "width": 320,
+            "height": 30
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketRegion",
+          "box": {
+            "x": 30,
+            "y": 198,
+            "width": 62,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7,
+            "lineHeight": 12,
+            "weight": 700,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "dateStamp",
+          "box": {
+            "x": 30,
+            "y": 222,
+            "width": 62,
+            "height": 68
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 28,
+            "lineHeight": 32,
+            "weight": 700,
+            "color": "F9D63B"
+          }
+        },
+        {
+          "field": "dateYearLabel",
+          "box": {
+            "x": 30,
+            "y": 294,
+            "width": 62,
+            "height": 22
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.5,
+            "lineHeight": 10,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "section.ticketPlace",
+          "box": {
+            "x": 30,
+            "y": 331,
+            "width": 62,
+            "height": 22
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 14,
+            "lineHeight": 18,
+            "weight": 700,
+            "color": "FAFAF7"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 11,
+              "lineHeight": 11,
+              "weight": 700,
+              "color": "FAFAF7"
+            },
+            {
+              "font": "NotoSerifSC.ttf",
+              "size": 10,
+              "lineHeight": 11,
+              "weight": 700,
+              "color": "FAFAF7"
+            }
+          ]
+        },
+        {
+          "field": "section.ticketHint",
+          "box": {
+            "x": 30,
+            "y": 354,
+            "width": 62,
+            "height": 22
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.5,
+            "lineHeight": 10,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 20,
+            "y": 383,
+            "width": 320,
+            "height": 15
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 400
+          }
+        },
+        {
+          "field": "storyHeading",
+          "box": {
+            "x": 20,
+            "y": 410,
+            "width": 320,
+            "height": 22
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 12,
+            "lineHeight": 18,
+            "weight": 700
+          }
+        },
+        {
+          "field": "story",
+          "box": {
+            "x": 20,
+            "y": 434,
+            "width": 320,
+            "height": 38
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 12,
+            "lineHeight": 18,
+            "weight": 400
+          }
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 20,
+            "y": 475,
+            "width": 320,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 12,
+            "lineHeight": 18,
+            "weight": 700
+          }
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 20,
+            "y": 497,
+            "width": 320,
+            "height": 40
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 12,
+            "lineHeight": 18,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketKeep",
+          "box": {
+            "x": 30,
+            "y": 554,
+            "width": 300,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.5,
+            "lineHeight": 12,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "place",
+          "box": {
+            "x": 30,
+            "y": 574,
+            "width": 186,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 11,
+            "lineHeight": 20,
+            "weight": 700
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 10,
+              "lineHeight": 11,
+              "weight": 700
+            }
+          ]
+        },
+        {
+          "field": "dateLong",
+          "box": {
+            "x": 226,
+            "y": 574,
+            "width": 104,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 20,
+            "weight": 700,
+            "color": "245B4B",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 30,
+            "y": 601,
+            "width": 300,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSerifSC.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 400
+          }
+        },
+        {
+          "field": "sources",
+          "box": {
+            "x": 20,
+            "y": 627,
+            "width": 320,
+            "height": 13
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6,
+            "lineHeight": 10,
+            "weight": 400
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 20,
+            "y": 74,
+            "width": 320,
+            "height": 1.2
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 20,
+            "y": 186,
+            "width": 82,
+            "height": 190
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 30,
+            "y": 326,
+            "width": 62,
+            "height": 0.6
+          },
+          "color": "9BBAAF"
+        },
+        {
+          "box": {
+            "x": 20,
+            "y": 403,
+            "width": 320,
+            "height": 0.8
+          },
+          "color": "222222"
+        },
+        {
+          "box": {
+            "x": 20,
+            "y": 546,
+            "width": 320,
+            "height": 76
+          },
+          "color": "245B4B",
+          "strokeWidth": 1,
+          "dash": [
+            4,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tk-en-a4-standard",
+      "locale": "en",
+      "format": "a4",
+      "photo": {
+        "x": 151,
+        "y": 214,
+        "width": 410.27559055100005,
+        "height": 266
+      },
+      "texts": [
+        {
+          "field": "section.ticketMeta",
+          "box": {
+            "x": 34,
+            "y": 28,
+            "width": 527.275590551,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketName",
+          "box": {
+            "x": 34,
+            "y": 50,
+            "width": 370,
+            "height": 46
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 24,
+            "lineHeight": 44,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "brand",
+          "box": {
+            "x": 426.27559055100005,
+            "y": 55,
+            "width": 135,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "section.ticketPurpose",
+          "box": {
+            "x": 426.27559055100005,
+            "y": 72,
+            "width": 135,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 34,
+            "y": 110,
+            "width": 527.275590551,
+            "height": 76
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 28,
+            "lineHeight": 36,
+            "weight": 700
+          }
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 34,
+            "y": 188,
+            "width": 527.275590551,
+            "height": 23
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 11,
+            "lineHeight": 16,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketRegion",
+          "box": {
+            "x": 46,
+            "y": 226,
+            "width": 93,
+            "height": 30
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "dateStamp",
+          "box": {
+            "x": 46,
+            "y": 259,
+            "width": 93,
+            "height": 84
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 36,
+            "lineHeight": 40,
+            "weight": 700,
+            "color": "F9D63B"
+          }
+        },
+        {
+          "field": "dateYearLabel",
+          "box": {
+            "x": 46,
+            "y": 365,
+            "width": 93,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.5,
+            "lineHeight": 13,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "section.ticketPlace",
+          "box": {
+            "x": 46,
+            "y": 399,
+            "width": 93,
+            "height": 29
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 26,
+            "weight": 700,
+            "color": "FAFAF7"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9,
+              "lineHeight": 12,
+              "weight": 700,
+              "color": "FAFAF7"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 10,
+              "weight": 700,
+              "color": "FAFAF7"
+            }
+          ]
+        },
+        {
+          "field": "section.ticketHint",
+          "box": {
+            "x": 46,
+            "y": 432,
+            "width": 93,
+            "height": 30
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 14,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 34,
+            "y": 487,
+            "width": 527.275590551,
+            "height": 15
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "storyHeading",
+          "box": {
+            "x": 34,
+            "y": 516,
+            "width": 255.63779527550003,
+            "height": 24
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 12,
+            "lineHeight": 22,
+            "weight": 700
+          }
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 305.6377952755,
+            "y": 516,
+            "width": 255.63779527550003,
+            "height": 24
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 12,
+            "lineHeight": 22,
+            "weight": 700
+          }
+        },
+        {
+          "field": "story",
+          "box": {
+            "x": 34,
+            "y": 544,
+            "width": 255.63779527550003,
+            "height": 154
+          },
+          "style": {
+            "font": "SourceSerif4.ttf",
+            "size": 12,
+            "lineHeight": 17,
+            "weight": 400
+          }
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 305.6377952755,
+            "y": 544,
+            "width": 255.63779527550003,
+            "height": 154
+          },
+          "style": {
+            "font": "SourceSerif4.ttf",
+            "size": 12,
+            "lineHeight": 17,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketKeep",
+          "box": {
+            "x": 46,
+            "y": 730,
+            "width": 503.27559055100005,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "place",
+          "box": {
+            "x": 46,
+            "y": 750,
+            "width": 333.27559055100005,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 24,
+            "weight": 700
+          }
+        },
+        {
+          "field": "dateLong",
+          "box": {
+            "x": 389.27559055100005,
+            "y": 750,
+            "width": 160,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 15,
+            "lineHeight": 24,
+            "weight": 700,
+            "color": "245B4B",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 46,
+            "y": 777,
+            "width": 503.27559055100005,
+            "height": 23
+          },
+          "style": {
+            "font": "SourceSerif4.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "sources",
+          "box": {
+            "x": 34,
+            "y": 817,
+            "width": 527.275590551,
+            "height": 13
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7,
+            "lineHeight": 12,
+            "weight": 400
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 34,
+            "y": 100,
+            "width": 527.275590551,
+            "height": 1.5
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 214,
+            "width": 117,
+            "height": 266
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 46,
+            "y": 394,
+            "width": 93,
+            "height": 0.6
+          },
+          "color": "9BBAAF"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 507,
+            "width": 527.275590551,
+            "height": 0.8
+          },
+          "color": "222222"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 722,
+            "width": 527.275590551,
+            "height": 90
+          },
+          "color": "245B4B",
+          "strokeWidth": 1,
+          "dash": [
+            4,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tk-en-letter-standard",
+      "locale": "en",
+      "format": "letter",
+      "photo": {
+        "x": 151,
+        "y": 214,
+        "width": 427,
+        "height": 200
+      },
+      "texts": [
+        {
+          "field": "section.ticketMeta",
+          "box": {
+            "x": 34,
+            "y": 28,
+            "width": 544,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketName",
+          "box": {
+            "x": 34,
+            "y": 50,
+            "width": 370,
+            "height": 46
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 24,
+            "lineHeight": 44,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "brand",
+          "box": {
+            "x": 443,
+            "y": 55,
+            "width": 135,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "section.ticketPurpose",
+          "box": {
+            "x": 443,
+            "y": 72,
+            "width": 135,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 34,
+            "y": 110,
+            "width": 544,
+            "height": 76
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 28,
+            "lineHeight": 36,
+            "weight": 700
+          }
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 34,
+            "y": 188,
+            "width": 544,
+            "height": 23
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 11,
+            "lineHeight": 16,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketRegion",
+          "box": {
+            "x": 46,
+            "y": 226,
+            "width": 93,
+            "height": 30
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "dateStamp",
+          "box": {
+            "x": 46,
+            "y": 262,
+            "width": 93,
+            "height": 76
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 32,
+            "lineHeight": 36,
+            "weight": 700,
+            "color": "F9D63B"
+          }
+        },
+        {
+          "field": "dateYearLabel",
+          "box": {
+            "x": 46,
+            "y": 340,
+            "width": 93,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.5,
+            "lineHeight": 13,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "section.ticketPlace",
+          "box": {
+            "x": 46,
+            "y": 365,
+            "width": 93,
+            "height": 20
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 18,
+            "weight": 700,
+            "color": "FAFAF7"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9,
+              "lineHeight": 12,
+              "weight": 700,
+              "color": "FAFAF7"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 8,
+              "lineHeight": 10,
+              "weight": 700,
+              "color": "FAFAF7"
+            }
+          ]
+        },
+        {
+          "field": "section.ticketHint",
+          "box": {
+            "x": 46,
+            "y": 386,
+            "width": 93,
+            "height": 26
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 34,
+            "y": 421,
+            "width": 544,
+            "height": 15
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "storyHeading",
+          "box": {
+            "x": 34,
+            "y": 450,
+            "width": 264.0,
+            "height": 24
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 12,
+            "lineHeight": 22,
+            "weight": 700
+          }
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 314.0,
+            "y": 450,
+            "width": 264.0,
+            "height": 24
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 12,
+            "lineHeight": 22,
+            "weight": 700
+          }
+        },
+        {
+          "field": "story",
+          "box": {
+            "x": 34,
+            "y": 478,
+            "width": 264.0,
+            "height": 180
+          },
+          "style": {
+            "font": "SourceSerif4.ttf",
+            "size": 12,
+            "lineHeight": 17,
+            "weight": 400
+          }
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 314.0,
+            "y": 478,
+            "width": 264.0,
+            "height": 180
+          },
+          "style": {
+            "font": "SourceSerif4.ttf",
+            "size": 12,
+            "lineHeight": 17,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketKeep",
+          "box": {
+            "x": 46,
+            "y": 678,
+            "width": 520,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 14,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "place",
+          "box": {
+            "x": 46,
+            "y": 698,
+            "width": 350,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 24,
+            "weight": 700
+          }
+        },
+        {
+          "field": "dateLong",
+          "box": {
+            "x": 406,
+            "y": 698,
+            "width": 160,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 15,
+            "lineHeight": 24,
+            "weight": 700,
+            "color": "245B4B",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 46,
+            "y": 725,
+            "width": 520,
+            "height": 23
+          },
+          "style": {
+            "font": "SourceSerif4.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "sources",
+          "box": {
+            "x": 34,
+            "y": 765,
+            "width": 544,
+            "height": 13
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7,
+            "lineHeight": 12,
+            "weight": 400
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 34,
+            "y": 100,
+            "width": 544,
+            "height": 1.5
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 214,
+            "width": 117,
+            "height": 200
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 46,
+            "y": 360,
+            "width": 93,
+            "height": 0.6
+          },
+          "color": "9BBAAF"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 441,
+            "width": 544,
+            "height": 0.8
+          },
+          "color": "222222"
+        },
+        {
+          "box": {
+            "x": 34,
+            "y": 670,
+            "width": 544,
+            "height": 90
+          },
+          "color": "245B4B",
+          "strokeWidth": 1,
+          "dash": [
+            4,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tk-en-story9x16-standard",
+      "locale": "en",
+      "format": "story9x16",
+      "photo": {
+        "x": 102,
+        "y": 170,
+        "width": 238,
+        "height": 168
+      },
+      "texts": [
+        {
+          "field": "section.ticketMeta",
+          "box": {
+            "x": 20,
+            "y": 18,
+            "width": 320,
+            "height": 14
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketName",
+          "box": {
+            "x": 20,
+            "y": 36,
+            "width": 235,
+            "height": 33
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 15,
+            "lineHeight": 32,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "brand",
+          "box": {
+            "x": 265,
+            "y": 42,
+            "width": 75,
+            "height": 18
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 16,
+            "weight": 700,
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "title",
+          "box": {
+            "x": 20,
+            "y": 82,
+            "width": 320,
+            "height": 48
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 20,
+            "lineHeight": 24,
+            "weight": 700
+          },
+          "alternatives": [
+            {
+              "font": "LibreBaskerville.ttf",
+              "size": 19,
+              "lineHeight": 22,
+              "weight": 700
+            },
+            {
+              "font": "LibreBaskerville.ttf",
+              "size": 18,
+              "lineHeight": 22,
+              "weight": 700
+            }
+          ]
+        },
+        {
+          "field": "subtitle",
+          "box": {
+            "x": 20,
+            "y": 132,
+            "width": 320,
+            "height": 30
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 14,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketRegion",
+          "box": {
+            "x": 30,
+            "y": 182,
+            "width": 62,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7,
+            "lineHeight": 12,
+            "weight": 700,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "dateStamp",
+          "box": {
+            "x": 30,
+            "y": 206,
+            "width": 62,
+            "height": 56
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 22,
+            "lineHeight": 26,
+            "weight": 700,
+            "color": "F9D63B"
+          }
+        },
+        {
+          "field": "dateYearLabel",
+          "box": {
+            "x": 30,
+            "y": 264,
+            "width": 62,
+            "height": 22
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.5,
+            "lineHeight": 10,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "section.ticketPlace",
+          "box": {
+            "x": 30,
+            "y": 293,
+            "width": 62,
+            "height": 22
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7,
+            "lineHeight": 18,
+            "weight": 700,
+            "color": "FAFAF7"
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 7,
+              "lineHeight": 10,
+              "weight": 700,
+              "color": "FAFAF7"
+            },
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 6.5,
+              "lineHeight": 10,
+              "weight": 700,
+              "color": "FAFAF7"
+            }
+          ]
+        },
+        {
+          "field": "section.ticketHint",
+          "box": {
+            "x": 30,
+            "y": 316,
+            "width": 62,
+            "height": 22
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6.5,
+            "lineHeight": 10,
+            "weight": 400,
+            "color": "FAFAF7"
+          }
+        },
+        {
+          "field": "caption",
+          "box": {
+            "x": 20,
+            "y": 345,
+            "width": 320,
+            "height": 15
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 400
+          }
+        },
+        {
+          "field": "storyHeading",
+          "box": {
+            "x": 20,
+            "y": 372,
+            "width": 320,
+            "height": 22
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 11,
+            "lineHeight": 18,
+            "weight": 700
+          }
+        },
+        {
+          "field": "story",
+          "box": {
+            "x": 20,
+            "y": 396,
+            "width": 320,
+            "height": 44
+          },
+          "style": {
+            "font": "SourceSerif4.ttf",
+            "size": 11,
+            "lineHeight": 16,
+            "weight": 400
+          },
+          "alternatives": [
+            {
+              "font": "SourceSerif4.ttf",
+              "size": 11,
+              "lineHeight": 14,
+              "weight": 400
+            }
+          ]
+        },
+        {
+          "field": "noteHeading",
+          "box": {
+            "x": 20,
+            "y": 445,
+            "width": 320,
+            "height": 20
+          },
+          "style": {
+            "font": "LibreBaskerville.ttf",
+            "size": 11,
+            "lineHeight": 18,
+            "weight": 700
+          }
+        },
+        {
+          "field": "note",
+          "box": {
+            "x": 20,
+            "y": 467,
+            "width": 320,
+            "height": 70
+          },
+          "style": {
+            "font": "SourceSerif4.ttf",
+            "size": 11,
+            "lineHeight": 16,
+            "weight": 400
+          }
+        },
+        {
+          "field": "section.ticketKeep",
+          "box": {
+            "x": 30,
+            "y": 554,
+            "width": 300,
+            "height": 16
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 7.5,
+            "lineHeight": 12,
+            "weight": 700,
+            "color": "245B4B"
+          }
+        },
+        {
+          "field": "place",
+          "box": {
+            "x": 30,
+            "y": 574,
+            "width": 186,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 9,
+            "lineHeight": 20,
+            "weight": 700
+          },
+          "alternatives": [
+            {
+              "font": "NotoSansSC.ttf",
+              "size": 9,
+              "lineHeight": 11,
+              "weight": 700
+            }
+          ]
+        },
+        {
+          "field": "dateLong",
+          "box": {
+            "x": 226,
+            "y": 574,
+            "width": 104,
+            "height": 24
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 10,
+            "lineHeight": 20,
+            "weight": 700,
+            "color": "245B4B",
+            "alignment": "right"
+          }
+        },
+        {
+          "field": "footer",
+          "box": {
+            "x": 30,
+            "y": 601,
+            "width": 300,
+            "height": 18
+          },
+          "style": {
+            "font": "SourceSerif4.ttf",
+            "size": 8,
+            "lineHeight": 12,
+            "weight": 400
+          }
+        },
+        {
+          "field": "sources",
+          "box": {
+            "x": 20,
+            "y": 627,
+            "width": 320,
+            "height": 13
+          },
+          "style": {
+            "font": "NotoSansSC.ttf",
+            "size": 6,
+            "lineHeight": 10,
+            "weight": 400
+          }
+        }
+      ],
+      "rules": [
+        {
+          "box": {
+            "x": 20,
+            "y": 74,
+            "width": 320,
+            "height": 1.2
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 20,
+            "y": 170,
+            "width": 82,
+            "height": 168
+          },
+          "color": "245B4B"
+        },
+        {
+          "box": {
+            "x": 30,
+            "y": 288,
+            "width": 62,
+            "height": 0.6
+          },
+          "color": "9BBAAF"
+        },
+        {
+          "box": {
+            "x": 20,
+            "y": 365,
+            "width": 320,
+            "height": 0.8
+          },
+          "color": "222222"
+        },
+        {
+          "box": {
+            "x": 20,
+            "y": 546,
+            "width": 320,
+            "height": 76
+          },
+          "color": "245B4B",
+          "strokeWidth": 1,
+          "dash": [
+            4,
+            3
+          ]
+        }
+      ]
+    }
+  ]
+}
