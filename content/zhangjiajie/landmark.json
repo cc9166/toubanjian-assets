@@ -1,16 +1,138 @@
 {
-  "id": "cn-zhangjiajie-wulingyuan",
-  "zh": "张家界·武陵源",
-  "en": "Zhangjiajie · Wulingyuan",
-  "countryZH": "中国",
-  "countryEN": "China",
-  "cityZH": "张家界",
   "cityEN": "Zhangjiajie",
+  "cityZH": "张家界",
+  "countryEN": "China",
+  "countryZH": "中国",
+  "editionPlaceID": "zhangjiajie",
+  "en": "Zhangjiajie · Wulingyuan",
+  "featured": true,
+  "id": "cn-zhangjiajie-wulingyuan",
+  "imageName": "lm_zhangjiajie",
   "latitude": 29.33333,
   "longitude": 110.5,
+  "previewImageName": "lm_zhangjiajie",
   "rankInCity": 1,
-  "featured": true,
-  "editionPlaceID": "zhangjiajie",
-  "imageName": "lm_zhangjiajie",
-  "previewImageName": "lm_zhangjiajie"
+  "zh": "张家界·武陵源",
+  "localizations": {
+    "zh-Hans": {
+      "name": "张家界·武陵源",
+      "country": "中国",
+      "city": "张家界",
+      "introduction": "武陵源位于湖南，以砂岩峰柱、深谷与林木交织的山地景观闻名。1992 年，武陵源风景名胜区被列入《世界遗产名录》。"
+    },
+    "en": {
+      "name": "Zhangjiajie · Wulingyuan",
+      "country": "China",
+      "city": "Zhangjiajie",
+      "introduction": "Wulingyuan in Hunan is known for sandstone pillars, wooded slopes and deep valleys. The scenic area joined the UNESCO World Heritage List in 1992."
+    },
+    "zh-Hant": {
+      "name": "張家界 · 武陵源",
+      "country": "中國",
+      "city": "張家界",
+      "introduction": "湖南的武陵源以砂岩峰柱、林木山坡與深谷聞名。該風景區於1992年列入聯合國教科文組織世界遺產名錄。"
+    },
+    "fr": {
+      "name": "Zhangjiajie · Wulingyuan",
+      "country": "Chine",
+      "city": "Zhangjiajie",
+      "introduction": "Wulingyuan, dans le Hunan, est connu pour ses piliers de grès, ses versants boisés et ses vallées profondes. Le site pittoresque a été inscrit sur la liste du patrimoine mondial de l'UNESCO en 1992."
+    },
+    "es": {
+      "name": "Zhangjiajie · Wulingyuan",
+      "country": "China",
+      "city": "Zhangjiajie",
+      "introduction": "Wulingyuan, en Hunan, es conocido por sus pilares de arenisca, laderas boscosas y valles profundos. El área escénica se incorporó a la Lista del Patrimonio Mundial de la UNESCO en 1992."
+    },
+    "de": {
+      "name": "Zhangjiajie · Wulingyuan",
+      "country": "China",
+      "city": "Zhangjiajie",
+      "introduction": "Wulingyuan in Hunan ist für Sandsteinsäulen, bewaldete Hänge und tiefe Täler bekannt. Das Landschaftsgebiet wurde 1992 in die UNESCO-Welterbeliste aufgenommen."
+    },
+    "pt-BR": {
+      "name": "Zhangjiajie · Wulingyuan",
+      "country": "China",
+      "city": "Zhangjiajie",
+      "introduction": "Wulingyuan, em Hunan, é conhecida por pilares de arenito, encostas arborizadas e vales profundos. A área cênica entrou na Lista do Patrimônio Mundial da UNESCO em 1992."
+    },
+    "it": {
+      "name": "Zhangjiajie · Wulingyuan",
+      "country": "Cina",
+      "city": "Zhangjiajie",
+      "introduction": "Wulingyuan nello Hunan è nota per i pilastri di arenaria, i pendii boscosi e le valli profonde. L'area panoramica è entrata nella Lista del Patrimonio Mondiale UNESCO nel 1992."
+    },
+    "ru": {
+      "name": "Чжанцзяцзе · Улинъюань",
+      "country": "Китай",
+      "city": "Чжанцзяцзе",
+      "introduction": "Улинъюань в Хунани известен песчаниковыми столбами, лесистыми склонами и глубокими долинами. Живописный район был включён в Список всемирного наследия ЮНЕСКО в 1992 году."
+    },
+    "ja": {
+      "name": "張家界・武陵源",
+      "country": "中国",
+      "city": "張家界",
+      "introduction": "湖南省の武陵源は、砂岩の柱、樹木の生えた斜面、深い谷で知られています。この景勝地は1992年にユネスコ世界遺産リストに登録されました。"
+    },
+    "ko": {
+      "name": "장자제 · 우링위안",
+      "country": "중국",
+      "city": "장자제",
+      "introduction": "후난의 우링위안은 사암 봉우리와 숲이 우거진 비탈, 깊은 계곡으로 알려져 있습니다. 이 경승지는 1992년 유네스코 세계유산 목록에 등재되었습니다."
+    },
+    "ar": {
+      "name": "تشانغجياجيه · وولينغيوان",
+      "country": "الصين",
+      "city": "تشانغجياجيه",
+      "introduction": "تشتهر وولينغيوان في هونان بأعمدة الحجر الرملي والمنحدرات المشجرة والوديان العميقة. انضمت المنطقة ذات المناظر الخلابة إلى قائمة اليونسكو للتراث العالمي في عام 1992."
+    },
+    "hi": {
+      "name": "झांगजियाजी · वुलिंगयुआन",
+      "country": "चीन",
+      "city": "झांगजियाजी",
+      "introduction": "हुनान में वुलिंगयुआन बलुआ पत्थर के स्तंभों, जंगली ढलानों और गहरी घाटियों के लिए जाना जाता है। यह दृश्य क्षेत्र 1992 में यूनेस्को विश्व धरोहर सूची में शामिल हुआ।"
+    },
+    "id": {
+      "name": "Zhangjiajie · Wulingyuan",
+      "country": "Tiongkok",
+      "city": "Zhangjiajie",
+      "introduction": "Wulingyuan di Hunan dikenal karena pilar batu pasir, lereng berhutan, dan lembah yang dalam. Kawasan wisata ini masuk dalam Daftar Warisan Dunia UNESCO pada 1992."
+    },
+    "th": {
+      "name": "จางเจียเจี้ย · อู่หลิงหยวน",
+      "country": "จีน",
+      "city": "จางเจียเจี้ย",
+      "introduction": "อู่หลิงหยวนในหูหนานมีชื่อเสียงด้านเสาหินทราย ลาดเขา wooded และหุบเขาลึก พื้นที่ทิวทัศน์นี้เข้าร่วมรายการมรดกโลกยูเนสโกในปี 1992"
+    },
+    "vi": {
+      "name": "Trương Gia Giới · Vũ Lăng Nguyên",
+      "country": "Trung Quốc",
+      "city": "Trương Gia Giới",
+      "introduction": "Vũ Lăng Nguyên ở Hồ Nam nổi tiếng với các cột đá sa thạch, sườn núi có rừng và thung lũng sâu. Khu danh thắng này đã được ghi vào Danh sách Di sản Thế giới của UNESCO năm 1992."
+    },
+    "tr": {
+      "name": "Zhangjiajie · Wulingyuan",
+      "country": "Çin",
+      "city": "Zhangjiajie",
+      "introduction": "Hunan'daki Wulingyuan, kumtaşı sütunları, ormanlık yamaçları ve derin vadileriyle bilinir. Manzara alanı 1992'de UNESCO Dünya Mirası Listesi'ne girmiştir."
+    },
+    "pl": {
+      "name": "Zhangjiajie · Wulingyuan",
+      "country": "Chiny",
+      "city": "Zhangjiajie",
+      "introduction": "Wulingyuan w Hunanie słynie z piaskowcowych filarów, zalesionych zboczy i głębokich dolin. Obszar krajobrazowy został wpisany na Listę Światowego Dziedzictwa UNESCO w 1992 roku."
+    },
+    "nl": {
+      "name": "Zhangjiajie · Wulingyuan",
+      "country": "China",
+      "city": "Zhangjiajie",
+      "introduction": "Wulingyuan in Hunan is bekend om zijn zandsteenzuilen, beboste hellingen en diepe valleien. Het schilderachtige gebied werd in 1992 opgenomen in de UNESCO Werelderfgoedlijst."
+    },
+    "uk": {
+      "name": "Чжанцзяцзе · Улін'юань",
+      "country": "Китай",
+      "city": "Чжанцзяцзе",
+      "introduction": "Улін'юань у Хунані відомий пісковиковими стовпами, лісистими схилами та глибокими долинами. Мальовничий район був включений до Списку світової спадщини ЮНЕСКО в 1992 році."
+    }
+  }
 }

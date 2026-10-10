@@ -1,0 +1,682 @@
+{
+  "landmarks" : {
+    "au-sydney-opera-house" : {
+      "city" : "Sydney",
+      "country" : "Avustralya",
+      "introduction" : "Sydney Opera Binası, Sydney Limanı'nda yer alır ve Avustralya'nın en tanınmış modern yapılarından biridir. Kabuk formları su ve şehir silüetiyle buluşur.\n\nBu baskı, mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirerek hatırayı küçük bir yerel gazete gibi okunur kılar.",
+      "name" : "Sydney Opera Binası"
+    },
+    "br-rio-christ-redeemer" : {
+      "city" : "Rio de Janeiro",
+      "country" : "Brezilya",
+      "introduction" : "Kurtarıcı İsa Heykeli, Corcovado'nun tepesinde durur ve Rio'ya, körfeze ve çevredeki dağlara bakar. Heykel ve manzara birlikte şehrin ikonik görünümünü oluşturur.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Kurtarıcı İsa Heykeli"
+    },
+    "cn-beijing-forbidden-city" : {
+      "city" : "Pekin",
+      "country" : "Çin",
+      "introduction" : "Yasak Şehir, Pekin'in merkez ekseninde yer alır. Kapıları, avluları ve salonları imparatorluk törenini, mimari düzeni ve şehrin tarihini birbirine bağlar.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Yasak Şehir"
+    },
+    "cn-beijing-great-wall-badaling" : {
+      "city" : "Pekin",
+      "country" : "Çin",
+      "introduction" : "Badaling, Pekin yakınındaki en çok ziyaret edilen Ming Çin Seddi bölümlerinden biridir. Duvarlar, gözetleme kuleleri ve sırt çizgileri klasik Çin Seddi siluetini oluşturur.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Badaling Çin Seddi"
+    },
+    "cn-chongqing-eling-erchang" : {
+      "city" : "Chongqing",
+      "country" : "Çin",
+      "introduction" : "Eling Ana Caddesi No. 1'deki yer, 1953'te Chongqing Matbaa Fabrikası No. 2 oldu ve renkli baskının yerel merkeziydi.\n\nBurada bir seyahat gazetesi yapmak, kişisel bir portreyi şehrin matbaacılık geçmişiyle birleştirir.",
+      "name" : "Eling Erchang"
+    },
+    "cn-chongqing-hongyadong" : {
+      "city" : "Chongqing",
+      "country" : "Çin",
+      "introduction" : "Hongyadong, Yuzhong'da Jialing Nehri kıyısı yolunda yer alır. Günümüzdeki ziyaretçi bölgesi, yamaç evlerinden esinlenen ayaklı yapı biçimlerini modern bir ticari ortama taşır.\n\nBir yapı biçiminin tarihi, bugün görülen bölgenin yaşından farklıdır.",
+      "name" : "Hongyadong"
+    },
+    "cn-chongqing-jiefangbei" : {
+      "city" : "Chongqing",
+      "country" : "Çin",
+      "introduction" : "Jiefangbei, Chongqing'in Yuzhong Yarımadası'nda yer alır. Anıt, yaya caddeleri ve kuleler onu hem sivil bir simge hem de yoğun bir şehir merkezi yapar.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Jiefangbei"
+    },
+    "cn-xian-bell-tower" : {
+      "city" : "Xi'an",
+      "country" : "Çin",
+      "introduction" : "Xi'an Çan Kulesi eski şehrin merkezine yakın durur. Zaman ölçümüyle ilişkilendirilen bir Ming hanedanı simgesi olarak hâlâ kavşağı ve ana caddeler boyunca uzanan manzarayı çerçeveler.\n\nBuradaki bir portre, gezgini antik şehrin görünür düzeniyle buluşturur.",
+      "name" : "Xi'an Çan Kulesi"
+    },
+    "cn-xian-giant-wild-goose-pagoda" : {
+      "city" : "Xi'an",
+      "country" : "Çin",
+      "introduction" : "Dev Yaban Kazı Pagodası, Xi'an'daki Da Ci'en Tapınağı içinde yer alır. Tang Chang'an'ına ve Xuanzang'ın Budist çeviri çalışmalarının hatırasına bağlıdır.\n\nBuradaki bir portre bir kule siluetinden fazlasını taşır: Xi'an'ı seyahat, öğrenme ve alışverişin mekânı olarak işaret eder.",
+      "name" : "Dev Yaban Kazı Pagodası"
+    },
+    "cn-zhangjiajie-wulingyuan" : {
+      "city" : "Zhangjiajie",
+      "country" : "Çin",
+      "introduction" : "Hunan'daki Wulingyuan, kumtaşı sütunları, ormanlık yamaçları ve derin vadileriyle bilinir. Manzara alanı 1992'de UNESCO Dünya Mirası Listesi'ne girmiştir.",
+      "name" : "Zhangjiajie · Wulingyuan"
+    },
+    "eg-giza-pyramids" : {
+      "city" : "Kahire",
+      "country" : "Mısır",
+      "introduction" : "Giza Piramitleri, Mısır'ın Giza Platosu'nda yükselir. Geometrileri, çöl kenarı ve yakındaki şehir manzarası, zamanlar arasında çarpıcı bir karşıtlık yaratır.\n\nBu baskı, mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirerek hatırayı küçük bir yerel gazete gibi okunur kılar.",
+      "name" : "Giza Piramitleri"
+    },
+    "fr-paris-eiffel" : {
+      "city" : "Paris",
+      "country" : "Fransa",
+      "introduction" : "1889 Exposition Universelle için inşa edilen Eyfel Kulesi, Paris'in en belirgin simgelerinden biri hâline geldi. Demir yapısı mühendisliği şehir siluetine dönüştürür.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Eyfel Kulesi"
+    },
+    "fr-paris-louvre" : {
+      "city" : "Paris",
+      "country" : "Fransa",
+      "introduction" : "Louvre, tarihi bir saraydan büyük bir müzeye dönüştü. Avlusu ve cam piramidi, klasik mimariyi modern bir girişin yanına yerleştirir.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Louvre Müzesi"
+    },
+    "gb-london-tower-bridge" : {
+      "city" : "Londra",
+      "country" : "Birleşik Krallık",
+      "introduction" : "Tower Bridge, Thames Nehri'ni geçer ve Londra'nın en tanınabilir köprülerinden biridir. Kuleleri ve açılır-kapanır yapısı, şehir tarihini nehir trafiğiyle birleştirir.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Tower Bridge"
+    },
+    "it-rome-colosseum" : {
+      "city" : "Roma",
+      "country" : "İtalya",
+      "introduction" : "Kolezyum, antik Roma'dan kalma geniş bir amfitiyatrodur. Kemerler, taş yüzeyler ve açık iç mekânlar şehrin uzun zaman çizelgesini görünür kılar.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Kolezyum"
+    },
+    "jp-tokyo-sensoji" : {
+      "city" : "Tokyo",
+      "country" : "Japonya",
+      "introduction" : "Senso-ji, Tokyo'nun Asakusa semtinin odak noktasıdır. Kaminarimon, Nakamise-dori ve ana salon, bir tapınak ziyaretini canlı bir alışveriş caddesiyle birleştirir.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Senso-ji"
+    },
+    "kr-seoul-gyeongbokgung" : {
+      "city" : "Seul",
+      "country" : "Güney Kore",
+      "introduction" : "Gyeongbokgung, Seul'deki önemli bir Joseon saray alanıdır. Kapılar, salonlar, avlular ve dağ manzarası şehrin tarihinin katmanlarını ortaya koyar.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Gyeongbokgung Sarayı"
+    },
+    "pe-cusco-machu-picchu" : {
+      "city" : "Cusco",
+      "country" : "Peru",
+      "introduction" : "Machu Picchu, Peru'nun And Dağları'nda yer alan büyük bir İnka yerleşimidir. Teraslar, taş duvarlar ve sırt çizgileri antik kenti çevreyle yakından ilişkilendirir.\n\nBu baskı, mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirerek hatırayı küçük bir yerel gazete gibi okunur kılar.",
+      "name" : "Machu Picchu"
+    },
+    "sg-singapore-merlion" : {
+      "city" : "Singapur",
+      "country" : "Singapur",
+      "introduction" : "Merlion Parkı, Marina Bay kıyısında yer alır. Heykel, su kenarı ve şehir silueti, Singapur'un şehir imajını okumak için tanıdık bir yer oluşturur.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Merlion Parkı"
+    },
+    "th-bangkok-grand-palace" : {
+      "city" : "Bangkok",
+      "country" : "Tayland",
+      "introduction" : "Bangkok'un Büyük Saray'ı, saray binaları, tapınak alanları ve süslü detaylardan oluşan önemli bir kraliyet kompleksidir. Çatılar, kuleler ve desenler sahneyi tanımlar.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Büyük Saray"
+    },
+    "us-new-york-liberty" : {
+      "city" : "New York",
+      "country" : "Amerika Birleşik Devletleri",
+      "introduction" : "Özgürlük Heykeli, New York Limanı'ndaki Liberty Adası'nda yer alır. Meşale, kaide ve liman manzarası, ulusal bir anıtı şehir siluetiyle birleştirir.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Özgürlük Heykeli"
+    },
+    "us-san-francisco-golden-gate" : {
+      "city" : "San Francisco",
+      "country" : "Amerika Birleşik Devletleri",
+      "introduction" : "Golden Gate Köprüsü, Golden Gate Boğazı'nı geçer. Kuleler, kablolar, sis ve körfez arazisi onu San Francisco'nun en güçlü görsel işaretlerinden biri yapar.\n\nBu sayı mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirir; böylece hatıra küçük bir yerel gazete gibi okunur.",
+      "name" : "Golden Gate Köprüsü"
+    },
+    "world-acropolis" : {
+      "city" : "Atina",
+      "country" : "Yunanistan",
+      "introduction" : "Akropolis, Atina'nın üzerinde kayalık bir tepede yükselir ve Parthenon dahil anıtları korur. MÖ beşinci yüzyılın büyük eserleri onu klasik mimarinin önemli bir ifadesi haline getirmiştir; sütunlar ve arazi hâlâ şehrin silüetini şekillendirir.",
+      "name" : "Akropolis"
+    },
+    "world-angkor-wat" : {
+      "city" : "Siem Reap",
+      "country" : "Kamboçya",
+      "introduction" : "Angkor Wat, Angkor arkeolojik alanı içindeki büyük bir tapınaktır. Khmer kralları tarafından Vişnu için inşa edilmiş, daha sonra Budist ibadet merkezi olmuştur. Kuleleri, galerileri ve kabartmaları, değişen dini gelenekleri anıtsal mimariyle birleştirir.",
+      "name" : "Angkor Wat"
+    },
+    "world-badshahi-mosque" : {
+      "city" : "Lahor",
+      "country" : "Pakistan",
+      "introduction" : "Badşahi Camii, Lahor'un tarihi surlarla çevrili şehrinin yanında yer alır. On yedinci yüzyılda Babür imparatoru Evrengzib tarafından yaptırılan cami, kırmızı cepheleri, soluk kubbeleri ve geniş avlusuyla anıtsal bir ibadet ortamı sunar.",
+      "name" : "Badşahi Camii"
+    },
+    "world-baobabs" : {
+      "city" : "Morondava",
+      "country" : "Madagaskar",
+      "introduction" : "Morondava yakınındaki Baobablar Yolu, Grandidier baobablarıyla kaplıdır. Devasa gövdeler ve yüksek dallanan taçlar, yol boyunca ayırt edilebilir bir manzara oluşturarak Madagaskar'ın kendine özgü bitki yaşamına canlı bir giriş sunar.",
+      "name" : "Baobablar Yolu"
+    },
+    "world-bayterek" : {
+      "city" : "Astana",
+      "country" : "Kazakistan",
+      "introduction" : "Bayterek, Astana'da bir anıt ve gözlem kulesidir. Beyaz dallanan yapısı altın bir küreyi taşıyarak başkentin ana kamusal akslarından birinde belirgin bir simge oluşturur ve modern Kazakistan ile ilişkilendirilen bir sembol haline gelir.",
+      "name" : "Bayterek"
+    },
+    "world-belem-tower" : {
+      "city" : "Lizbon",
+      "country" : "Portekiz",
+      "introduction" : "Belém Kulesi, Lizbon'un Tejo Nehri kıyısındaki on altıncı yüzyıl tahkimatıdır. Dikey bir kule daha alçak bir burcun üzerinde yükselir; oyma taş detaylar Manuelin stiliyle ilişkilidir. Konumu Portekiz'in denizcilik ve sömürge tarihini hatırlatır.",
+      "name" : "Belém Kulesi"
+    },
+    "world-belgrade-fortress" : {
+      "city" : "Belgrad",
+      "country" : "Sırbistan",
+      "introduction" : "Belgrad Kalesi, Sava ve Tuna nehirlerinin birleştiği noktada yer alır. Tarihi kale ve Kalemegdan Parkı; duvarları, yamaçları ve geniş nehir manzaralarını bir araya getirerek şehrin kamusal dokusunun parçası haline gelmiş stratejik bir konumu ortaya koyar.",
+      "name" : "Belgrad Kalesi"
+    },
+    "world-borobudur" : {
+      "city" : "Magelang",
+      "country" : "Endonezya",
+      "introduction" : "Borobudur, orta Java'da sekizinci ve dokuzuncu yüzyıllara tarihlenen bir Budist anıttır. Kare teraslar dairesel platformlara doğru yükselir; kabartma panelleri ve delikli stupalar, merkezdeki stupada doruğa ulaşan bir diziyi şekillendirir.",
+      "name" : "Borobudur"
+    },
+    "world-bran-castle" : {
+      "city" : "Bran",
+      "country" : "Romanya",
+      "introduction" : "Bran Kalesi, Transilvanya'da tarihi bir güzergahın yakınında kayalık bir konumda yer alır. Kümelenmiş kuleleri ve duvarları bir ortaçağ kalesini yansıtır. Binanın tarihini, turizmin daha sonra kendisiyle ilişkilendirdiği vampir edebiyatından ayırmak en doğrusudur.",
+      "name" : "Bran Kalesi"
+    },
+    "world-brandenburg-gate" : {
+      "city" : "Berlin",
+      "country" : "Almanya",
+      "introduction" : "Brandenburg Kapısı, on sekizinci yüzyılın sonlarında Berlin'de neoklasik bir anıt olarak inşa edilmiştir. Sütunlar, güçlü yatay üst yapı ve üzerindeki kuadriga ona belirgin bir siluet kazandırır. Eski şehir kapısı aynı zamanda şehrin bölünme ve yeniden birleşme anılarını taşır.",
+      "name" : "Brandenburg Kapısı"
+    },
+    "world-bryggen" : {
+      "city" : "Bergen",
+      "country" : "Norveç",
+      "introduction" : "Bryggen'in ahşap binaları, Bergen'in Hansa ticaret ağıyla bağlantısını korur. Yangınlar sık sık geleneksel yerleşim ve yöntemler izlenerek yeniden inşaya yol açmıştır. Su kenarındaki üçgen çatılar hâlâ tarihi bir kuzey ticaret mahallesinin yapısını ifade eder.",
+      "name" : "Bryggen"
+    },
+    "world-bund" : {
+      "city" : "Şanghay",
+      "country" : "Çin",
+      "introduction" : "The Bund, Huangpu'nun batı kıyısında Şanghay'ın tarihi su kenarını izler. Binaları birkaç Avrupa mimari geleneğinden izler taşır. Nehrin karşısında Lujiazui çok farklı bir silüet sunar ve şehrin gelişiminin iki bölümünü tek bir manzarada birleştirir.",
+      "name" : "The Bund"
+    },
+    "world-burj-khalifa" : {
+      "city" : "Dubai",
+      "country" : "Birleşik Arap Emirlikleri",
+      "introduction" : "Burç Halife, SOM tarafından tasarlanan Dubai'nin simge gökdelenidir. Merkezi bir çekirdeğin etrafına yerleştirilmiş kanatlar, yapı yükseldikçe kademeli olarak geri çekilir ve kuleye doğru daralır. Bu değişen profil, karmaşık bir mühendislik sistemini siluette belirgin bir çizgiye dönüştürür.",
+      "name" : "Burç Halife"
+    },
+    "world-cape-coast-castle" : {
+      "city" : "Cape Coast",
+      "country" : "Gana",
+      "introduction" : "Cape Coast Kalesi, Gana kıyısında yer alır ve Atlantik köle ticaretinde derinlemesine rol almıştır. Denize bakan duvarları ve iç mekânları, sömürge ticareti ve zorunlu yerinden edilme tarihini korur. Ziyaret, anma ve yorumlamaya dikkat gerektirir.",
+      "name" : "Cape Coast Kalesi"
+    },
+    "world-cartagena" : {
+      "city" : "Cartagena",
+      "country" : "Kolombiya",
+      "introduction" : "Cartagena, Kolombiya'nın Karayip kıyısındaki tarihi bir limandır. Surlar ve eski kent mahalleleri, sömürge ticareti ve deniz rekabeti tarihini korur; belirgin mahalleler kentin mimari ve kamusal alanlarına katkıda bulunur.",
+      "name" : "Cartagena Surlarla Çevrili Şehir"
+    },
+    "world-casbah-algiers" : {
+      "city" : "Cezayir",
+      "country" : "Cezayir",
+      "introduction" : "Kasbah, Akdeniz'e bakan Cezayir'in tarihi bölgesidir. Geleneksel sokaklar, camiler ve saray kalıntıları yamaca yerleşmiştir; sık düzenlenmiş binalar, avlular ve geçitler Kuzey Afrika kıyı medinesinin karakterini korur.",
+      "name" : "Cezayir Kasbahı"
+    },
+    "world-charles-bridge" : {
+      "city" : "Prag",
+      "country" : "Çekya",
+      "introduction" : "Karluv Köprüsü, Prag'ın Vltava Nehri'ni geçer ve on dördüncü yüzyılda başlanmıştır. Taş kemerler kıyıları birbirine bağlarken, heykeller ve köprü kuleleri geçişi şehrin sanatsal ve tarihi dokusunun bir parçası haline getirir.",
+      "name" : "Karluv Köprüsü"
+    },
+    "world-chichen-itza" : {
+      "city" : "Yucatán",
+      "country" : "Meksika",
+      "introduction" : "Chichén Itzá, Meksika'nın Yucatán Yarımadası'ndaki önemli bir Maya arkeolojik alanıdır. Basamaklı piramidi, Savaşçılar Tapınağı ve dairesel gözlemevi, etkili bir kentte bir araya gelen birkaç kültürel geleneğin kanıtlarını korur.",
+      "name" : "Chichén Itzá"
+    },
+    "world-chillon-castle" : {
+      "city" : "Veytaux",
+      "country" : "İsviçre",
+      "introduction" : "Chillon, Cenevre Gölü'nün doğu ucunda bir ortaçağ kalesidir. Kuleler, avlular ve su kenarındaki duvarlar dar ve kayalık bir alanı kaplar; bu da göl kıyısı ile ötesindeki Alp vadisi arasındaki güzergahın önemini yansıtır.",
+      "name" : "Chillon Kalesi"
+    },
+    "world-chocolate-hills" : {
+      "city" : "Bohol",
+      "country" : "Filipinler",
+      "introduction" : "Çikolata Tepeleri, Filipinler'deki Bohol'da kendine özgü bir peyzaj oluşturur. Çimenler mevsimlerle renk değiştirir; kurak mevsimdeki kahverengi, tepelere alışılmış adlarını verir. Tekrarlanan yuvarlak koniler geniş, ritmik bir ufuk çizgisi yaratır.",
+      "name" : "Çikolata Tepeleri"
+    },
+    "world-cliffs-of-moher" : {
+      "city" : "Clare Kontluğu",
+      "country" : "İrlanda",
+      "introduction" : "Moher Kayalıkları, Clare Kontluğu'nun Atlantik kıyısı boyunca uzanır. Katmanlı kaya yüzeyleri denizin üzerinde yükselir; ardışık burunlar kıyı şeridi boyunca derinlik yaratır. Işık ve hava, kaya, su ve ufuk arasındaki ilişkiyi sürekli değiştirir.",
+      "name" : "Moher Kayalıkları"
+    },
+    "world-cn-tower" : {
+      "city" : "Toronto",
+      "country" : "Kanada",
+      "introduction" : "Toronto'nun CN Kulesi, 1976'da bir iletişim ve gözlem kulesi olarak tamamlanmıştır. İnce bir gövde, daha geniş gözlem yapısını taşır ve bir anten yukarı doğru devam ederek çevredeki binaların üzerinde tanınır bir siluet yaratır.",
+      "name" : "CN Kulesi"
+    },
+    "world-dubrovnik" : {
+      "city" : "Dubrovnik",
+      "country" : "Hırvatistan",
+      "introduction" : "Dubrovnik'in eski şehri, Adriyatik kıyısında, sağlam taş duvarlarla çevrili bir konumda yer alır. Kiliseler, saraylar ve kiremit çatılar; refah, depremler, çatışma ve restorasyonla şekillenen tarihi bir liman kentinin karakterini korur.",
+      "name" : "Dubrovnik Eski Şehri"
+    },
+    "world-el-jem" : {
+      "city" : "El Jem",
+      "country" : "Tunus",
+      "introduction" : "El Jem Amfitiyatrosu, Tunus'taki önemli bir Roma anıtıdır. Eliptik formu, üst üste sıralanmış kemerleri ve ayakta kalan oturma alanları, antik bir halk meydanının ölçeğini ortaya koyarak bugünkü kasaba içinde çarpıcı bir simge oluşturur.",
+      "name" : "El Jem Amfitiyatrosu"
+    },
+    "world-fort-jesus" : {
+      "city" : "Mombasa",
+      "country" : "Kenya",
+      "introduction" : "Fort Jesus, on altıncı yüzyılın sonlarında limanı savunmak için Mombasa'da inşa edilmiştir. Köşeli planı ve sağlam duvarları, Hint Okyanusu ticareti ve Svahili kıyısının daha geniş tarihi içinde Portekiz askeri mimarisinin bir bölümünü korur.",
+      "name" : "Fort Jesus"
+    },
+    "world-goree" : {
+      "city" : "Dakar",
+      "country" : "Senegal",
+      "introduction" : "Gorée, Dakar açıklarında yer alır ve Atlantik köle ticaretiyle bağlantılı bir anma mekânıdır. Binaları, sokakları ve denize bakan alanları, adanın görünür tarihi karakteriyle birlikte zorunlu göç ve sömürü üzerine düşünmeye davet eder.",
+      "name" : "Gorée Adası"
+    },
+    "world-grand-place" : {
+      "city" : "Brüksel",
+      "country" : "Belçika",
+      "introduction" : "Brüksel'deki Grand-Place, Belediye Sarayı'nı, lonca binalarını ve diğer kamusal mimariyi bir araya getirir. Bezemeli alınlıklar, heykeller ve yüksek bir kule şehrin ticari ve kamusal yaşamını kaydederek meydanı cephe cephe okunacak bir topluluk haline getirir.",
+      "name" : "Grand-Place"
+    },
+    "world-ha-long-bay" : {
+      "city" : "Ha Long",
+      "country" : "Vietnam",
+      "introduction" : "Ha Long Koyu, denizden yükselen kireç taşı kuleleriyle tanınır. Cat Ba Takımadaları ile birlikte, adaların ve kanalların deniz altında kalmış karstın çarpıcı biçimlerini ortaya koyduğu bir Dünya Mirası peyzajı oluşturur.",
+      "name" : "Ha Long Koyu"
+    },
+    "world-hagia-sophia" : {
+      "city" : "İstanbul",
+      "country" : "Türkiye",
+      "introduction" : "Ayasofya'nın ana yapısı altıncı yüzyıla tarihlenir. Kilise, cami ve müze olarak hizmet vermiş ve yeniden Müslüman ibadetine açılmıştır. Büyük kubbesi ve günümüze ulaşan bezeme katmanları İstanbul'un değişen dini ve kamusal tarihini yansıtır.",
+      "name" : "Ayasofya"
+    },
+    "world-hallgrimskirkja" : {
+      "city" : "Reykjavík",
+      "country" : "İzlanda",
+      "introduction" : "Hallgrímskirkja, Reykjavík'teki önemli bir Lüteriyen kilisesidir. Yüksek kulesi ve kademeli yan kanatları güçlü bir dikey kompozisyon oluşturur; bu da onu kentin genellikle alçak binalarının üzerinde özellikle tanınır kılar.",
+      "name" : "Hallgrímskirkja"
+    },
+    "world-hegra" : {
+      "city" : "El Ula",
+      "country" : "Suudi Arabistan",
+      "introduction" : "Suudi Arabistan'ın El Ula bölgesindeki Hegra, Nebati uygarlığının önemli kalıntılarını korur. Oyulmuş mezar cepheleri, yazıtlar ve kuyular mimari ve su yönetimi bilgisini ortaya koyarak kültürel hikayeyi Petra'dan güneye doğru genişletir.",
+      "name" : "Hegra"
+    },
+    "world-humble-administrators-garden" : {
+      "city" : "Suzhou",
+      "country" : "Çin",
+      "introduction" : "Mütevazı Yönetici Bahçesi, Suzhou'nun Dünya Mirası bahçe topluluğuna aittir. Su, köşkler, kayalar ve bitkiler geniş peyzajı sınırlı bir ortama taşır. Koridorlar ve açıklıklar gözü yönlendirir; konumdaki küçük bir değişiklik başka bir kompozisyonu ortaya çıkarabilir.",
+      "name" : "Mütevazı Yönetici Bahçesi"
+    },
+    "world-karnak" : {
+      "city" : "Luxor",
+      "country" : "Mısır",
+      "introduction" : "Luxor yakınlarındaki Karnak, antik Thebes'in önemli bir dini kompleksiydi. Ardışık hükümdarlar pilonlar, avlular ve salonlar ekleyerek tek bir saltanat döneminde tamamlanmış bir binadan ziyade birçok nesil boyunca şekillenmiş bir alan yaratmıştır.",
+      "name" : "Karnak"
+    },
+    "world-kinderdijk" : {
+      "city" : "Kinderdijk",
+      "country" : "Hollanda",
+      "introduction" : "Kinderdijk'in yel değirmenleri daha geniş bir Hollanda su yönetimi sistemine aittir. Setler, rezervuarlar, pompa istasyonları ve değirmenler alçak arazilerin kurutulması tarihinde işlev görür. Huzurlu manzara aynı zamanda sürekli mühendislik ve emekle şekillenmiş bir arazidir.",
+      "name" : "Kinderdijk Yel Değirmenleri"
+    },
+    "world-kiyomizu-dera" : {
+      "city" : "Kyoto",
+      "country" : "Japonya",
+      "introduction" : "Kiyomizu-dera, Kyoto'nun doğu tepelerinde yer alır ve şehrin Dünya Mirası anıtlarının bir parçasını oluşturur. Tapınağın ahşap mimarisi ormanlık yamaçla buluşur; ünlü sahne, ötedeki şehre doğru bir manzara açar.",
+      "name" : "Kiyomizu-dera"
+    },
+    "world-kotor" : {
+      "city" : "Kotor",
+      "country" : "Karadağ",
+      "introduction" : "Kotor, korunaklı bir Adriyatik koyunda yer alır; eski şehrin hemen arkasında dik dağlar yükselir. Duvarlar, kiliseler ve taş sokaklar bir ticaret ve zanaat tarihini korurken arazinin yerleşimi ne kadar güçlü şekillendirdiğini de gösterir.",
+      "name" : "Kotor Eski Şehri"
+    },
+    "world-koutoubia" : {
+      "city" : "Marakeş",
+      "country" : "Fas",
+      "introduction" : "Kutubiyye Camii, Marakeş'in eski kentinin yanındaki önemli bir dini simgedir. Kare minaresi, süsleme detayları ve bahçe düzeni, kent içinde belirgin bir referans noktası oluşturur ve Mağrip'in mimari geleneklerini yansıtır.",
+      "name" : "Kutubiyye Camii"
+    },
+    "world-la-mano" : {
+      "city" : "Punta del Este",
+      "country" : "Uruguay",
+      "introduction" : "La Mano, Punta del Este'deki Brava Plajı'nda yer alır. Şilili sanatçı Mario Irarrázabal tarafından yaratılan eserin beş parmağı kumdan çıkıyormuş gibi görünerek kıyı manzarasına basit ve akılda kalıcı bir kamusal sanat eseri katmaktadır.",
+      "name" : "La Mano"
+    },
+    "world-lake-bled" : {
+      "city" : "Bled",
+      "country" : "Slovenya",
+      "introduction" : "Bled Gölü, Slovenya'nın kuzeybatı Alp bölgesinde yer alır. Adası, göl kıyısındaki kalesi ve ormanlık tepeleri, su çevresinde kendine özgü bir simge düzeni oluşturur; yansımalar yapılı ve doğal çevreyi birbirine bağlar.",
+      "name" : "Bled Gölü"
+    },
+    "world-lalbagh-fort" : {
+      "city" : "Dakka",
+      "country" : "Bangladeş",
+      "introduction" : "Lalbagh Kalesi, Eski Dakka'da tamamlanmamış bir Babür kompleksidir. Camisi, türbesi ve ayakta kalan diğer yapıları iddialı bir projenin izlerini korur. Mekan, yarıda kalan planlara olduğu kadar geriye kalan binalara da dikkat çeker.",
+      "name" : "Lalbagh Kalesi"
+    },
+    "world-lalibela" : {
+      "city" : "Lalibela",
+      "country" : "Etiyopya",
+      "introduction" : "Lalibela'nın ortaçağdan kalma kayaya oyulmuş kiliseleri, önemli bir Etiyopya Hristiyan kutsal alanı olmayı sürdürür. Binalar, avlular ve geçitler doğrudan kayaya oyulmuştur. Haç biçimli Aziz George Kilisesi, mimarlık ile zemin arasındaki bu sıra dışı ilişkiyi özellikle belirgin kılar.",
+      "name" : "Lalibela Kiliseleri"
+    },
+    "world-luang-prabang" : {
+      "city" : "Luang Prabang",
+      "country" : "Laos",
+      "introduction" : "Wat Xieng Thong, Luang Prabang yarımadasının kuzey ucuna yakın bir yerde durur. Önemli bir Lao manastırı olan yapı, kraliyet tarihini, Budist ibadeti ve geleneksel sanatları birbirine bağlar. Kıvrılan çatı çizgileri ve süslemeli yüzeyleri, eski kente samimi bir giriş sunar.",
+      "name" : "Wat Xieng Thong"
+    },
+    "world-mont-saint-michel" : {
+      "city" : "Mont-Saint-Michel",
+      "country" : "Fransa",
+      "introduction" : "Mont-Saint-Michel, Normandiya'da gelgitli bir ortamdan yükselir. Manastır ve köy, duvarlar ve geniş kumların üzerindeki kayalık bir adaya tırmanarak dini mimarinin özellikle zorlu ve değişken bir doğal alana nasıl uyum sağladığını gösterir.",
+      "name" : "Mont-Saint-Michel"
+    },
+    "world-nyhavn" : {
+      "city" : "Kopenhag",
+      "country" : "Danimarka",
+      "introduction" : "Nyhavn, Kopenhag'da tarihi bir kanal ve su kenarı bölgesidir. Renkli sıra evler ve ahşap tekneler bir liman karakterini korurken, kıyı boyunca süren hareketlilik burayı çağdaş şehir yaşamına sıkı sıkıya bağlı tutar.",
+      "name" : "Nyhavn"
+    },
+    "world-obelisco" : {
+      "city" : "Buenos Aires",
+      "country" : "Arjantin",
+      "introduction" : "Obelisco, Buenos Aires'in Plaza de la República meydanında, Corrientes ve 9 de Julio caddelerinin kesiştiği noktada yer alır. 1936'da şehrin ilk kuruluşunun dört yüzüncü yılını anmak için inşa edilmiş ve kentsel merkezin belirleyici bir noktası haline gelmiştir.",
+      "name" : "Obelisco"
+    },
+    "world-old-havana" : {
+      "city" : "Havana",
+      "country" : "Küba",
+      "introduction" : "Eski Havana, meydanlar, kemerli geçitler, balkonlar ve avlulardan oluşan tarihi bir dokuyu korur. Barok ve neoklasik binalar bir arada durarak kamusal alanların günlük yaşamla yakından bağlı olduğu bir Karayip liman kentinin büyümesini yansıtır.",
+      "name" : "Eski Havana"
+    },
+    "world-osaka-castle" : {
+      "city" : "Osaka",
+      "country" : "Japonya",
+      "introduction" : "Osaka Kalesi, Japonya'nın on altıncı yüzyıldaki birleşmesiyle bağlantılıdır. Bugünkü ana kule, o dönemden değişmeden kalmak yerine 1931'de yeniden inşa edilmiştir. Taş duvarlar ve hendeklerden oluşan çevresi, alanın farklı tarih katmanlarını ortaya koymaya yardımcı olur.",
+      "name" : "Osaka Kalesi"
+    },
+    "world-panama-viejo" : {
+      "city" : "Panama City",
+      "country" : "Panama",
+      "introduction" : "Panamá Viejo, şehrin orijinal yerleşiminin kalıntılarını korur. 1671'deki yıkımının ardından merkez yeni bir konuma taşınmıştır. Ayakta kalan kuleler, duvarlar ve sokak düzenleri, bugünkü Panama City içinde daha eski bölümü görünür kılmaktadır.",
+      "name" : "Panamá Viejo"
+    },
+    "world-paphos" : {
+      "city" : "Pafos",
+      "country" : "Kıbrıs",
+      "introduction" : "Pafos Arkeoloji Parkı, antik Nea Pafos'un evler, kamu binaları ve ayrıntılı zemin mozaikleri dahil önemli kalıntılarını korur. Geometrik desenler ve mitolojik sahneler, bu Akdeniz kentinde sanatın ev içi mekana nasıl girdiğini ortaya koyar.",
+      "name" : "Pafos Arkeoloji Parkı"
+    },
+    "world-parliament-budapest" : {
+      "city" : "Budapeşte",
+      "country" : "Macaristan",
+      "introduction" : "Macaristan'ın Parlamento Binası, Tuna'nın Peşte yakasında yer alır. Neo-Gotik sivri kuleleri ve merkezi kubbesi uzun, ritmik bir siluet oluşturur; bu da nehir kıyısını Budapeşte'nin sivil dokusunu tanımanın en belirgin yerlerinden biri yapar.",
+      "name" : "Macaristan Parlamento Binası"
+    },
+    "world-petra" : {
+      "city" : "Vadi Musa",
+      "country" : "Ürdün",
+      "introduction" : "Petra, ticaret yollarının önemli bir buluşma noktasında yer alan bir Nebati şehriydi. Binaları kısmen inşa edilmiş, kısmen kum taşına oyulmuştur. Geçitler, kaya yüzeyleri ve su sistemleri şehrin bu çarpıcı araziyi nasıl kullandığını açıklamaya yardımcı olur.",
+      "name" : "Petra"
+    },
+    "world-petronas-towers" : {
+      "city" : "Kuala Lumpur",
+      "country" : "Malezya",
+      "introduction" : "Petronas Kuleleri, Kuala Lumpur silüetinde bir gök köprüsüyle birleşen apaçık bir çifttir. Kademeli profilleri ve metal ile cam cepheleri, tekrarı ve simetriyi bu modern şehir simgesinin belirleyici özellikleri haline getirir.",
+      "name" : "Petronas Kuleleri"
+    },
+    "world-potala-palace" : {
+      "city" : "Lhasa",
+      "country" : "Çin",
+      "introduction" : "Potala Sarayı, Lhasa'da Kızıl Dağ üzerinde yükselir; Beyaz ve Kızıl Saraylar belirgin katmanlı bir silüet oluşturur. Dalay Lamaların eski kışlık ikametgâhı olan yapı, mimariyi, dini sanatı ve çevredeki dağ ortamını yakın bir ilişki içinde bir araya getirir.",
+      "name" : "Potala Sarayı"
+    },
+    "world-quito" : {
+      "city" : "Quito",
+      "country" : "Ekvador",
+      "introduction" : "Quito'nun tarihi merkezi Andlar içinde yer alır ve önemli kiliseleri, manastırları ve kentsel alanları korur. Sanatları, Avrupa formlarını yerel yapım gelenekleriyle birleştirerek basitçe ithal edilmiş bir modelden ziyade kendine özgü bir mimari ifade üretir.",
+      "name" : "Quito Tarihi Merkezi"
+    },
+    "world-rapa-nui" : {
+      "city" : "Rapa Nui",
+      "country" : "Şili",
+      "introduction" : "Rapa Nui'deki Ahu Tongariki, törensel bir platformu bir dizi moai ile birleştirir. Ayakta duran figürler, devrilme ve tsunami hasarının ardından restore edilerek hem adanın heykel geleneği hem de daha yakın tarihli bir koruma geçmişi muhafaza edilmiştir.",
+      "name" : "Ahu Tongariki"
+    },
+    "world-registan" : {
+      "city" : "Semerkant",
+      "country" : "Özbekistan",
+      "introduction" : "Semerkant'taki Registan Meydanı üç medrese ile çevrelenmiştir. Yüksek portallar, mavi kubbeler ve geometrik çini işçiliği topluluğa tanınabilir karakterini vererek İpek Yolu şehrinin öğrenim, zanaat ve kamusal yaşam geleneklerini birbirine bağlar.",
+      "name" : "Registan"
+    },
+    "world-rila-monastery" : {
+      "city" : "Rila",
+      "country" : "Bulgaristan",
+      "introduction" : "Rila Manastırı, Bulgaristan'da bir dağ vadisinde önemli bir Ortodoks kültür merkezidir. Bugünkü kompleksinin büyük bölümü on dokuzuncu yüzyılda yeniden inşa edilmiştir; kemerler, boyalı yüzeyler ve kilise, Bulgar Ulusal Uyanış sanatını ifade eder.",
+      "name" : "Rila Manastırı"
+    },
+    "world-rock-islands" : {
+      "city" : "Koror",
+      "country" : "Palau",
+      "introduction" : "Palau'nun Rock Adaları, kireçtaşı adacıklar, yeşil bitki örtüsü ve lagün suyundan oluşan bir manzara oluşturur. Güney Lagünü ayrıca resifler, deniz gölleri ve kültürel kalıntılar içererek ekolojik çeşitliliği ve insan tarihini aynı ada ortamında bir araya getirir.",
+      "name" : "Rock Adaları"
+    },
+    "world-sagrada-familia" : {
+      "city" : "Barselona",
+      "country" : "İspanya",
+      "introduction" : "Sagrada Família, Antoni Gaudí ve Barselona ile yakından ilişkilidir. Heykelli cepheler, yükselen kuleler ve doğadan alınan formlar ona kendine özgü bir mimari dil kazandırır. Doğuş cephesi ve kripti, Gaudí'nin eserlerinin Dünya Mirası listesine dahildir.",
+      "name" : "Sagrada Família"
+    },
+    "world-schonbrunn" : {
+      "city" : "Viyana",
+      "country" : "Avusturya",
+      "introduction" : "Schönbrunn, Habsburg hükümdarlarının önemli bir ikametgahıydı. Saray ve bahçeleri Viyana'da bir Barok topluluğu oluşturur; cepheler, yollar ve uzak bahçe öğeleri özenle düzenlenmiş eksenler ve görüşlerle birbirine bağlanır.",
+      "name" : "Schönbrunn Sarayı"
+    },
+    "world-sigiriya" : {
+      "city" : "Sigiriya",
+      "country" : "Sri Lanka",
+      "introduction" : "Sigiriya, Sri Lanka'da çevredeki ormanlık alanın üzerinde bir granit kaya kütlesi olarak yükselir. Antik bir kraliyet merkezinin kalıntıları yamaçlarını ve zirvesini kaplar; merdivenler, teraslar ve bahçeler çarpıcı araziyi mimari bir ortama dönüştürür.",
+      "name" : "Sigiriya"
+    },
+    "world-sky-tower" : {
+      "city" : "Auckland",
+      "country" : "Yeni Zelanda",
+      "introduction" : "Auckland'daki Sky Tower, şehir merkezinde bir iletişim ve gözlem yapısıdır. İnce gövdesi, dışa taşan gözlem katları ve üst direği belirgin bir siluet oluşturarak liman şehrinin sokakları ve silüeti boyunca görsel bir referans sağlar.",
+      "name" : "Sky Tower"
+    },
+    "world-sri-siva-subramaniya" : {
+      "city" : "Nadi",
+      "country" : "Fiji",
+      "introduction" : "Nadi'deki Sri Siva Subramaniya Tapınağı, Fiji'nin Hint-Fiji toplumu için önemli bir dini ve kültürel mekandır. Parlak renkli giriş kulesi ve heykelsi detayları, Güney Hint tapınak geleneklerini Güney Pasifik kentsel ortamına taşımaktadır.",
+      "name" : "Sri Siva Subramaniya Tapınağı"
+    },
+    "world-stari-most" : {
+      "city" : "Mostar",
+      "country" : "Bosna-Hersek",
+      "introduction" : "Stari Most, Mostar'da Neretva'yı geçer. Osmanlı dönemi köprüsü 1990'ların çatışmasında yıkılmış ve daha sonra yeniden inşa edilmiştir. Tek kemeri artık kıyılar arasında bir güzergah olduğu kadar bir mirasın yeniden kazanılmasının hikayesini de taşır.",
+      "name" : "Stari Most"
+    },
+    "world-stockholm-city-hall" : {
+      "city" : "Stockholm",
+      "country" : "İsveç",
+      "introduction" : "Stockholm Belediye Binası, Kungsholmen'de su kenarında yer alır. Sivil yönetime ve tören yaşamına hizmet eder; kırmızı tuğlası, geniş avlusu ve üç yaldızlı taçla taçlandırılmış kulesiyle kendine özgü bir şehir simgesi oluşturur.",
+      "name" : "Stockholm Belediye Binası"
+    },
+    "world-stone-town" : {
+      "city" : "Zanzibar City",
+      "country" : "Tanzanya",
+      "introduction" : "Stone Town, bir Doğu Afrika Svahili ticaret kentinin önemli bir örneğidir. Dar sokaklar, sağlam binalar ve oyma kapılar; Afrika, Arabistan, Hindistan ve Avrupa ile bağlantıları, Hint Okyanusu köleliği ve ticaretinin zorlu tarihiyle birlikte yansıtır.",
+      "name" : "Stone Town"
+    },
+    "world-sultan-qaboos-mosque" : {
+      "city" : "Maskat",
+      "country" : "Umman",
+      "introduction" : "Sultan Kabus Ulu Camii, Maskat'ta önemli bir çağdaş dini yapıdır. Kubbesi, minareleri ve geniş avluları düzenli bir kompozisyon oluşturur; soluk taş tonları şehrin dağlık ortamına doğal bir şekilde uyum sağlar.",
+      "name" : "Sultan Kabus Ulu Camii"
+    },
+    "world-suomenlinna" : {
+      "city" : "Helsinki",
+      "country" : "Finlandiya",
+      "introduction" : "Suomenlinna, Helsinki limanının dışındaki adaları kaplar ve on sekizinci yüzyılda İsveç yönetimi altında başlanmıştır. Duvarları ve güzergahları araziyi izler; bir Avrupa deniz kalesinin ada ortamına nasıl uyum sağladığını gösterir.",
+      "name" : "Suomenlinna"
+    },
+    "world-swayambhunath" : {
+      "city" : "Katmandu",
+      "country" : "Nepal",
+      "introduction" : "Swayambhunath, Katmandu Vadisi'nde bir tepe üzerinde yer alır ve önemli bir Budist kutsal alanıdır. Beyaz stupa, boyanmış gözler ve yükselen kule belirgin bir siluet oluşturarak aşağıdaki şehri uzun bir hac geleneğiyle ilişkilendirir.",
+      "name" : "Swayambhunath"
+    },
+    "world-taj-mahal" : {
+      "city" : "Agra",
+      "country" : "Hindistan",
+      "introduction" : "Tac Mahal, Agra'da Yamuna Nehri'nin yanında yer alır. Şah Cihan bu türbeyi Mümtaz Mahal'in anısına yaptırmıştır. Beyaz mermer, merkezi bir kubbe, köşe minareleri ve düzenli bir bahçe ekseni, özenle dengelenmiş bir mimari kompozisyon oluşturur.",
+      "name" : "Tac Mahal"
+    },
+    "world-tigers-nest" : {
+      "city" : "Paro",
+      "country" : "Butan",
+      "introduction" : "Kaplan Yuvası olarak bilinen Paro Taktsang, Paro Vadisi'nin üzerindeki kayalıklarda yer alan bir Budist kutsal alanıdır. Beyaz duvarlı binalar kayaya tutunarak manastır ile dik dağ ortamı arasındaki ilişkiyi özellikle çarpıcı kılar.",
+      "name" : "Kaplan Yuvası"
+    },
+    "world-tikal" : {
+      "city" : "Petén",
+      "country" : "Guatemala",
+      "introduction" : "Tikal, Guatemala'nın Petén yağmur ormanı içindeki önemli bir Maya kenti alanıdır. Yüksek tapınaklar, saraylar ve meydanlar bitki örtüsü arasında belirir; dikey mimari formları çevredeki ormanın geniş örtüsüne karşı konumlandırır.",
+      "name" : "Tikal"
+    },
+    "world-uluru" : {
+      "city" : "Yulara",
+      "country" : "Avustralya",
+      "introduction" : "Uluru, Orta Avustralya'da belirgin bir kumtaşı oluşumu ve Anangu kültürü ve inancının önemli bir parçasıdır. Büyük kütlesi ovanın üzerinde yükselir, değişen ışık yüzeylerini ortaya çıkarır, ancak önemi jeolojinin çok ötesine uzanır.",
+      "name" : "Uluru"
+    },
+    "world-valletta" : {
+      "city" : "Valletta",
+      "country" : "Malta",
+      "introduction" : "Valletta, Malta'da iki liman arasında bir yarımadayı kaplar. Aziz Yuhanna Şövalyeleri ile yakından bağlantılı olan sıkı dokulu tarihi yapısı; dini, askeri ve sivil mimariyi olağanüstü yoğun bir kentsel ortamda bir araya getirir.",
+      "name" : "Valletta"
+    },
+    "world-victoria-falls" : {
+      "city" : "Victoria Şelaleleri",
+      "country" : "Zimbabve",
+      "introduction" : "Victoria Şelaleleri, Zambiya ile Zimbabve sınırında Zambezi Nehri üzerinde yer alır. Su bazalt kanyonlara dökülür ve geniş serpinti bulutları yükseltir. Şelaleler, nehir ve kaya birlikte iki ülkenin paylaştığı çarpıcı bir manzara oluşturur.",
+      "name" : "Victoria Şelaleleri"
+    },
+    "world-victoria-peak" : {
+      "city" : "Hong Kong",
+      "country" : "Çin",
+      "introduction" : "Victoria Peak, Hong Kong Adası'nın batı tarafında yükselir. Manzarası, Central'ın binalarını, Victoria Limanı'nı ve çevredeki tepeleri tek bir ortamda birleştirerek şehrin yoğun silüetinin dik arazi ile su arasına nasıl yerleştiğini gösterir.",
+      "name" : "Victoria Peak"
+    },
+    "world-wawel" : {
+      "city" : "Krakov",
+      "country" : "Polonya",
+      "introduction" : "Wawel Kalesi, Krakov'un Vistula Nehri kıyısındaki bir tepede yer alır ve Polonya kraliyet tarihinin önemli bir bölgesidir. Zamanla genişletilen avluları, kuleleri ve çeşitli cepheleri tek bir kompleks içinde birkaç mimari dönemi korur.",
+      "name" : "Wawel Kalesi"
+    },
+    "world-west-lake" : {
+      "city" : "Hangzhou",
+      "country" : "Çin",
+      "introduction" : "Batı Gölü, açık suyu ve çevredeki tepeleri yüzyıllar boyunca şekillenmiş setler, adalar, tapınaklar ve bahçelerle birleştirir. Özenle oluşturulmuş manzaraları Hangzhou'nun ötesinde bahçe tasarımını etkilemiş ve göl kıyısını peyzaj ile kültürün buluşmasının okunabileceği bir yer haline getirmiştir.",
+      "name" : "Batı Gölü"
+    },
+    "za-cape-town-table-mountain" : {
+      "city" : "Cape Town",
+      "country" : "Güney Afrika",
+      "introduction" : "Masa Dağı, düz tepeli silüetiyle Cape Town'un arkasında yükselir. Dağ, koy, şehir ve değişen bulutlar, şehrin en önemli manzaralarından birini tanımlar.\n\nBu baskı, mekân bağlamını, görüş ipuçlarını ve kişisel bir fotoğrafı bir araya getirerek hatırayı küçük bir yerel gazete gibi okunur kılar.",
+      "name" : "Masa Dağı"
+    }
+  },
+  "locale" : "tr",
+  "schemaVersion" : 1,
+  "templates" : {
+    "ct01" : {
+      "description" : "Gezi hikayeleri ve portreniz iki sütunlu özel sayıda.",
+      "name" : "Şehir Baskısı"
+    },
+    "dp01" : {
+      "description" : "İki panelde tek sürekli manzara.",
+      "name" : "Manzara Diptik"
+    },
+    "fl01" : {
+      "description" : "Açık kağıt üzerinde resimli film.",
+      "name" : "Resimli Film"
+    },
+    "fl02" : {
+      "description" : "İnce film kenarlı doğal renkli fotoğraflar.",
+      "name" : "Filmde Yaşam"
+    },
+    "hc01" : {
+      "description" : "Bir portre, resimli bir yer ve kutlanacak bir gün.",
+      "name" : "İyi Haber"
+    },
+    "hf01" : {
+      "description" : "Kişisel bir kare ve resimli bir yer.",
+      "name" : "Film Günlüğü"
+    },
+    "hm01" : {
+      "description" : "Resimli seyahat kenar çubuğuyla büyük bir fotoğraf.",
+      "name" : "Seyahat Dergisi"
+    },
+    "hn01" : {
+      "description" : "Cesur başlık, fotoğrafınız ve resimli şehir sütunu.",
+      "name" : "Şehir Ekstresi"
+    },
+    "ht01" : {
+      "description" : "Fotoğrafınız ve simge yapı çizimi ön sayfada birlikte.",
+      "name" : "Seyahat Günlüğü"
+    },
+    "mu01" : {
+      "description" : "Sessiz bir galeri etiketiyle bir manzara.",
+      "name" : "Özel Koleksiyon"
+    },
+    "nf01" : {
+      "description" : "Seyahat hikayeniz için siyah üzerine sarı cesur başlık.",
+      "name" : "Kişisel Ek"
+    },
+    "pc01" : {
+      "description" : "Sıcak bir fotoğraf kartı; tarih, başlık ve seyahat notuyla saklayın ve paylaşın.",
+      "name" : "Hatıra Kartı"
+    },
+    "pc02" : {
+      "description" : "Sıcak kağıt çerçeveli, tarih ve marka işaretli temiz fotoğraf kartı.",
+      "name" : "Fotoğraf Kartı"
+    },
+    "rd01" : {
+      "description" : "Ortalanmış başlık, portre ve üç yerel sütun.",
+      "name" : "Günlük Hatıra"
+    },
+    "st01" : {
+      "description" : "Delikli kenarlı simge yapı çizimi ve tarih mührü.",
+      "name" : "Manzara Mektupları"
+    },
+    "st02" : {
+      "description" : "İsteğe bağlı resimli pulla kişisel fotoğrafınız.",
+      "name" : "Fotoğraf Mektupları"
+    },
+    "tk01" : {
+      "description" : "Turkuaz tarih koçanı, fotoğrafınız ve saklanacak bir hikaye.",
+      "name" : "Seyahat Bileti"
+    }
+  }
+}

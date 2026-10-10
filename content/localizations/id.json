@@ -1,0 +1,682 @@
+{
+  "landmarks" : {
+    "au-sydney-opera-house" : {
+      "city" : "Sydney",
+      "country" : "Australia",
+      "introduction" : "Sydney Opera House terletak di Pelabuhan Sydney dan merupakan salah satu bangunan modern Australia yang paling dikenal. Bentuk cangkangnya bertemu dengan air dan siluet kota.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga suvenir ini terbaca seperti surat kabar lokal kecil.",
+      "name" : "Sydney Opera House"
+    },
+    "br-rio-christ-redeemer" : {
+      "city" : "Rio de Janeiro",
+      "country" : "Brasil",
+      "introduction" : "Kristus Penebus berdiri di puncak Corcovado, menghadap Rio, teluk, dan pegunungan di sekitarnya. Patung dan lanskap bersama-sama membentuk pemandangan ikonik kota ini.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Kristus Penebus"
+    },
+    "cn-beijing-forbidden-city" : {
+      "city" : "Beijing",
+      "country" : "Tiongkok",
+      "introduction" : "Kota Terlarang berdiri di poros tengah Beijing. Gerbang, halaman, dan aula menghubungkan upacara kekaisaran, tatanan arsitektur, dan sejarah kota.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Kota Terlarang"
+    },
+    "cn-beijing-great-wall-badaling" : {
+      "city" : "Beijing",
+      "country" : "Tiongkok",
+      "introduction" : "Badaling adalah salah satu bagian Tembok Besar dinasti Ming yang paling banyak dikunjungi di dekat Beijing. Dinding, menara pengawas, dan garis punggung bukit menciptakan siluet Tembok Besar yang klasik.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Tembok Besar Badaling"
+    },
+    "cn-chongqing-eling-erchang" : {
+      "city" : "Chongqing",
+      "country" : "Tiongkok",
+      "introduction" : "Di Eling Main Street No. 1, lokasi ini menjadi Pabrik Percetakan Chongqing No. 2 pada tahun 1953 dan merupakan pusat lokal untuk percetakan warna.\n\nMembuat koran perjalanan di sini menghubungkan potret pribadi dengan masa lalu percetakan kota.",
+      "name" : "Eling Erchang"
+    },
+    "cn-chongqing-hongyadong" : {
+      "city" : "Chongqing",
+      "country" : "Tiongkok",
+      "introduction" : "Hongyadong berdiri di Jalan Tepi Sungai Jialing di Yuzhong. Kawasan wisata kontemporernya menghadirkan bentuk-bentuk bergaya rumah panggung yang terinspirasi dari hunian lereng bukit ke dalam suasana komersial modern.\n\nSejarah suatu bentuk bangunan berbeda dari usia kawasan yang terlihat saat ini.",
+      "name" : "Hongyadong"
+    },
+    "cn-chongqing-jiefangbei" : {
+      "city" : "Chongqing",
+      "country" : "Tiongkok",
+      "introduction" : "Jiefangbei terletak di Semenanjung Yuzhong, Chongqing. Monumen, jalan pejalan kaki, dan gedung-gedung menjadikannya penanda kota sekaligus pusat kota yang sibuk.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Jiefangbei"
+    },
+    "cn-xian-bell-tower" : {
+      "city" : "Xi'an",
+      "country" : "Tiongkok",
+      "introduction" : "Menara Lonceng Xi'an berdiri di dekat pusat kota lama. Sebagai landmark Dinasti Ming yang terkait dengan penunjuk waktu, menara ini masih menandai persimpangan dan pemandangan di sepanjang jalan utama.\n\nPotret di sini menghubungkan wisatawan dengan tatanan kota kuno yang terlihat.",
+      "name" : "Menara Lonceng Xi'an"
+    },
+    "cn-xian-giant-wild-goose-pagoda" : {
+      "city" : "Xi'an",
+      "country" : "Tiongkok",
+      "introduction" : "Pagoda Angsa Liar Raksasa berdiri di dalam Kuil Da Ci'en di Xi'an. Pagoda ini terkait dengan Chang'an pada masa Tang dan dengan ingatan akan karya penerjemahan Buddhis Xuanzang.\n\nPotret di sini membawa lebih dari sekadar garis besar menara: ia menunjuk Xi'an sebagai tempat perjalanan, pembelajaran, dan pertukaran.",
+      "name" : "Pagoda Angsa Liar Raksasa"
+    },
+    "cn-zhangjiajie-wulingyuan" : {
+      "city" : "Zhangjiajie",
+      "country" : "Tiongkok",
+      "introduction" : "Wulingyuan di Hunan dikenal karena pilar batu pasir, lereng berhutan, dan lembah yang dalam. Kawasan wisata ini masuk dalam Daftar Warisan Dunia UNESCO pada 1992.",
+      "name" : "Zhangjiajie · Wulingyuan"
+    },
+    "eg-giza-pyramids" : {
+      "city" : "Kairo",
+      "country" : "Mesir",
+      "introduction" : "Piramida Giza berdiri di Dataran Tinggi Giza, Mesir. Geometrinya, tepi gurun, dan pemandangan kota di sekitarnya menciptakan kontras yang mencolok melintasi zaman.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga suvenir ini terbaca seperti surat kabar lokal kecil.",
+      "name" : "Piramida Giza"
+    },
+    "fr-paris-eiffel" : {
+      "city" : "Paris",
+      "country" : "Prancis",
+      "introduction" : "Dibangun untuk Exposition Universelle 1889, Menara Eiffel menjadi salah satu simbol Paris yang paling jelas. Struktur besinya mengubah rekayasa menjadi garis cakrawala.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Menara Eiffel"
+    },
+    "fr-paris-louvre" : {
+      "city" : "Paris",
+      "country" : "Prancis",
+      "introduction" : "Louvre berkembang dari istana bersejarah menjadi museum besar. Halaman dan piramida kacanya menempatkan arsitektur klasik di samping pintu masuk modern.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Museum Louvre"
+    },
+    "gb-london-tower-bridge" : {
+      "city" : "London",
+      "country" : "Britania Raya",
+      "introduction" : "Tower Bridge membentang di atas Sungai Thames dan merupakan salah satu jembatan London yang paling mudah dikenali. Menara dan struktur bascule-nya menggabungkan sejarah kota dengan lalu lintas sungai.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Tower Bridge"
+    },
+    "it-rome-colosseum" : {
+      "city" : "Roma",
+      "country" : "Italia",
+      "introduction" : "Colosseum adalah amfiteater luas dari Roma kuno. Lengkungan, permukaan batu, dan ruang interior terbuka membuat garis waktu panjang kota ini terlihat.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Colosseum"
+    },
+    "jp-tokyo-sensoji" : {
+      "city" : "Tokyo",
+      "country" : "Jepang",
+      "introduction" : "Senso-ji menjadi jangkar kawasan Asakusa di Tokyo. Kaminarimon, Nakamise-dori, dan aula utamanya menghubungkan kunjungan kuil dengan jalan belanja yang ramai.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Senso-ji"
+    },
+    "kr-seoul-gyeongbokgung" : {
+      "city" : "Seoul",
+      "country" : "Korea Selatan",
+      "introduction" : "Gyeongbokgung adalah situs istana Joseon utama di Seoul. Gerbang, aula, halaman, dan latar pegunungan mengungkap lapisan sejarah kota.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Istana Gyeongbokgung"
+    },
+    "pe-cusco-machu-picchu" : {
+      "city" : "Cusco",
+      "country" : "Peru",
+      "introduction" : "Machu Picchu terletak di Pegunungan Andes Peru dan merupakan situs Inca yang penting. Terasering, dinding batu, dan garis punggungan mengikat kota kuno ini erat dengan lanskapnya.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga suvenir ini terbaca seperti surat kabar lokal kecil.",
+      "name" : "Machu Picchu"
+    },
+    "sg-singapore-merlion" : {
+      "city" : "Singapura",
+      "country" : "Singapura",
+      "introduction" : "Taman Merlion terletak di tepi Marina Bay. Patung, tepi air, dan garis cakrawala menjadikannya tempat yang akrab untuk membaca citra kota Singapura.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Taman Merlion"
+    },
+    "th-bangkok-grand-palace" : {
+      "city" : "Bangkok",
+      "country" : "Thailand",
+      "introduction" : "Istana Agung Bangkok adalah kompleks kerajaan utama dengan bangunan istana, ruang kuil, dan detail berhias. Atap, menara, dan pola mendefinisikan pemandangannya.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Istana Agung"
+    },
+    "us-new-york-liberty" : {
+      "city" : "New York",
+      "country" : "Amerika Serikat",
+      "introduction" : "Patung Liberty berdiri di Liberty Island di Pelabuhan New York. Obor, alas, dan pemandangan pelabuhan menghubungkan monumen nasional dengan garis cakrawala kota.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Patung Liberty"
+    },
+    "us-san-francisco-golden-gate" : {
+      "city" : "San Francisco",
+      "country" : "Amerika Serikat",
+      "introduction" : "Jembatan Golden Gate membentang di atas selat Golden Gate. Menara, kabel, kabut, dan medan teluk menjadikannya salah satu penanda visual terkuat San Francisco.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga kenang-kenangan ini terbaca seperti koran lokal kecil.",
+      "name" : "Jembatan Golden Gate"
+    },
+    "world-acropolis" : {
+      "city" : "Athena",
+      "country" : "Yunani",
+      "introduction" : "Akropolis menjulang di atas bukit berbatu di Athena dan melestarikan monumen termasuk Parthenon. Karya-karya besar abad kelima SM menjadikannya ekspresi penting arsitektur klasik, dengan kolom dan medan yang masih membentuk cakrawala kota.",
+      "name" : "Akropolis"
+    },
+    "world-angkor-wat" : {
+      "city" : "Siem Reap",
+      "country" : "Kamboja",
+      "introduction" : "Angkor Wat adalah kuil utama dalam lanskap arkeologi Angkor. Dibangun di bawah raja-raja Khmer untuk Wisnu, kemudian menjadi pusat ibadah Buddha. Menara, galeri, dan reliefnya menghubungkan tradisi religius yang berubah dengan arsitektur monumental.",
+      "name" : "Angkor Wat"
+    },
+    "world-badshahi-mosque" : {
+      "city" : "Lahore",
+      "country" : "Pakistan",
+      "introduction" : "Masjid Badshahi berdiri di dekat kota bertembok bersejarah Lahore. Dipesan oleh kaisar Mughal Aurangzeb pada abad ketujuh belas, masjid ini menggabungkan fasad merah, kubah pucat, dan halaman luas dalam suasana monumental untuk ibadah.",
+      "name" : "Masjid Badshahi"
+    },
+    "world-baobabs" : {
+      "city" : "Morondava",
+      "country" : "Madagaskar",
+      "introduction" : "Avenue of the Baobabs dekat Morondava dipenuhi baobab Grandidier. Batang besar dan tajuk bercabang tinggi membentuk lanskap yang tak salah lagi di sepanjang jalan, menawarkan pengenalan yang hidup tentang kehidupan tumbuhan khas Madagaskar.",
+      "name" : "Avenue of the Baobabs"
+    },
+    "world-bayterek" : {
+      "city" : "Astana",
+      "country" : "Kazakhstan",
+      "introduction" : "Bayterek adalah monumen dan menara observasi di Astana. Struktur bercabang putihnya menopang bola emas, menciptakan landmark yang jelas di salah satu sumbu publik utama ibu kota dan simbol yang terkait dengan Kazakhstan modern.",
+      "name" : "Bayterek"
+    },
+    "world-belem-tower" : {
+      "city" : "Lisbon",
+      "country" : "Portugal",
+      "introduction" : "Menara Belém adalah benteng abad keenam belas di tepi Sungai Tagus di Lisbon. Menara vertikal menjulang di atas bastion yang lebih rendah, dengan detail batu terukir yang terkait dengan gaya Manueline. Latarnya mengingatkan sejarah maritim dan kolonial Portugal.",
+      "name" : "Menara Belém"
+    },
+    "world-belgrade-fortress" : {
+      "city" : "Beograd",
+      "country" : "Serbia",
+      "introduction" : "Benteng Beograd menempati pertemuan Sungai Sava dan Danube. Citadel bersejarah dan Taman Kalemegdan menggabungkan tembok, lereng, dan pemandangan sungai yang luas, memperlihatkan posisi strategis yang telah menjadi bagian dari lanskap publik kota.",
+      "name" : "Benteng Beograd"
+    },
+    "world-borobudur" : {
+      "city" : "Magelang",
+      "country" : "Indonesia",
+      "introduction" : "Borobudur adalah monumen Buddha di Jawa Tengah yang berasal dari abad kedelapan dan kesembilan. Teras persegi menjulang menuju platform melingkar, dengan panel relief dan stupa berlubang membentuk urutan yang memuncak di stupa pusat.",
+      "name" : "Borobudur"
+    },
+    "world-bran-castle" : {
+      "city" : "Bran",
+      "country" : "Rumania",
+      "introduction" : "Kastil Bran menempati lokasi berbatu di dekat jalur bersejarah di Transylvania. Menara dan temboknya yang berkelompok mencerminkan benteng abad pertengahan. Sejarah bangunan ini sebaiknya dibedakan dari literatur vampir yang kemudian dikaitkan oleh pariwisata.",
+      "name" : "Kastil Bran"
+    },
+    "world-brandenburg-gate" : {
+      "city" : "Berlin",
+      "country" : "Jerman",
+      "introduction" : "Gerbang Brandenburg dibangun pada akhir abad kedelapan belas sebagai monumen neoklasik di Berlin. Kolom, entablatur horizontal yang kuat, dan quadriga di atasnya memberikan siluet yang jelas. Gerbang bekas ini juga menyimpan kenangan akan pembagian dan reunifikasi kota.",
+      "name" : "Gerbang Brandenburg"
+    },
+    "world-bryggen" : {
+      "city" : "Bergen",
+      "country" : "Norwegia",
+      "introduction" : "Bangunan kayu Bryggen melestarikan kaitan Bergen dengan jaringan perdagangan Hanseatik. Kebakaran menyebabkan pembangunan ulang berulang kali, sering mengikuti tata letak dan metode tradisional. Atap pelana di tepi air masih mengekspresikan struktur kawasan perdagangan utara yang bersejarah.",
+      "name" : "Bryggen"
+    },
+    "world-bund" : {
+      "city" : "Shanghai",
+      "country" : "Tiongkok",
+      "introduction" : "The Bund membentang di sepanjang tepi air bersejarah Shanghai di tepi barat Huangpu. Bangunan-bangunannya mengacu pada beberapa tradisi arsitektur Eropa. Di seberang sungai, Lujiazui menawarkan siluet yang sangat berbeda, menyatukan dua babak perkembangan kota ini dalam satu pemandangan.",
+      "name" : "The Bund"
+    },
+    "world-burj-khalifa" : {
+      "city" : "Dubai",
+      "country" : "Uni Emirat Arab",
+      "introduction" : "Burj Khalifa adalah gedung pencakar langit ikonik Dubai, dirancang oleh SOM. Sayap yang tersusun di sekitar inti pusat mundur saat struktur naik, menyempit menuju puncaknya. Profil yang berubah ini mengubah sistem rekayasa kompleks menjadi garis khas di cakrawala.",
+      "name" : "Burj Khalifa"
+    },
+    "world-cape-coast-castle" : {
+      "city" : "Cape Coast",
+      "country" : "Ghana",
+      "introduction" : "Kastil Cape Coast berdiri di pantai Ghana dan sangat terlibat dalam perdagangan budak Atlantik. Dinding menghadap laut dan ruang interiornya melestarikan sejarah perdagangan kolonial dan perpindahan paksa. Kunjungan memerlukan perhatian pada peringatan dan interpretasi.",
+      "name" : "Kastil Cape Coast"
+    },
+    "world-cartagena" : {
+      "city" : "Cartagena",
+      "country" : "Kolombia",
+      "introduction" : "Cartagena adalah pelabuhan bersejarah di pantai Karibia Kolombia. Benteng dan kawasan kota tua melestarikan sejarah perdagangan kolonial dan persaingan maritim, dengan lingkungan yang berbeda berkontribusi pada ruang arsitektur dan publik kota.",
+      "name" : "Kota Berdinding Cartagena"
+    },
+    "world-casbah-algiers" : {
+      "city" : "Aljir",
+      "country" : "Aljazair",
+      "introduction" : "Kasbah adalah distrik bersejarah Aljir yang menghadap ke Mediterania. Jalan tradisional, masjid dan sisa istana menempati lereng, di mana bangunan yang tersusun rapat, halaman dan lorong melestarikan karakter medina pesisir Afrika Utara.",
+      "name" : "Kasbah Aljir"
+    },
+    "world-charles-bridge" : {
+      "city" : "Praha",
+      "country" : "Ceko",
+      "introduction" : "Jembatan Charles melintasi Sungai Vltava di Praha dan mulai dibangun pada abad keempat belas. Lengkungan batu menghubungkan kedua tepian, sementara patung-patung dan menara jembatan menjadikan penyeberangan ini bagian dari lanskap seni dan sejarah kota.",
+      "name" : "Jembatan Charles"
+    },
+    "world-chichen-itza" : {
+      "city" : "Yucatán",
+      "country" : "Meksiko",
+      "introduction" : "Chichén Itzá adalah situs arkeologi Maya utama di Semenanjung Yucatán, Meksiko. Piramida bertingkat, Kuil Para Pejuang dan observatorium bundar melestarikan bukti beberapa tradisi budaya yang bertemu di satu kota berpengaruh.",
+      "name" : "Chichén Itzá"
+    },
+    "world-chillon-castle" : {
+      "city" : "Veytaux",
+      "country" : "Swiss",
+      "introduction" : "Chillon adalah kastil abad pertengahan di ujung timur Danau Jenewa. Menara, halaman, dan dinding tepi air menempati lingkungan berbatu yang sempit, mencerminkan pentingnya rute antara tepi danau dan lembah Alpen di seberangnya.",
+      "name" : "Kastil Chillon"
+    },
+    "world-chocolate-hills" : {
+      "city" : "Bohol",
+      "country" : "Filipina",
+      "introduction" : "Bukit Cokelat membentuk lanskap khas di Bohol, Filipina. Rumput berubah warna sesuai musim, dengan warna cokelat pada musim kemarau memberi nama yang familiar bagi perbukitan ini. Kerucut bulat yang berulang menciptakan horizon yang luas dan berirama.",
+      "name" : "Bukit Cokelat"
+    },
+    "world-cliffs-of-moher" : {
+      "city" : "County Clare",
+      "country" : "Irlandia",
+      "introduction" : "Tebing Moher membentang di sepanjang pantai Atlantik County Clare. Dinding batu berlapis menjulang di atas laut, dengan tanjung-tanjung berturut-turut menciptakan kedalaman di sepanjang garis pantai. Cahaya dan cuaca terus mengubah hubungan antara tebing, air dan cakrawala.",
+      "name" : "Tebing Moher"
+    },
+    "world-cn-tower" : {
+      "city" : "Toronto",
+      "country" : "Kanada",
+      "introduction" : "Menara CN Toronto selesai pada tahun 1976 sebagai menara komunikasi dan observasi. Poros ramping menopang struktur observasi yang lebih lebar, dengan antena yang berlanjut ke atas, menciptakan profil yang mudah dikenali di atas bangunan sekitarnya.",
+      "name" : "Menara CN"
+    },
+    "world-dubrovnik" : {
+      "city" : "Dubrovnik",
+      "country" : "Kroasia",
+      "introduction" : "Kota tua Dubrovnik berdiri di tepi Adriatik, dikelilingi tembok batu yang besar. Gereja, istana, dan atap genteng melestarikan karakter kota maritim bersejarah yang dibentuk oleh kemakmuran, gempa bumi, konflik, dan restorasi.",
+      "name" : "Kota Tua Dubrovnik"
+    },
+    "world-el-jem" : {
+      "city" : "El Jem",
+      "country" : "Tunisia",
+      "introduction" : "Amfiteater El Jem adalah monumen Romawi utama di Tunisia. Bentuk elips, lengkungan bertingkat dan tempat duduk yang masih ada mengungkap skala tempat pertunjukan umum kuno, menciptakan landmark yang mencolok di dalam kota saat ini.",
+      "name" : "Amfiteater El Jem"
+    },
+    "world-fort-jesus" : {
+      "city" : "Mombasa",
+      "country" : "Kenya",
+      "introduction" : "Benteng Jesus dibangun di Mombasa pada akhir abad keenam belas untuk mempertahankan pelabuhan. Denah bersudut dan dinding tebalnya melestarikan babak arsitektur militer Portugis dalam sejarah perdagangan Samudra Hindia dan pantai Swahili yang lebih luas.",
+      "name" : "Benteng Jesus"
+    },
+    "world-goree" : {
+      "city" : "Dakar",
+      "country" : "Senegal",
+      "introduction" : "Gorée terletak di lepas pantai Dakar dan merupakan tempat peringatan yang terkait dengan perdagangan budak Atlantik. Bangunan, jalan dan ruang menghadap lautnya mengundang refleksi tentang migrasi paksa dan eksploitasi bersama karakter bersejarah pulau yang terlihat.",
+      "name" : "Pulau Gorée"
+    },
+    "world-grand-place" : {
+      "city" : "Brussels",
+      "country" : "Belgia",
+      "introduction" : "Grand Place Brussels menyatukan Balai Kota, bangunan guild, dan arsitektur sipil lainnya. Gable berhias, patung, dan menara tinggi mencatat kehidupan komersial dan publik kota, mengubah alun-alun menjadi ansambel yang dapat dibaca fasad demi fasad.",
+      "name" : "Grand Place"
+    },
+    "world-ha-long-bay" : {
+      "city" : "Ha Long",
+      "country" : "Vietnam",
+      "introduction" : "Teluk Ha Long dikenal karena menara batu kapurnya yang menjulang dari laut. Bersama Kepulauan Cat Ba, tempat ini membentuk lanskap Warisan Dunia di mana pulau-pulau dan selat mengungkap bentuk-bentuk mencolok dari karst yang terendam laut.",
+      "name" : "Teluk Ha Long"
+    },
+    "world-hagia-sophia" : {
+      "city" : "Istanbul",
+      "country" : "Turki",
+      "introduction" : "Struktur utama Hagia Sophia berasal dari abad keenam. Bangunan ini pernah berfungsi sebagai gereja, masjid, dan museum, dan kini kembali digunakan untuk ibadah Muslim. Kubah besarnya dan lapisan dekorasi yang tersisa mencerminkan sejarah religius dan sipil Istanbul yang berubah.",
+      "name" : "Hagia Sophia"
+    },
+    "world-hallgrimskirkja" : {
+      "city" : "Reykjavík",
+      "country" : "Islandia",
+      "introduction" : "Hallgrímskirkja adalah gereja Lutheran yang menonjol di Reykjavík. Menara tinggi dan sayap samping bertingkatnya menciptakan komposisi yang sangat vertikal, membuatnya sangat mudah dikenali di atas bangunan kota yang umumnya lebih rendah.",
+      "name" : "Hallgrímskirkja"
+    },
+    "world-hegra" : {
+      "city" : "AlUla",
+      "country" : "Arab Saudi",
+      "introduction" : "Hegra, di wilayah AlUla Arab Saudi, melestarikan sisa-sisa utama peradaban Nabataean. Fasad makam yang dipahat, prasasti, dan sumur mengungkap pengetahuan arsitektur dan pengelolaan air, memperluas kisah budaya ke selatan dari Petra.",
+      "name" : "Hegra"
+    },
+    "world-humble-administrators-garden" : {
+      "city" : "Suzhou",
+      "country" : "Tiongkok",
+      "introduction" : "Taman Humble Administrator termasuk dalam kumpulan taman Warisan Dunia Suzhou. Air, paviliun, batu, dan tanaman menghadirkan lanskap yang lebih luas ke dalam lingkungan yang terbatas. Koridor dan bukaan mengarahkan pandangan, sehingga sedikit perubahan posisi dapat mengungkap komposisi lain.",
+      "name" : "Taman Humble Administrator"
+    },
+    "world-karnak" : {
+      "city" : "Luxor",
+      "country" : "Mesir",
+      "introduction" : "Karnak dekat Luxor adalah kompleks religius utama Thebes kuno. Para penguasa berikutnya menambahkan pylon, halaman, dan aula, menciptakan situs yang terbentuk selama banyak generasi, bukan bangunan tunggal yang selesai dalam satu masa pemerintahan.",
+      "name" : "Karnak"
+    },
+    "world-kinderdijk" : {
+      "city" : "Kinderdijk",
+      "country" : "Belanda",
+      "introduction" : "Kincir angin Kinderdijk merupakan bagian dari sistem pengelolaan air Belanda yang lebih luas. Tanggul, waduk, stasiun pompa, dan kincir bekerja dalam sejarah pengeringan tanah rendah. Pemandangan yang damai juga merupakan lanskap yang dibentuk oleh rekayasa dan kerja keras yang berkelanjutan.",
+      "name" : "Kincir Angin Kinderdijk"
+    },
+    "world-kiyomizu-dera" : {
+      "city" : "Kyoto",
+      "country" : "Jepang",
+      "introduction" : "Kiyomizu-dera berdiri di perbukitan timur Kyoto dan merupakan bagian dari monumen Warisan Dunianya. Arsitektur kayu kuil ini bertemu dengan lereng berhutan, dengan panggung yang terkenal membuka pemandangan ke arah kota di kejauhan.",
+      "name" : "Kiyomizu-dera"
+    },
+    "world-kotor" : {
+      "city" : "Kotor",
+      "country" : "Montenegro",
+      "introduction" : "Kotor terletak di teluk Adriatik yang terlindung, dengan pegunungan terjal menjulang langsung di belakang kota tua. Tembok, gereja, dan jalan berbatu melestarikan sejarah perdagangan dan kerajinan sekaligus memperlihatkan betapa kuat medan membentuk permukiman ini.",
+      "name" : "Kota Tua Kotor"
+    },
+    "world-koutoubia" : {
+      "city" : "Marrakesh",
+      "country" : "Maroko",
+      "introduction" : "Masjid Koutoubia adalah landmark keagamaan utama di samping kota tua Marrakesh. Menara persegi, detail dekoratif dan taman sekitarnya menciptakan titik acuan yang jelas di dalam kota dan mencerminkan tradisi arsitektur Maghreb.",
+      "name" : "Masjid Koutoubia"
+    },
+    "world-la-mano" : {
+      "city" : "Punta del Este",
+      "country" : "Uruguay",
+      "introduction" : "La Mano berdiri di Pantai Brava di Punta del Este. Dibuat oleh seniman Chili Mario Irarrázabal, kelima jarinya tampak muncul dari pasir, menghadirkan karya seni publik yang sederhana dan mudah diingat ke dalam lanskap pesisir.",
+      "name" : "La Mano"
+    },
+    "world-lake-bled" : {
+      "city" : "Bled",
+      "country" : "Slovenia",
+      "introduction" : "Danau Bled terletak di wilayah Alpen barat laut Slovenia. Pulau, kastil di tepi danau, dan perbukitan berhutan menciptakan susunan marka tanah yang khas di sekitar perairan, dengan pantulan yang menghubungkan lingkungan binaan dan alam.",
+      "name" : "Danau Bled"
+    },
+    "world-lalbagh-fort" : {
+      "city" : "Dhaka",
+      "country" : "Bangladesh",
+      "introduction" : "Benteng Lalbagh adalah kompleks Mughal yang belum selesai di Dhaka Lama. Masjid, makam, dan struktur lain yang masih ada menyimpan jejak proyek ambisius. Tempat ini mengundang perhatian pada rencana yang terputus serta bangunan yang tersisa.",
+      "name" : "Benteng Lalbagh"
+    },
+    "world-lalibela" : {
+      "city" : "Lalibela",
+      "country" : "Etiopia",
+      "introduction" : "Gereja-gereja batu pahat abad pertengahan Lalibela tetap menjadi situs suci Kristen Etiopia yang penting. Bangunan, halaman dan lorong dipahat langsung ke dalam batu. Gereja Santo George yang berbentuk salib membuat hubungan tidak biasa antara arsitektur dan tanah ini sangat jelas.",
+      "name" : "Gereja Lalibela"
+    },
+    "world-luang-prabang" : {
+      "city" : "Luang Prabang",
+      "country" : "Laos",
+      "introduction" : "Wat Xieng Thong berdiri di dekat ujung utara semenanjung Luang Prabang. Sebagai biara Laos yang penting, tempat ini menghubungkan sejarah kerajaan, ibadah Buddha, dan seni tradisional. Garis atapnya yang melengkung dan permukaan dekoratifnya menawarkan pengenalan yang intim tentang kota tua ini.",
+      "name" : "Wat Xieng Thong"
+    },
+    "world-mont-saint-michel" : {
+      "city" : "Mont-Saint-Michel",
+      "country" : "Prancis",
+      "introduction" : "Mont-Saint-Michel menjulang dari lanskap pasang surut di Normandia. Biara dan desa menaiki pulau berbatu di atas tembok dan hamparan pasir, menunjukkan bagaimana arsitektur religius menyesuaikan diri dengan situs alam yang sangat menantang dan berubah-ubah.",
+      "name" : "Mont-Saint-Michel"
+    },
+    "world-nyhavn" : {
+      "city" : "Kopenhagen",
+      "country" : "Denmark",
+      "introduction" : "Nyhavn adalah kanal bersejarah dan kawasan tepi air di Kopenhagen. Deretan rumah kota berwarna-warni dan perahu kayu mempertahankan karakter pelabuhan, sementara aktivitas di sepanjang tepiannya menjaganya tetap terhubung erat dengan kehidupan kota kontemporer.",
+      "name" : "Nyhavn"
+    },
+    "world-obelisco" : {
+      "city" : "Buenos Aires",
+      "country" : "Argentina",
+      "introduction" : "Obelisco berdiri di Plaza de la República di Buenos Aires, di persimpangan Jalan Corrientes dan 9 de Julio. Dibangun pada 1936 untuk menandai empat abad sejak pendirian pertama kota itu, obelisk ini menjadi titik penting di pusat kota.",
+      "name" : "Obelisco"
+    },
+    "world-old-havana" : {
+      "city" : "Havana",
+      "country" : "Kuba",
+      "introduction" : "Havana Tua melestarikan jaringan bersejarah berupa alun-alun, arkade, balkon dan halaman. Bangunan barok dan neoklasik berdiri bersama, mencerminkan pertumbuhan kota pelabuhan Karibia di mana ruang publik tetap terkait erat dengan kehidupan sehari-hari.",
+      "name" : "Havana Tua"
+    },
+    "world-osaka-castle" : {
+      "city" : "Osaka",
+      "country" : "Jepang",
+      "introduction" : "Istana Osaka terkait dengan unifikasi Jepang pada abad keenam belas. Menara utama yang ada sekarang direkonstruksi pada tahun 1931, bukan bertahan tanpa perubahan dari era itu. Lingkungannya yang berupa dinding batu dan parit membantu mengungkap lapisan sejarah situs ini yang berbeda-beda.",
+      "name" : "Istana Osaka"
+    },
+    "world-panama-viejo" : {
+      "city" : "Kota Panama",
+      "country" : "Panama",
+      "introduction" : "Panamá Viejo melestarikan sisa-sisa permukiman asli kota. Setelah kehancurannya pada 1671, pusat kota berpindah ke lokasi baru. Menara, tembok, dan pola jalan yang tersisa membuat babak awal itu tetap terlihat di Kota Panama hari ini.",
+      "name" : "Panamá Viejo"
+    },
+    "world-paphos" : {
+      "city" : "Paphos",
+      "country" : "Siprus",
+      "introduction" : "Taman Arkeologi Paphos melestarikan sisa-sisa penting Nea Paphos kuno, termasuk rumah, bangunan publik, dan mosaik lantai yang rumit. Pola geometris dan adegan mitologis memperlihatkan bagaimana seni masuk ke ruang domestik di kota Mediterania ini.",
+      "name" : "Taman Arkeologi Paphos"
+    },
+    "world-parliament-budapest" : {
+      "city" : "Budapest",
+      "country" : "Hongaria",
+      "introduction" : "Gedung Parlemen Hongaria berdiri di sisi Pest Sungai Danube. Menara neo-Gotik dan kubah pusatnya menciptakan siluet panjang yang berirama, menjadikan tepi sungai salah satu tempat paling jelas untuk mengenali lanskap sipil Budapest.",
+      "name" : "Gedung Parlemen Hongaria"
+    },
+    "world-petra" : {
+      "city" : "Wadi Musa",
+      "country" : "Yordania",
+      "introduction" : "Petra adalah kota Nabataean di titik pertemuan penting jalur perdagangan. Bangunannya sebagian dibangun dan sebagian dipahat ke dalam batu pasir. Jurang, permukaan batu, dan sistem air membantu menjelaskan bagaimana kota ini menempati lanskap dramatis ini.",
+      "name" : "Petra"
+    },
+    "world-petronas-towers" : {
+      "city" : "Kuala Lumpur",
+      "country" : "Malaysia",
+      "introduction" : "Menara Petronas adalah pasangan yang tak terlupakan di siluet Kuala Lumpur, dihubungkan oleh jembatan langit. Profilnya yang bertingkat dan fasad logam-dan-kaca menjadikan repetisi dan simetri sebagai ciri khas landmark kota modern ini.",
+      "name" : "Menara Petronas"
+    },
+    "world-potala-palace" : {
+      "city" : "Lhasa",
+      "country" : "Tiongkok",
+      "introduction" : "Istana Potala menjulang di Gunung Merah di Lhasa, dengan Istana Putih dan Istana Merahnya membentuk siluet berlapis yang khas. Sebagai bekas kediaman musim dingin para Dalai Lama, tempat ini menghubungkan arsitektur, seni religius, dan lingkungan pegunungan di sekitarnya secara erat.",
+      "name" : "Istana Potala"
+    },
+    "world-quito" : {
+      "city" : "Quito",
+      "country" : "Ekuador",
+      "introduction" : "Pusat bersejarah Quito terletak di dalam Andes dan melestarikan gereja, biara dan ruang kota utama. Seninya menggabungkan bentuk Eropa dengan tradisi pembuatan lokal, menghasilkan ekspresi arsitektur yang khas daripada model impor sederhana.",
+      "name" : "Pusat Bersejarah Quito"
+    },
+    "world-rapa-nui" : {
+      "city" : "Rapa Nui",
+      "country" : "Chili",
+      "introduction" : "Ahu Tongariki di Rapa Nui menggabungkan platform seremonial dengan barisan moai. Patung-patung yang berdiri telah dipugar setelah runtuh dan kerusakan akibat tsunami, melestarikan tradisi seni patung pulau itu dan sejarah konservasi yang lebih baru.",
+      "name" : "Ahu Tongariki"
+    },
+    "world-registan" : {
+      "city" : "Samarkand",
+      "country" : "Uzbekistan",
+      "introduction" : "Alun-alun Registan di Samarkand diapit oleh tiga madrasah. Portal tinggi, kubah biru, dan ubin geometris memberikan karakter yang khas, menghubungkan tradisi pembelajaran, kerajinan, dan kehidupan publik kota Jalur Sutra ini.",
+      "name" : "Registan"
+    },
+    "world-rila-monastery" : {
+      "city" : "Rila",
+      "country" : "Bulgaria",
+      "introduction" : "Biara Rila adalah situs budaya Ortodoks penting di lembah pegunungan Bulgaria. Sebagian besar kompleksnya saat ini dibangun kembali pada abad kesembilan belas, dengan arkade, permukaan berhias lukisan, dan gereja yang mengekspresikan seni Kebangkitan Nasional Bulgaria.",
+      "name" : "Biara Rila"
+    },
+    "world-rock-islands" : {
+      "city" : "Koror",
+      "country" : "Palau",
+      "introduction" : "Kepulauan Rock di Palau membentuk lanskap pulau-pulau kecil batu kapur, vegetasi hijau, dan air laguna. Laguna Selatan juga memiliki terumbu, danau laut, dan peninggalan budaya, menyatukan keragaman ekologi dan sejarah manusia dalam lanskap pulau yang sama.",
+      "name" : "Kepulauan Rock"
+    },
+    "world-sagrada-familia" : {
+      "city" : "Barcelona",
+      "country" : "Spanyol",
+      "introduction" : "Sagrada Família sangat terkait dengan Antoni Gaudí dan Barcelona. Fasad terpahat, menara menjulang, dan bentuk yang terinspirasi alam memberikan bahasa arsitektur yang khas. Fasad Kelahiran dan kriptanya termasuk dalam daftar Warisan Dunia karya Gaudí.",
+      "name" : "Sagrada Família"
+    },
+    "world-schonbrunn" : {
+      "city" : "Wina",
+      "country" : "Austria",
+      "introduction" : "Schönbrunn merupakan kediaman penting para penguasa Habsburg. Istana dan tamannya membentuk kesatuan Barok di Wina, di mana fasad, jalur, dan elemen taman di kejauhan dihubungkan oleh sumbu dan pemandangan yang tertata dengan cermat.",
+      "name" : "Istana Schönbrunn"
+    },
+    "world-sigiriya" : {
+      "city" : "Sigiriya",
+      "country" : "Sri Lanka",
+      "introduction" : "Sigiriya menjulang sebagai batu granit di atas hutan di sekitarnya di Sri Lanka. Sisa-sisa pusat kerajaan kuno menempati lereng dan puncaknya, dengan tangga, teras, dan taman yang mengubah medan dramatis menjadi latar arsitektur.",
+      "name" : "Sigiriya"
+    },
+    "world-sky-tower" : {
+      "city" : "Auckland",
+      "country" : "Selandia Baru",
+      "introduction" : "Sky Tower di Auckland adalah struktur komunikasi dan observasi di pusat kota. Menara ramping, tingkat observasi yang menonjol, dan tiang atasnya membentuk siluet yang jelas, menjadi acuan visual di antara jalan dan cakrawala kota pelabuhan itu.",
+      "name" : "Sky Tower"
+    },
+    "world-sri-siva-subramaniya" : {
+      "city" : "Nadi",
+      "country" : "Fiji",
+      "introduction" : "Kuil Sri Siva Subramaniya di Nadi adalah situs religius dan budaya penting bagi komunitas Indo-Fiji di Fiji. Menara masuknya yang berwarna cerah dan detail patungnya membawa tradisi kuil India Selatan ke lingkungan perkotaan Pasifik Selatan.",
+      "name" : "Kuil Sri Siva Subramaniya"
+    },
+    "world-stari-most" : {
+      "city" : "Mostar",
+      "country" : "Bosnia dan Herzegovina",
+      "introduction" : "Stari Most melintasi Neretva di Mostar. Jembatan era Ottoman ini dihancurkan selama konflik tahun 1990-an dan kemudian dibangun kembali. Lengkungan tunggalnya kini membawa kisah pemulihan warisan sekaligus jalur antara kedua tepian.",
+      "name" : "Stari Most"
+    },
+    "world-stockholm-city-hall" : {
+      "city" : "Stockholm",
+      "country" : "Swedia",
+      "introduction" : "Balai Kota Stockholm berdiri di tepi air di Kungsholmen. Bangunan ini melayani administrasi sipil dan kehidupan seremonial, dengan bata merah, halaman luas, dan menara yang dimahkotai tiga mahkota berlapis emas membentuk marka tanah kota yang khas.",
+      "name" : "Balai Kota Stockholm"
+    },
+    "world-stone-town" : {
+      "city" : "Kota Zanzibar",
+      "country" : "Tanzania",
+      "introduction" : "Stone Town adalah contoh utama kota perdagangan Swahili Afrika Timur. Jalan sempit, bangunan besar dan pintu berukir mencerminkan hubungan dengan Afrika, Arab, India dan Eropa, bersama sejarah sulit perbudakan dan perdagangan Samudra Hindia.",
+      "name" : "Stone Town"
+    },
+    "world-sultan-qaboos-mosque" : {
+      "city" : "Muscat",
+      "country" : "Oman",
+      "introduction" : "Masjid Agung Sultan Qaboos adalah bangunan religius kontemporer utama di Muscat. Kubah, menara, dan halaman luasnya menciptakan komposisi yang teratur, dengan nada batu pucat yang menyatu secara alami dengan latar pegunungan kota.",
+      "name" : "Masjid Agung Sultan Qaboos"
+    },
+    "world-suomenlinna" : {
+      "city" : "Helsinki",
+      "country" : "Finlandia",
+      "introduction" : "Suomenlinna menempati pulau-pulau di luar pelabuhan Helsinki dan mulai dibangun di bawah kekuasaan Swedia pada abad kedelapan belas. Tembok dan jalurnya mengikuti medan, menunjukkan bagaimana benteng laut Eropa beradaptasi dengan lingkungan kepulauan.",
+      "name" : "Suomenlinna"
+    },
+    "world-swayambhunath" : {
+      "city" : "Kathmandu",
+      "country" : "Nepal",
+      "introduction" : "Swayambhunath menempati sebuah bukit di Lembah Kathmandu dan merupakan situs suci Buddhis yang penting. Stupa putihnya, mata yang dilukis, dan menara yang menjulang membentuk siluet yang khas, menghubungkan kota di bawahnya dengan tradisi ziarah yang panjang.",
+      "name" : "Swayambhunath"
+    },
+    "world-taj-mahal" : {
+      "city" : "Agra",
+      "country" : "India",
+      "introduction" : "Taj Mahal berdiri di tepi Yamuna di Agra. Shah Jahan memerintahkan pembangunan mausoleum ini untuk mengenang Mumtaz Mahal. Marmer putih, kubah pusat, menara sudut, dan sumbu taman formal menciptakan komposisi arsitektur yang seimbang dengan cermat.",
+      "name" : "Taj Mahal"
+    },
+    "world-tigers-nest" : {
+      "city" : "Paro",
+      "country" : "Bhutan",
+      "introduction" : "Paro Taktsang, dikenal sebagai Tiger's Nest, adalah situs suci Buddhis di tebing di atas Lembah Paro. Bangunan berdinding putih melekat pada batu, membuat hubungan antara biara dan lingkungan pegunungan yang curam sangat mencolok.",
+      "name" : "Tiger's Nest"
+    },
+    "world-tikal" : {
+      "city" : "Petén",
+      "country" : "Guatemala",
+      "introduction" : "Tikal adalah situs kota Maya utama di dalam hutan hujan Petén, Guatemala. Kuil tinggi, istana dan plaza muncul di antara vegetasi, menempatkan bentuk arsitektur vertikal terhadap kanopi luas hutan sekitarnya.",
+      "name" : "Tikal"
+    },
+    "world-uluru" : {
+      "city" : "Yulara",
+      "country" : "Australia",
+      "introduction" : "Uluru adalah formasi batu pasir yang menonjol di Australia tengah dan bagian penting dari budaya serta kepercayaan Anangu. Massa besarnya menjulang di atas dataran, dengan cahaya yang berubah menampakkan permukaannya, tetapi maknanya jauh melampaui geologi.",
+      "name" : "Uluru"
+    },
+    "world-valletta" : {
+      "city" : "Valletta",
+      "country" : "Malta",
+      "introduction" : "Valletta menempati semenanjung di antara dua pelabuhan di Malta. Terkait erat dengan Ordo St John, jaringan bersejarahnya yang padat menyatukan arsitektur religius, militer, dan sipil dalam lingkungan perkotaan yang sangat terkonsentrasi.",
+      "name" : "Valletta"
+    },
+    "world-victoria-falls" : {
+      "city" : "Air Terjun Victoria",
+      "country" : "Zimbabwe",
+      "introduction" : "Air Terjun Victoria terletak di Sungai Zambezi di perbatasan Zambia dan Zimbabwe. Air jatuh ke ngarai basal dan menimbulkan awan semprotan yang luas. Air terjun, sungai dan batu bersama-sama membentuk lanskap dramatis yang dibagi oleh kedua negara.",
+      "name" : "Air Terjun Victoria"
+    },
+    "world-victoria-peak" : {
+      "city" : "Hong Kong",
+      "country" : "Tiongkok",
+      "introduction" : "Victoria Peak menjulang di sisi barat Pulau Hong Kong. Pemandangannya menyatukan gedung-gedung Central, Victoria Harbour, dan perbukitan di sekitarnya dalam satu latar, memperlihatkan bagaimana siluet kota yang padat ini pas di antara tanah yang curam dan air.",
+      "name" : "Victoria Peak"
+    },
+    "world-wawel" : {
+      "city" : "Kraków",
+      "country" : "Polandia",
+      "introduction" : "Kastil Wawel menempati sebuah bukit di tepi Sungai Vistula di Kraków dan merupakan situs utama sejarah kerajaan Polandia. Diperluas seiring waktu, halaman, menara, dan fasadnya yang beragam melestarikan beberapa periode arsitektur dalam satu kompleks.",
+      "name" : "Kastil Wawel"
+    },
+    "world-west-lake" : {
+      "city" : "Hangzhou",
+      "country" : "Tiongkok",
+      "introduction" : "Danau Barat memadukan perairan terbuka dan perbukitan di sekitarnya dengan tanggul, pulau, kuil, dan taman yang dibentuk selama berabad-abad. Pemandangannya yang tertata cermat memengaruhi desain taman di luar Hangzhou, menjadikan tepi danau tempat untuk membaca pertemuan lanskap dan budaya.",
+      "name" : "Danau Barat"
+    },
+    "za-cape-town-table-mountain" : {
+      "city" : "Cape Town",
+      "country" : "Afrika Selatan",
+      "introduction" : "Table Mountain menjulang di belakang Cape Town dengan profil puncaknya yang rata. Gunung, teluk, kota, dan awan yang berubah-ubah membentuk salah satu pemandangan utama kota ini.\n\nEdisi ini memadukan konteks tempat, petunjuk pemandangan, dan foto pribadi, sehingga suvenir ini terbaca seperti surat kabar lokal kecil.",
+      "name" : "Table Mountain"
+    }
+  },
+  "locale" : "id",
+  "schemaVersion" : 1,
+  "templates" : {
+    "ct01" : {
+      "description" : "Kisah wisata dan potretmu dalam edisi dua kolom.",
+      "name" : "Edisi Kota"
+    },
+    "dp01" : {
+      "description" : "Satu pemandangan utuh yang terbentang di dua panel.",
+      "name" : "Diptik Pemandangan"
+    },
+    "fl01" : {
+      "description" : "Ilustrasi pada kertas terang dan bingkai film.",
+      "name" : "Film Ilustrasi"
+    },
+    "fl02" : {
+      "description" : "Foto warna asli dengan bingkai film tipis.",
+      "name" : "Hidup di Film"
+    },
+    "hc01" : {
+      "description" : "Kepala surat merah, potret, dan pemandangan untuk memperingati hari istimewa.",
+      "name" : "Kabar Baik"
+    },
+    "hf01" : {
+      "description" : "Satu bingkai nyata, satu lukisan jauh, menyimpan cahaya di jalan.",
+      "name" : "Catatan Film"
+    },
+    "hm01" : {
+      "description" : "Foto besar dengan kolom ilustrasi perjalanan di sampingnya.",
+      "name" : "Majalah Wisata"
+    },
+    "hn01" : {
+      "description" : "Kepala besar, foto lokasi, dan kolom rapat—kamu jadi bintang kota.",
+      "name" : "Berita Kota"
+    },
+    "ht01" : {
+      "description" : "Fotomu dan ilustrasi tempat wisata bersama di halaman depan.",
+      "name" : "Jurnal Perjalanan"
+    },
+    "mu01" : {
+      "description" : "Satu pemandangan, satu label galeri pribadi.",
+      "name" : "Koleksi Pribadi"
+    },
+    "nf01" : {
+      "description" : "Kepala surat kuning-hitam berani dengan judul besar untuk perjalananmu.",
+      "name" : "Berita Kilat"
+    },
+    "pc01" : {
+      "description" : "Kartu foto besar dengan kertas hangat, tanggal, dan catatan perjalanan untuk disimpan dan dibagikan.",
+      "name" : "Kartu Kenangan"
+    },
+    "pc02" : {
+      "description" : "Kartu foto bersih dengan bingkai kertas hangat, tanggal, dan merek.",
+      "name" : "Foto Potret"
+    },
+    "rd01" : {
+      "description" : "Kepala surat di tengah, potret penuh, dan tiga kolom cerita.",
+      "name" : "Harian Klasik"
+    },
+    "st01" : {
+      "description" : "Ilustrasi tempat wisata dengan tepi perforasi dan cap tanggal.",
+      "name" : "Surat Pemandangan"
+    },
+    "st02" : {
+      "description" : "Fotomu dengan perangko ilustrasi opsional.",
+      "name" : "Surat Foto"
+    },
+    "tk01" : {
+      "description" : "Stub tanggal dan foto jalan-jalan untuk mengenang perhentian ini.",
+      "name" : "Surat Tiket"
+    }
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "landmarks" : {
+    "au-sydney-opera-house" : {
+      "city" : "Sydney",
+      "country" : "Australia",
+      "introduction" : "Sydney Opera House znajduje się nad zatoką Sydney i jest jednym z najbardziej rozpoznawalnych nowoczesnych budynków Australii. Jej muszle spotykają się z wodą i panoramą miasta.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka wygląda jak mała lokalna gazeta.",
+      "name" : "Sydney Opera House"
+    },
+    "br-rio-christ-redeemer" : {
+      "city" : "Rio de Janeiro",
+      "country" : "Brazylia",
+      "introduction" : "Chrystus Zbawiciel stoi na szczycie Corcovado, górując nad Rio, zatoką i otaczającymi górami. Posąg i krajobraz razem tworzą ikoniczny widok miasta.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Chrystus Zbawiciel"
+    },
+    "cn-beijing-forbidden-city" : {
+      "city" : "Pekin",
+      "country" : "Chiny",
+      "introduction" : "Zakazane Miasto stoi na centralnej osi Pekinu. Jego bramy, dziedzińce i pałace łączą ceremonię cesarską, porządek architektoniczny i historię miasta.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Zakazane Miasto"
+    },
+    "cn-beijing-great-wall-badaling" : {
+      "city" : "Pekin",
+      "country" : "Chiny",
+      "introduction" : "Badaling to jeden z najczęściej odwiedzanych odcinków Wielkiego Muru z czasów dynastii Ming w pobliżu Pekinu. Mury, wieże strażnicze i linie grzbietów tworzą klasyczną sylwetkę Wielkiego Muru.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Wielki Mur w Badaling"
+    },
+    "cn-chongqing-eling-erchang" : {
+      "city" : "Chongqing",
+      "country" : "Chiny",
+      "introduction" : "Przy Eling Main Street 1 w 1953 roku powstała Chongqing Printing Factory No. 2, która była lokalnym ośrodkiem druku kolorowego.\n\nTworzenie tutaj gazety podróżniczej łączy osobisty portret z historią drukarstwa w mieście.",
+      "name" : "Eling Erchang"
+    },
+    "cn-chongqing-hongyadong" : {
+      "city" : "Chongqing",
+      "country" : "Chiny",
+      "introduction" : "Hongyadong znajduje się przy Jialing Riverside Road w dzielnicy Yuzhong. Współczesny kompleks turystyczny wprowadza formy na palach inspirowane domami na zboczach w nowoczesną przestrzeń komercyjną.\n\nHistoria formy architektonicznej różni się od wieku dzisiejszej dzielnicy.",
+      "name" : "Hongyadong"
+    },
+    "cn-chongqing-jiefangbei" : {
+      "city" : "Chongqing",
+      "country" : "Chiny",
+      "introduction" : "Jiefangbei leży na półwyspie Yuzhong w Chongqing. Pomnik, deptaki i wieżowce czynią go zarówno znakiem miejskim, jak i ruchliwym centrum miasta.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Jiefangbei"
+    },
+    "cn-xian-bell-tower" : {
+      "city" : "Xi'an",
+      "country" : "Chiny",
+      "introduction" : "Dzwonnica w Xi'an stoi w pobliżu centrum starego miasta. Jako zabytek z czasów dynastii Ming związany z odmierzaniem czasu, wciąż wyznacza skrzyżowanie i widok wzdłuż głównych ulic.\n\nPortret w tym miejscu łączy podróżnego z widocznym porządkiem starożytnego miasta.",
+      "name" : "Dzwonnica w Xi'an"
+    },
+    "cn-xian-giant-wild-goose-pagoda" : {
+      "city" : "Xi'an",
+      "country" : "Chiny",
+      "introduction" : "Wielka Pagoda Dzikiej Gęsi stoi w świątyni Da Ci'en w Xi'an. Jest związana z Chang'an z czasów dynastii Tang i pamięcią o pracy tłumaczeniowej Xuanzanga nad tekstami buddyjskimi.\n\nPortret w tym miejscu niesie więcej niż zarys wieży: wskazuje na Xi'an jako miejsce podróży, nauki i wymiany.",
+      "name" : "Wielka Pagoda Dzikiej Gęsi"
+    },
+    "cn-zhangjiajie-wulingyuan" : {
+      "city" : "Zhangjiajie",
+      "country" : "Chiny",
+      "introduction" : "Wulingyuan w Hunanie słynie z piaskowcowych filarów, zalesionych zboczy i głębokich dolin. Obszar krajobrazowy został wpisany na Listę Światowego Dziedzictwa UNESCO w 1992 roku.",
+      "name" : "Zhangjiajie · Wulingyuan"
+    },
+    "eg-giza-pyramids" : {
+      "city" : "Kair",
+      "country" : "Egipt",
+      "introduction" : "Piramidy w Gizie stoją na płaskowyżu gizańskim w Egipcie. Ich geometria, krawędź pustyni i widok na pobliskie miasto tworzą uderzający kontrast w czasie.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka wygląda jak mała lokalna gazeta.",
+      "name" : "Piramidy w Gizie"
+    },
+    "fr-paris-eiffel" : {
+      "city" : "Paryż",
+      "country" : "Francja",
+      "introduction" : "Zbudowana na Wystawę Światową w 1889 roku Wieża Eiffla stała się jednym z najwyraźniejszych symboli Paryża. Jej żelazna konstrukcja zamienia inżynierię w linię horyzontu.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Wieża Eiffla"
+    },
+    "fr-paris-louvre" : {
+      "city" : "Paryż",
+      "country" : "Francja",
+      "introduction" : "Luwr przekształcił się z historycznego pałacu w wielkie muzeum. Jego dziedziniec i szklana piramida zestawiają klasyczną architekturę z nowoczesnym wejściem.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Luwr"
+    },
+    "gb-london-tower-bridge" : {
+      "city" : "Londyn",
+      "country" : "Zjednoczone Królestwo",
+      "introduction" : "Tower Bridge przecina Tamizę i jest jednym z najbardziej rozpoznawalnych mostów Londynu. Jego wieże i konstrukcja zwodzona łączą historię miasta z ruchem rzecznym.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Tower Bridge"
+    },
+    "it-rome-colosseum" : {
+      "city" : "Rzym",
+      "country" : "Włochy",
+      "introduction" : "Koloseum to rozległy amfiteatr ze starożytnego Rzymu. Łuki, kamienne powierzchnie i otwarte wnętrza ukazują długą oś czasu miasta.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Koloseum"
+    },
+    "jp-tokyo-sensoji" : {
+      "city" : "Tokio",
+      "country" : "Japonia",
+      "introduction" : "Senso-ji jest kotwicą dzielnicy Asakusa w Tokio. Kaminarimon, Nakamise-dori i główna sala łączą wizytę w świątyni z tętniącą życiem ulicą handlową.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Senso-ji"
+    },
+    "kr-seoul-gyeongbokgung" : {
+      "city" : "Seul",
+      "country" : "Korea Południowa",
+      "introduction" : "Gyeongbokgung to główny zespół pałacowy z czasów dynastii Joseon w Seulu. Bramy, sale, dziedzińce i górskie tło ukazują warstwy historii miasta.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Pałac Gyeongbokgung"
+    },
+    "pe-cusco-machu-picchu" : {
+      "city" : "Cusco",
+      "country" : "Peru",
+      "introduction" : "Machu Picchu leży w peruwiańskich Andach i jest jednym z najważniejszych stanowisk Inków. Tarasy, kamienne mury i granie łączą starożytne miasto ściśle z krajobrazem.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka wygląda jak mała lokalna gazeta.",
+      "name" : "Machu Picchu"
+    },
+    "sg-singapore-merlion" : {
+      "city" : "Singapur",
+      "country" : "Singapur",
+      "introduction" : "Park Merlion leży nad Marina Bay. Posąg, nabrzeże i panorama miasta czynią go znajomym miejscem do odczytania wizerunku Singapuru.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Park Merlion"
+    },
+    "th-bangkok-grand-palace" : {
+      "city" : "Bangkok",
+      "country" : "Tajlandia",
+      "introduction" : "Wielki Pałac w Bangkoku to główny kompleks królewski z budynkami pałacowymi, przestrzeniami świątynnymi i zdobnymi detalami. Dachy, iglice i wzory definiują ten widok.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Wielki Pałac"
+    },
+    "us-new-york-liberty" : {
+      "city" : "Nowy Jork",
+      "country" : "Stany Zjednoczone",
+      "introduction" : "Statua Wolności stoi na Liberty Island w porcie nowojorskim. Pochodnia, cokół i widok na port łączą pomnik narodowy z panoramą miasta.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Statua Wolności"
+    },
+    "us-san-francisco-golden-gate" : {
+      "city" : "San Francisco",
+      "country" : "Stany Zjednoczone",
+      "introduction" : "Golden Gate Bridge przecina cieśninę Golden Gate. Wieże, liny, mgła i ukształtowanie zatoki czynią go jednym z najsilniejszych znaków wizualnych San Francisco.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka czyta się jak mała lokalna gazeta.",
+      "name" : "Golden Gate Bridge"
+    },
+    "world-acropolis" : {
+      "city" : "Ateny",
+      "country" : "Grecja",
+      "introduction" : "Akropol wznosi się na skalistym wzgórzu nad Atenami i zachowuje zabytki, w tym Partenon. Znaczące prace z V wieku p.n.e. uczyniły go ważnym wyrazem architektury klasycznej, a kolumny i ukształtowanie terenu wciąż kształtują sylwetkę miasta.",
+      "name" : "Akropol"
+    },
+    "world-angkor-wat" : {
+      "city" : "Siem Reap",
+      "country" : "Kambodża",
+      "introduction" : "Angkor Wat to główna świątynia w krajobrazie archeologicznym Angkoru. Zbudowana za królów Khmerów dla Wisznu, później stała się centrum kultu buddyjskiego. Jej wieże, galerie i reliefy łączą zmieniające się tradycje religijne z monumentalną architekturą.",
+      "name" : "Angkor Wat"
+    },
+    "world-badshahi-mosque" : {
+      "city" : "Lahaur",
+      "country" : "Pakistan",
+      "introduction" : "Meczet Badshahi stoi przy historycznym otoczonym murami mieście Lahaur. Ufundowany przez cesarza Mogołów Aurangzeba w XVII wieku łączy czerwone fasady, jasne kopuły i rozległy dziedziniec w monumentalnej przestrzeni kultu.",
+      "name" : "Meczet Badshahi"
+    },
+    "world-baobabs" : {
+      "city" : "Morondava",
+      "country" : "Madagaskar",
+      "introduction" : "Aleja Baobabów w pobliżu Morondavy obsadzona jest baobabami Grandidiera. Masywne pnie i wysokie korony o rozgałęzieniach tworzą niepowtarzalny krajobraz wzdłuż drogi, dając żywy wgląd w specyficzną roślinność Madagaskaru.",
+      "name" : "Aleja Baobabów"
+    },
+    "world-bayterek" : {
+      "city" : "Astana",
+      "country" : "Kazachstan",
+      "introduction" : "Bajterek to pomnik i wieża widokowa w Astanie. Jej biała, rozgałęziona struktura podtrzymuje złotą kulę, tworząc wyraźny punkt orientacyjny na jednej z głównych osi publicznych stolicy i symbol kojarzony z nowoczesnym Kazachstanem.",
+      "name" : "Bajterek"
+    },
+    "world-belem-tower" : {
+      "city" : "Lizbona",
+      "country" : "Portugalia",
+      "introduction" : "Wieża Belém to XVI-wieczna fortyfikacja nad Tagu w Lizbonie. Pionowa wieża wznosi się nad niższym bastionem, a rzeźbione kamienne detale wiążą się ze stylem manuelińskim. Jej otoczenie przypomina o morskiej i kolonialnej historii Portugalii.",
+      "name" : "Wieża Belém"
+    },
+    "world-belgrade-fortress" : {
+      "city" : "Belgrad",
+      "country" : "Serbia",
+      "introduction" : "Twierdza w Belgradzie zajmuje teren u zbiegu Sawy i Dunaju. Historyczna cytadela i park Kalemegdan łączą mury, zbocza i szerokie widoki na rzeki, ukazując strategiczne położenie, które stało się częścią publicznego krajobrazu miasta.",
+      "name" : "Twierdza w Belgradzie"
+    },
+    "world-borobudur" : {
+      "city" : "Magelang",
+      "country" : "Indonezja",
+      "introduction" : "Borobudur to buddyjski monument w środkowej Jawie datowany na VIII i IX wiek. Kwadratowe tarasy wznoszą się ku okrągłym platformom, a panele reliefowe i perforowane stupy kształtują sekwencję, która kulminuje w centralnej stupie.",
+      "name" : "Borobudur"
+    },
+    "world-bran-castle" : {
+      "city" : "Bran",
+      "country" : "Rumunia",
+      "introduction" : "Zamek Bran zajmuje skaliste miejsce przy historycznym szlaku w Transylwanii. Jego skupione wieże i mury odzwierciedlają średniowieczną warownię. Historię budowli najlepiej odróżnić od literatury o wampirach, z którą później skojarzyła ją turystyka.",
+      "name" : "Zamek Bran"
+    },
+    "world-brandenburg-gate" : {
+      "city" : "Berlin",
+      "country" : "Niemcy",
+      "introduction" : "Brama Brandenburska została zbudowana pod koniec XVIII wieku jako neoklasycystyczny pomnik w Berlinie. Kolumny, mocne poziome belkowanie i kwadryga powyżej nadają jej wyraźną sylwetkę. Dawna brama nosi także pamięć o podziale i ponownym zjednoczeniu miasta.",
+      "name" : "Brama Brandenburska"
+    },
+    "world-bryggen" : {
+      "city" : "Bergen",
+      "country" : "Norwegia",
+      "introduction" : "Drewniane budynki Bryggen zachowują związek Bergen z hanzeatycką siecią handlową. Pożary prowadziły do wielokrotnej odbudowy, często według tradycyjnych układów i metod. Szczyty od strony nabrzeża wciąż wyrażają strukturę historycznej północnej dzielnicy handlowej.",
+      "name" : "Bryggen"
+    },
+    "world-bund" : {
+      "city" : "Szanghaj",
+      "country" : "Chiny",
+      "introduction" : "Bund ciągnie się wzdłuż historycznego nabrzeża Szanghaju na zachodnim brzegu rzeki Huangpu. Jego budynki czerpią z kilku europejskich tradycji architektonicznych. Po drugiej stronie rzeki Lujiazui oferuje zupełnie inną panoramę, łącząc dwa rozdziały rozwoju miasta w jednym widoku.",
+      "name" : "Bund"
+    },
+    "world-burj-khalifa" : {
+      "city" : "Dubaj",
+      "country" : "Zjednoczone Emiraty Arabskie",
+      "introduction" : "Burdż Chalifa to charakterystyczny wieżowiec Dubaju, zaprojektowany przez SOM. Skrzydła rozmieszczone wokół centralnego rdzenia cofają się w miarę wznoszenia konstrukcji, zwężając się ku iglicy. Ten zmieniający się profil zamienia złożony system inżynieryjny w wyrazistą linię na sylwetce miasta.",
+      "name" : "Burdż Chalifa"
+    },
+    "world-cape-coast-castle" : {
+      "city" : "Cape Coast",
+      "country" : "Ghana",
+      "introduction" : "Zamek Cape Coast stoi na wybrzeżu Ghany i był głęboko zaangażowany w atlantycki handel niewolnikami. Jego mury od strony morza i wnętrza zachowują historię kolonialnego handlu i przymusowych przesiedleń. Wizyta wymaga uwagi na pamięć i interpretację.",
+      "name" : "Zamek Cape Coast"
+    },
+    "world-cartagena" : {
+      "city" : "Kartagena",
+      "country" : "Kolumbia",
+      "introduction" : "Kartagena to historyczny port na karaibskim wybrzeżu Kolumbii. Fortyfikacje i stare kwartały miejskie zachowują historię kolonialnego handlu i rywalizacji morskiej, a odrębne dzielnice współtworzą architekturę i przestrzenie publiczne miasta.",
+      "name" : "Miasto obwarowane w Kartagenie"
+    },
+    "world-casbah-algiers" : {
+      "city" : "Algier",
+      "country" : "Algieria",
+      "introduction" : "Kasba to historyczna dzielnica Algieru górująca nad Morzem Śródziemnym. Tradycyjne ulice, meczety i pozostałości pałaców zajmują zbocze, gdzie ciasno rozmieszczone budynki, dziedzińce i przejścia zachowują charakter północnoafrykańskiej medyny nadmorskiej.",
+      "name" : "Kasba w Algierze"
+    },
+    "world-charles-bridge" : {
+      "city" : "Praga",
+      "country" : "Czechy",
+      "introduction" : "Most Karola przecina wełtawę w Pradze i został rozpoczęty w XIV wieku. Kamienne łuki łączą brzegi, a rzeźby i wieże mostowe czynią przeprawę częścią artystycznego i historycznego krajobrazu miasta.",
+      "name" : "Most Karola"
+    },
+    "world-chichen-itza" : {
+      "city" : "Jukatan",
+      "country" : "Meksyk",
+      "introduction" : "Chichén Itzá to ważne stanowisko archeologiczne Majów na półwyspie Jukatan w Meksyku. Jego schodkowa piramida, Świątynia Wojowników i okrągłe obserwatorium zachowują ślady kilku tradycji kulturowych spotykających się w jednym wpływowym mieście.",
+      "name" : "Chichén Itzá"
+    },
+    "world-chillon-castle" : {
+      "city" : "Veytaux",
+      "country" : "Szwajcaria",
+      "introduction" : "Chillon to średniowieczny zamek na wschodnim krańcu Jeziora Genewskiego. Wieże, dziedzińce i mury nad wodą zajmują wąskie skaliste miejsce, odzwierciedlając znaczenie szlaku między brzegiem jeziora a doliną alpejską dalej.",
+      "name" : "Zamek Chillon"
+    },
+    "world-chocolate-hills" : {
+      "city" : "Bohol",
+      "country" : "Filipiny",
+      "introduction" : "Wzgórza Czekoladowe tworzą charakterystyczny krajobraz na Boholu na Filipinach. Trawa zmienia kolor wraz z porami roku, a brązowa barwa w porze suchej nadaje wzgórzom ich znaną nazwę. Powtarzające się zaokrąglone stożki tworzą szeroki, rytmiczny horyzont.",
+      "name" : "Wzgórza Czekoladowe"
+    },
+    "world-cliffs-of-moher" : {
+      "city" : "Hrabstwo Clare",
+      "country" : "Irlandia",
+      "introduction" : "Klify Moher ciągną się wzdłuż atlantyckiego wybrzeża hrabstwa Clare. Warstwowe ściany skalne wznoszą się nad morzem, a kolejne przylądki tworzą głębię wzdłuż linii brzegowej. Światło i pogoda nieustannie zmieniają relację między klifem, wodą i horyzontem.",
+      "name" : "Klify Moher"
+    },
+    "world-cn-tower" : {
+      "city" : "Toronto",
+      "country" : "Kanada",
+      "introduction" : "CN Tower w Toronto ukończono w 1976 roku jako wieżę telekomunikacyjną i widokową. Smukły trzon wspiera szerszą konstrukcję obserwacyjną, a antena kontynuuje się w górę, tworząc rozpoznawalny profil ponad otaczającymi budynkami.",
+      "name" : "CN Tower"
+    },
+    "world-dubrovnik" : {
+      "city" : "Dubrownik",
+      "country" : "Chorwacja",
+      "introduction" : "Stare miasto w Dubrowniku leży nad Adriatykiem, otoczone potężnymi kamiennymi murami. Kościoły, pałace i dachówki z terakoty zachowują charakter historycznego miasta morskiego ukształtowanego przez dobrobyt, trzęsienia ziemi, konflikty i odbudowę.",
+      "name" : "Stare Miasto w Dubrowniku"
+    },
+    "world-el-jem" : {
+      "city" : "El Djem",
+      "country" : "Tunezja",
+      "introduction" : "Amfiteatr w El Djem to ważny zabytek rzymski w Tunezji. Jego eliptyczna forma, piętrowe arkady i zachowane miejsca siedzące ukazują skalę starożytnego obiektu publicznego, tworząc uderzający punkt w dzisiejszym mieście.",
+      "name" : "Amfiteatr w El Djem"
+    },
+    "world-fort-jesus" : {
+      "city" : "Mombasa",
+      "country" : "Kenia",
+      "introduction" : "Fort Jesus zbudowano w Mombasie pod koniec XVI wieku dla obrony portu. Jego kanciasty plan i potężne mury zachowują rozdział portugalskiej architektury wojskowej w szerszej historii handlu Oceanu Indyjskiego i wybrzeża suahili.",
+      "name" : "Fort Jesus"
+    },
+    "world-goree" : {
+      "city" : "Dakar",
+      "country" : "Senegal",
+      "introduction" : "Gorée leży u wybrzeży Dakaru i jest miejscem pamięci związanym z atlantyckim handlem niewolnikami. Jej budynki, ulice i przestrzenie od strony morza skłaniają do refleksji nad przymusowymi migracjami i wyzyskiem, współistniejąc z widocznym historycznym charakterem wyspy.",
+      "name" : "Wyspa Gorée"
+    },
+    "world-grand-place" : {
+      "city" : "Bruksela",
+      "country" : "Belgia",
+      "introduction" : "Grand-Place w Brukseli łączy ratusz, budynki cechów i inną architekturę miejską. Zdobione szczyty, rzeźby i wysoka wieża zapisują życie handlowe i publiczne miasta, zamieniając plac w zespół do czytania fasada po fasadzie.",
+      "name" : "Grand-Place"
+    },
+    "world-ha-long-bay" : {
+      "city" : "Ha Long",
+      "country" : "Wietnam",
+      "introduction" : "Zatoka Ha Long jest znana z wapiennych wież wznoszących się z morza. Wraz z archipelagiem Cat Ba tworzy krajobraz światowego dziedzictwa, w którym wyspy i kanały odsłaniają uderzające kształty krasu zalanego przez morze.",
+      "name" : "Zatoka Ha Long"
+    },
+    "world-hagia-sophia" : {
+      "city" : "Stambuł",
+      "country" : "Turcja",
+      "introduction" : "Główna struktura Hagii Sophii pochodzi z VI wieku. Służyła jako kościół, meczet i muzeum, a obecnie ponownie jest używana do muzułmańskiego kultu. Jej wielka kopuła i zachowane warstwy dekoracji odzwierciedlają zmieniającą się historię religijną i obywatelską Stambułu.",
+      "name" : "Hagia Sophia"
+    },
+    "world-hallgrimskirkja" : {
+      "city" : "Reykjavík",
+      "country" : "Islandia",
+      "introduction" : "Hallgrímskirkja to wybitny kościół luterański w Reykjavíku. Jego wysoka wieża i stopniowane skrzydła boczne tworzą silnie wertykalną kompozycję, dzięki czemu jest szczególnie rozpoznawalny na tle na ogół niższej zabudowy miasta.",
+      "name" : "Hallgrímskirkja"
+    },
+    "world-hegra" : {
+      "city" : "AlUla",
+      "country" : "Arabia Saudyjska",
+      "introduction" : "Hegra w regionie AlUla w Arabii Saudyjskiej zachowuje ważne pozostałości cywilizacji Nabatejczyków. Wykute fasady grobowców, inskrypcje i studnie ujawniają wiedzę architektoniczną i w zakresie gospodarki wodnej, rozciągając opowieść kulturową na południe od Petry.",
+      "name" : "Hegra"
+    },
+    "world-humble-administrators-garden" : {
+      "city" : "Suzhou",
+      "country" : "Chiny",
+      "introduction" : "Ogród Pokornego Urzędnika należy do suzhouskiego zespołu ogrodów wpisanych na listę światowego dziedzictwa. Woda, pawilony, skały i roślinność wprowadzają szerszy krajobraz do zamkniętego otoczenia. Korytarze i otwory prowadzą wzrok, więc niewielka zmiana pozycji może odsłonić inną kompozycję.",
+      "name" : "Ogród Pokornego Urzędnika"
+    },
+    "world-karnak" : {
+      "city" : "Luksor",
+      "country" : "Egipt",
+      "introduction" : "Karnak w pobliżu Luksoru był głównym kompleksem religijnym starożytnych Teb. Kolejni władcy dodawali pylony, dziedzińce i sale, tworząc miejsce kształtowane przez wiele pokoleń, a nie pojedynczy budynek ukończony za jednego panowania.",
+      "name" : "Karnak"
+    },
+    "world-kinderdijk" : {
+      "city" : "Kinderdijk",
+      "country" : "Holandia",
+      "introduction" : "Wiatraki w Kinderdijk należą do szerszego holenderskiego systemu gospodarki wodnej. Groble, zbiorniki, stacje pomp i młyny wpisują się w historię osuszania nisko położonych terenów. Spokojny widok to także krajobraz ukształtowany przez długotrwałą inżynierię i pracę.",
+      "name" : "Wiatraki w Kinderdijk"
+    },
+    "world-kiyomizu-dera" : {
+      "city" : "Kioto",
+      "country" : "Japonia",
+      "introduction" : "Kiyomizu-dera stoi na wschodnich wzgórzach Kioto i jest częścią jego zabytków wpisanych na listę światowego dziedzictwa. Drewniana architektura świątyni spotyka się z zalesionym zboczem, a słynna scena otwiera widok na miasto w oddali.",
+      "name" : "Kiyomizu-dera"
+    },
+    "world-kotor" : {
+      "city" : "Kotor",
+      "country" : "Czarnogóra",
+      "introduction" : "Kotor leży w osłoniętej zatoce Adriatyku, a bezpośrednio za starym miastem wznoszą się strome góry. Mury, kościoły i kamienne ulice zachowują historię handlu i rzemiosła, ukazując zarazem, jak silnie ukształtowanie terenu wpłynęło na osadę.",
+      "name" : "Stare Miasto w Kotorze"
+    },
+    "world-koutoubia" : {
+      "city" : "Marrakesz",
+      "country" : "Maroko",
+      "introduction" : "Meczet Koutoubia to ważny obiekt sakralny przy starym mieście Marrakeszu. Jego kwadratowy minaret, dekoracyjne detale i otoczenie ogrodowe tworzą wyraźny punkt odniesienia w mieście i odzwierciedlają tradycje architektoniczne Maghrebu.",
+      "name" : "Meczet Koutoubia"
+    },
+    "world-la-mano" : {
+      "city" : "Punta del Este",
+      "country" : "Urugwaj",
+      "introduction" : "La Mano stoi na plaży Brava w Punta del Este. Stworzona przez chilijskiego artystę Mario Irarrázabala, jej pięć palców zdaje się wyłaniać z piasku, wnosząc prostą i zapadającą w pamięć pracę sztuki publicznej w nadmorski krajobraz.",
+      "name" : "La Mano"
+    },
+    "world-lake-bled" : {
+      "city" : "Bled",
+      "country" : "Słowenia",
+      "introduction" : "Jezioro Bled leży w północno-zachodnim regionie alpejskim Słowenii. Jego wyspa, zamek nad brzegiem jeziora i zalesione wzgórza tworzą charakterystyczny układ zabytków wokół wody, a odbicia łączą zabudowę z otoczeniem naturalnym.",
+      "name" : "Jezioro Bled"
+    },
+    "world-lalbagh-fort" : {
+      "city" : "Dhaka",
+      "country" : "Bangladesz",
+      "introduction" : "Fort Lalbagh to niedokończony kompleks Mogołów w Starej Dhace. Jego meczet, grobowiec i inne zachowane struktury przechowują ślady ambitnego projektu. Miejsce to zwraca uwagę zarówno na przerwane plany, jak i na budowle, które pozostały.",
+      "name" : "Fort Lalbagh"
+    },
+    "world-lalibela" : {
+      "city" : "Lalibela",
+      "country" : "Etiopia",
+      "introduction" : "Średniowieczne kościoły wykute w skale w Lalibeli pozostają ważnym świętym miejscem chrześcijaństwa etiopskiego. Budynki, dziedzińce i przejścia zostały wycięte w samej skale. Kościół św. Jerzego na planie krzyża szczególnie jasno ukazuje tę niezwykłą relację architektury i podłoża.",
+      "name" : "Kościoły w Lalibeli"
+    },
+    "world-luang-prabang" : {
+      "city" : "Luang Prabang",
+      "country" : "Laos",
+      "introduction" : "Wat Xieng Thong stoi w pobliżu północnego krańca półwyspu Luang Prabang. Ważny laotański klasztor łączy historię królewską, kult buddyjski i tradycyjną sztukę. Jego łagodne linie dachów i dekoracyjne powierzchnie oferują intymne wprowadzenie do starego miasta.",
+      "name" : "Wat Xieng Thong"
+    },
+    "world-mont-saint-michel" : {
+      "city" : "Mont-Saint-Michel",
+      "country" : "Francja",
+      "introduction" : "Mont-Saint-Michel wznosi się wśród pływów w Normandii. Opactwo i wioska pną się po skalistej wyspie ponad murami i rozległymi piaskami, pokazując, jak architektura religijna przystosowała się do szczególnie wymagającego i zmiennego miejsca naturalnego.",
+      "name" : "Mont-Saint-Michel"
+    },
+    "world-nyhavn" : {
+      "city" : "Kopenhaga",
+      "country" : "Dania",
+      "introduction" : "Nyhavn to historyczny kanał i dzielnica nadwodna w Kopenhadze. Rzędy kolorowych kamienic i drewnianych łodzi zachowują charakter portowy, a życie na nabrzeżach mocno łączy to miejsce ze współczesnym życiem miasta.",
+      "name" : "Nyhavn"
+    },
+    "world-obelisco" : {
+      "city" : "Buenos Aires",
+      "country" : "Argentyna",
+      "introduction" : "Obelisco stoi w Buenos Aires na Plaza de la República, u zbiegu alej Corrientes i 9 de Julio. Zbudowany w 1936 roku dla upamiętnienia czterech stuleci od pierwszego założenia miasta, stał się charakterystycznym punktem centrum.",
+      "name" : "Obelisco"
+    },
+    "world-old-havana" : {
+      "city" : "Hawana",
+      "country" : "Kuba",
+      "introduction" : "Stara Hawana zachowuje historyczną tkankę placów, arkad, balkonów i dziedzińców. Budynki barokowe i neoklasyczne stoją obok siebie, odzwierciedlając rozwój karaibskiego miasta portowego, w którym przestrzenie publiczne pozostają ściśle związane z codziennym życiem.",
+      "name" : "Stara Hawana"
+    },
+    "world-osaka-castle" : {
+      "city" : "Osaka",
+      "country" : "Japonia",
+      "introduction" : "Zamek Osaka jest związany z szesnastowiecznym zjednoczeniem Japonii. Obecna główna wieża została zrekonstruowana w 1931 roku, a nie zachowana niezmieniona z tamtej epoki. Jego otoczenie kamiennych murów i fos pomaga odsłonić różne warstwy historii tego miejsca.",
+      "name" : "Zamek Osaka"
+    },
+    "world-panama-viejo" : {
+      "city" : "Panama",
+      "country" : "Panama",
+      "introduction" : "Panamá Viejo zachowuje pozostałości pierwotnej osady miejskiej. Po jej zniszczeniu w 1671 roku centrum przeniesiono w nowe miejsce. Zachowane wieże, mury i układ ulic czynią wcześniejszy rozdział widocznym w dzisiejszej Panamie.",
+      "name" : "Panamá Viejo"
+    },
+    "world-paphos" : {
+      "city" : "Pafos",
+      "country" : "Cypr",
+      "introduction" : "Park Archeologiczny w Pafos zachowuje ważne pozostałości starożytnego Nea Pafos, w tym domy, budowle publiczne i bogate mozaiki podłogowe. Geometryczne wzory i sceny mitologiczne ukazują, jak sztuka wchodziła w przestrzeń domową tego śródziemnomorskiego miasta.",
+      "name" : "Park Archeologiczny w Pafos"
+    },
+    "world-parliament-budapest" : {
+      "city" : "Budapeszt",
+      "country" : "Węgry",
+      "introduction" : "Gmach Parlamentu Węgierskiego stoi na peszteńskiej stronie Dunaju. Jego neogotyckie iglice i centralna kopuła tworzą długą, rytmiczną sylwetkę, dzięki czemu nabrzeże należy do najczytelniejszych miejsc rozpoznawania obywatelskiego krajobrazu Budapesztu.",
+      "name" : "Parlament Węgierski"
+    },
+    "world-petra" : {
+      "city" : "Wadi Musa",
+      "country" : "Jordania",
+      "introduction" : "Petra była miastem Nabatejczyków na ważnym skrzyżowaniu szlaków handlowych. Jej budowle są częściowo zbudowane, a częściowo wykute w piaskowcu. Wąwozy, ściany skalne i systemy wodne pomagają wyjaśnić, jak miasto zajmowało ten dramatyczny krajobraz.",
+      "name" : "Petra"
+    },
+    "world-petronas-towers" : {
+      "city" : "Kuala Lumpur",
+      "country" : "Malezja",
+      "introduction" : "Petronas Towers to nierozłączna para na panoramie Kuala Lumpur, połączona skybridge. Ich stopniowane profile i metalowo-szklane fasady czynią powtarzalność i symetrię cechami definiującymi ten nowoczesny punkt orientacyjny miasta.",
+      "name" : "Petronas Towers"
+    },
+    "world-potala-palace" : {
+      "city" : "Lhasa",
+      "country" : "Chiny",
+      "introduction" : "Pałac Potala wznosi się na Czerwonej Górze w Lhasie, a jego Biały i Czerwony Pałac tworzą wyraźną, warstwową sylwetkę. Dawna zimowa rezydencja Dalajlamów łączy architekturę, sztukę religijną i otaczający górski krajobraz w ścisłym związku.",
+      "name" : "Pałac Potala"
+    },
+    "world-quito" : {
+      "city" : "Quito",
+      "country" : "Ekwador",
+      "introduction" : "Historyczne centrum Quito leży w Andach i zachowuje ważne kościoły, klasztory oraz przestrzenie miejskie. Jego sztuka łączy formy europejskie z lokalnymi tradycjami rzemiosła, tworząc odrębną ekspresję architektoniczną, a nie prosty importowany wzorzec.",
+      "name" : "Historyczne centrum Quito"
+    },
+    "world-rapa-nui" : {
+      "city" : "Rapa Nui",
+      "country" : "Chile",
+      "introduction" : "Ahu Tongariki na Rapa Nui łączy ceremonialną platformę z rzędem moai. Stojące figury zostały odrestaurowane po przewróceniu i zniszczeniach wywołanych tsunami, zachowując zarówno wyspiarską tradycję rzeźbiarską, jak i nowszą historię konserwacji.",
+      "name" : "Ahu Tongariki"
+    },
+    "world-registan" : {
+      "city" : "Samarkanda",
+      "country" : "Uzbekistan",
+      "introduction" : "Plac Registan w Samarkandzie otaczają trzy madrasy. Wysokie portale, niebieskie kopuły i geometryczne zdobienia kafli nadają zespołowi rozpoznawalny charakter, łącząc tradycje nauki, rzemiosła i życia publicznego miasta na Jedwabnym Szlaku.",
+      "name" : "Registan"
+    },
+    "world-rila-monastery" : {
+      "city" : "Riła",
+      "country" : "Bułgaria",
+      "introduction" : "Monaster Rylski jest ważnym prawosławnym ośrodkiem kultury w bułgarskiej dolinie górskiej. Większość jego obecnego kompleksu odbudowano w XIX wieku; arkady, malowane powierzchnie i cerkiew wyrażają sztukę bułgarskiego odrodzenia narodowego.",
+      "name" : "Monaster Rylski"
+    },
+    "world-rock-islands" : {
+      "city" : "Koror",
+      "country" : "Palau",
+      "introduction" : "Rock Islands w Palau tworzą krajobraz wapiennych wysepek, zielonej roślinności i wód laguny. Południowa Laguna zawiera także rafy, jeziora morskie i pozostałości kulturowe, łącząc różnorodność ekologiczną i historię ludzką w tym samym wyspiarskim otoczeniu.",
+      "name" : "Rock Islands"
+    },
+    "world-sagrada-familia" : {
+      "city" : "Barcelona",
+      "country" : "Hiszpania",
+      "introduction" : "Sagrada Família jest ściśle związana z Antonym Gaudím i Barceloną. Rzeźbione fasady, wznoszące się wieże i formy czerpane z natury nadają jej odrębny język architektoniczny. Jej fasada Narodzenia i krypta są objęte wpisem na listę światowego dziedzictwa dzieł Gaudíego.",
+      "name" : "Sagrada Família"
+    },
+    "world-schonbrunn" : {
+      "city" : "Wiedeń",
+      "country" : "Austria",
+      "introduction" : "Schönbrunn był ważną rezydencją władców Habsburgów. Pałac i ogrody tworzą barokowy zespół w Wiedniu, gdzie fasady, ścieżki i odległe elementy ogrodowe łączy starannie zorganizowana sieć osi i widoków.",
+      "name" : "Pałac Schönbrunn"
+    },
+    "world-sigiriya" : {
+      "city" : "Sigiriya",
+      "country" : "Sri Lanka",
+      "introduction" : "Sigiriya wznosi się jako granitowa skała ponad otaczającymi lasami na Sri Lance. Pozostałości starożytnego ośrodka królewskiego zajmują jej zbocza i szczyt, a schody, tarasy i ogrody zamieniają dramatyczny teren w scenerię architektoniczną.",
+      "name" : "Sigiriya"
+    },
+    "world-sky-tower" : {
+      "city" : "Auckland",
+      "country" : "Nowa Zelandia",
+      "introduction" : "Sky Tower w Auckland to konstrukcja telekomunikacyjna i widokowa w centrum miasta. Jej smukły trzon, wystające poziomy widokowe i górny maszt tworzą wyraźną sylwetkę, stanowiąc wizualny punkt odniesienia wśród ulic i panoramy miasta portowego.",
+      "name" : "Sky Tower"
+    },
+    "world-sri-siva-subramaniya" : {
+      "city" : "Nadi",
+      "country" : "Fidżi",
+      "introduction" : "Świątynia Sri Siva Subramaniya w Nadi jest ważnym miejscem religijnym i kulturowym dla indo-fidżijskiej społeczności Fidżi. Jej jaskrawo kolorowa wieża wejściowa i szczegóły rzeźbiarskie wprowadzają południowoindyjskie tradycje świątynne do miejskiego otoczenia Pacyfiku Południowego.",
+      "name" : "Świątynia Sri Siva Subramaniya"
+    },
+    "world-stari-most" : {
+      "city" : "Mostar",
+      "country" : "Bośnia i Hercegowina",
+      "introduction" : "Stari Most przecina Neretwę w Mostarze. Osmański most został zniszczony podczas konfliktu lat 90. XX wieku i później odbudowany. Jego pojedynczy łuk niesie obecnie historię odzyskiwania dziedzictwa, a także trasę między brzegami.",
+      "name" : "Stari Most"
+    },
+    "world-stockholm-city-hall" : {
+      "city" : "Sztokholm",
+      "country" : "Szwecja",
+      "introduction" : "Ratusz w Sztokholmie stoi nad wodą na Kungsholmen. Służy administracji obywatelskiej i życiu ceremonialnemu, a czerwona cegła, przestronny dziedziniec i wieża zwieńczona trzema pozłacanymi koronami tworzą charakterystyczny punkt orientacyjny miasta.",
+      "name" : "Ratusz w Sztokholmie"
+    },
+    "world-stone-town" : {
+      "city" : "Zanzibar",
+      "country" : "Tanzania",
+      "introduction" : "Stone Town to ważny przykład wschodnioafrykańskiego miasta handlowego suahili. Wąskie ulice, solidne budynki i rzeźbione drzwi odzwierciedlają związki z Afryką, Arabią, Indiami i Europą, a także trudną historię niewolnictwa i handlu w basenie Oceanu Indyjskiego.",
+      "name" : "Stone Town"
+    },
+    "world-sultan-qaboos-mosque" : {
+      "city" : "Maskat",
+      "country" : "Oman",
+      "introduction" : "Wielki Meczet Sułtana Kabusa to ważny współczesny budynek religijny w Maskacie. Jego kopuła, minarety i przestronne dziedzińce tworzą uporządkowaną kompozycję, a jasne kamienne barwy naturalnie wpisują się w górskie otoczenie miasta.",
+      "name" : "Wielki Meczet Sułtana Kabusa"
+    },
+    "world-suomenlinna" : {
+      "city" : "Helsinki",
+      "country" : "Finlandia",
+      "introduction" : "Suomenlinna zajmuje wyspy przed portem Helsinek, a jej budowę rozpoczęto pod panowaniem szwedzkim w XVIII wieku. Mury i trasy podążają za ukształtowaniem terenu, pokazując, jak europejska twierdza morska dostosowała się do wyspiarskiego otoczenia.",
+      "name" : "Suomenlinna"
+    },
+    "world-swayambhunath" : {
+      "city" : "Katmandu",
+      "country" : "Nepal",
+      "introduction" : "Swayambhunath zajmuje wzgórze w Dolinie Katmandu i jest ważnym buddyjskim miejscem świętym. Jego biała stupa, pomalowane oczy i wznosząca się iglica tworzą charakterystyczną sylwetkę, łącząc miasto poniżej z długą tradycją pielgrzymkową.",
+      "name" : "Swayambhunath"
+    },
+    "world-taj-mahal" : {
+      "city" : "Agra",
+      "country" : "Indie",
+      "introduction" : "Tadż Mahal stoi obok rzeki Jamuny w Agrze. Szahdżahan zlecił budowę tego mauzoleum ku pamięci Mumtaz Mahal. Biały marmur, centralna kopuła, narożne minarety i osiowy układ ogrodu tworzą starannie zrównoważoną kompozycję architektoniczną.",
+      "name" : "Tadż Mahal"
+    },
+    "world-tigers-nest" : {
+      "city" : "Paro",
+      "country" : "Bhutan",
+      "introduction" : "Paro Taktsang, znane jako Gniazdo Tygrysa, to buddyjskie miejsce święte na klifach nad Doliną Paro. Budynki o białych ścianach przylgają do skały, czyniąc relację między klasztorem a jego stromym górskim otoczeniem szczególnie uderzającą.",
+      "name" : "Gniazdo Tygrysa"
+    },
+    "world-tikal" : {
+      "city" : "Petén",
+      "country" : "Gwatemala",
+      "introduction" : "Tikal to ważne miasto Majów w lasach deszczowych Petén w Gwatemali. Wysokie świątynie, pałace i place wyłaniają się wśród roślinności, zestawiając wertykalne formy architektoniczne z szerokim sklepieniem otaczającego lasu.",
+      "name" : "Tikal"
+    },
+    "world-uluru" : {
+      "city" : "Yulara",
+      "country" : "Australia",
+      "introduction" : "Uluru to wybitna formacja piaskowcowa w środkowej Australii i ważna część kultury oraz wierzeń Anangu. Jej wielka masa wznosi się nad równiną, a zmieniające się światło wydobywa jej powierzchnie, lecz jej znaczenie wykracza daleko poza geologię.",
+      "name" : "Uluru"
+    },
+    "world-valletta" : {
+      "city" : "Valletta",
+      "country" : "Malta",
+      "introduction" : "Valletta zajmuje półwysep między dwoma portami na Malcie. Blisko związana z Zakonem św. Jana, jej zwarta historyczna tkanka łączy architekturę sakralną, wojskową i obywatelską w niezwykle skoncentrowanym układzie miejskim.",
+      "name" : "Valletta"
+    },
+    "world-victoria-falls" : {
+      "city" : "Wodospady Wiktorii",
+      "country" : "Zimbabwe",
+      "introduction" : "Wodospady Wiktorii leżą na Zambezi na granicy Zambii i Zimbabwe. Woda spada do bazaltowych wąwozów i wznosi szerokie chmury mgły. Wodospady, rzeka i skały tworzą razem dramatyczny krajobraz dzielony przez oba kraje.",
+      "name" : "Wodospady Wiktorii"
+    },
+    "world-victoria-peak" : {
+      "city" : "Hongkong",
+      "country" : "Chiny",
+      "introduction" : "Victoria Peak wznosi się po zachodniej stronie wyspy Hongkong. Jego punkt widokowy łączy budynki Central, port Victoria i otaczające wzgórza w jedną całość, ukazując, jak gęsta panorama miasta wpisuje się między strome zbocza a wodę.",
+      "name" : "Victoria Peak"
+    },
+    "world-wawel" : {
+      "city" : "Kraków",
+      "country" : "Polska",
+      "introduction" : "Zamek Wawel zajmuje wzgórze nad Wisłą w Krakowie i jest ważnym miejscem polskiej historii królewskiej. Rozbudowywany z czasem, jego dziedzińce, wieże i zróżnicowane fasady zachowują kilka epok architektonicznych w jednym kompleksie.",
+      "name" : "Zamek na Wawelu"
+    },
+    "world-west-lake" : {
+      "city" : "Hangzhou",
+      "country" : "Chiny",
+      "introduction" : "Jezioro Zachodnie łączy otwartą wodę i otaczające wzgórza z groblami, wyspami, świątyniami i ogrodami kształtowanymi przez wieki. Jego starannie skomponowane widoki wpłynęły na sztukę ogrodową poza Hangzhou, czyniąc brzeg jeziora miejscem odczytywania spotkania krajobrazu i kultury.",
+      "name" : "Jezioro Zachodnie"
+    },
+    "za-cape-town-table-mountain" : {
+      "city" : "Kapsztad",
+      "country" : "Republika Południowej Afryki",
+      "introduction" : "Góra Stołowa wznosi się za Kapsztadem z jej płaskim szczytem. Góra, zatoka, miasto i zmieniające się chmury definiują jeden z kluczowych widoków miasta.\n\nTo wydanie łączy kontekst miejsca, wskazówki do oglądania i osobiste zdjęcie, dzięki czemu pamiątka wygląda jak mała lokalna gazeta.",
+      "name" : "Góra Stołowa"
+    }
+  },
+  "locale" : "pl",
+  "schemaVersion" : 1,
+  "templates" : {
+    "ct01" : {
+      "description" : "Lokalne historie i Twój portret w dwukolumnowym wydaniu.",
+      "name" : "Wydanie miejskie"
+    },
+    "dp01" : {
+      "description" : "Jeden ciągły pejzaż na dwóch panelach.",
+      "name" : "Dyptyk pejzażowy"
+    },
+    "fl01" : {
+      "description" : "Ilustrowana klisza na jasnym papierze.",
+      "name" : "Ilustrowana klisza"
+    },
+    "fl02" : {
+      "description" : "Zdjęcia w naturalnych kolorach z delikatną ramką kliszy.",
+      "name" : "Życie na kliszy"
+    },
+    "hc01" : {
+      "description" : "Portret, ilustrowane miejsce i dzień do świętowania.",
+      "name" : "Dobre wieści"
+    },
+    "hf01" : {
+      "description" : "Osobista klatka i ilustrowane miejsce.",
+      "name" : "Dziennik z kliszy"
+    },
+    "hm01" : {
+      "description" : "Duże zdjęcie z ilustrowanym paskiem podróżnym.",
+      "name" : "Magazyn podróżniczy"
+    },
+    "hn01" : {
+      "description" : "Wyrazisty nagłówek, Twoje zdjęcie i ilustrowana kolumna miejska.",
+      "name" : "Dodatek miejski"
+    },
+    "ht01" : {
+      "description" : "Twoje zdjęcie i ilustracja miejsca razem na pierwszej stronie.",
+      "name" : "Dziennik podróży"
+    },
+    "mu01" : {
+      "description" : "Pejzaż z dyskretną galeryjną etykietą.",
+      "name" : "Kolekcja prywatna"
+    },
+    "nf01" : {
+      "description" : "Wyrazisty czarno-żółty nagłówek dla Twojej podróży.",
+      "name" : "Dodatek osobisty"
+    },
+    "pc01" : {
+      "description" : "Ciepła karta ze zdjęciem, datą, podpisem i notatką z podróży do zapisania i udostępnienia.",
+      "name" : "Karta pamiątkowa"
+    },
+    "pc02" : {
+      "description" : "Czysta karta tylko ze zdjęciem, ciepłą ramką papieru, datą i znakiem marki.",
+      "name" : "Karta ze zdjęciem"
+    },
+    "rd01" : {
+      "description" : "Wyśrodkowany nagłówek, portret i trzy lokalne kolumny.",
+      "name" : "Codzienna pamiątka"
+    },
+    "st01" : {
+      "description" : "Ilustracja miejsca z perforowanymi brzegami i pieczęcią daty.",
+      "name" : "Listy z podróży · ilustracja"
+    },
+    "st02" : {
+      "description" : "Twoje zdjęcie z opcjonalnym ilustrowanym znaczkiem.",
+      "name" : "Listy ze zdjęciami"
+    },
+    "tk01" : {
+      "description" : "Morski odcinek z datą, Twoje zdjęcie i historia do zachowania.",
+      "name" : "Bilet podróżny"
+    }
+  }
+}

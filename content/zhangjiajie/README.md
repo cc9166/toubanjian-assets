@@ -8,3 +8,7 @@ Added in signed content sequence 3. The app bundle is unchanged; both list previ
 - The original image bytes are unchanged; only the filename is changed to `lm_zhangjiajie.jpg`. This is a real photograph, not an AI illustration.
 - The image license applies to the photograph. No endorsement by the photographer, Wikimedia or UNESCO is implied.
 - Chinese and English editorial copy is in `editions.json`; photo credit and license URL also accompany the content received by the app.
+
+## Localized browsing content
+
+Sequence 4 includes the name, country, city and introduction in all 20 app languages. See [landmark.json](landmark.json) or the [per-language catalog files](../localizations). The original bilingual print editions and photo attribution above are preserved.

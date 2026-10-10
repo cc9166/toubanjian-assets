@@ -1,0 +1,682 @@
+{
+  "landmarks" : {
+    "au-sydney-opera-house" : {
+      "city" : "Sydney",
+      "country" : "Australië",
+      "introduction" : "Het Sydney Opera House ligt aan de haven van Sydney en is een van de meest herkenbare moderne gebouwen van Australië. De schelpvormen raken het water en de skyline.\n\nDeze editie combineert context over de plek, kijkwijzers en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Sydney Opera House"
+    },
+    "br-rio-christ-redeemer" : {
+      "city" : "Rio de Janeiro",
+      "country" : "Brazilië",
+      "introduction" : "Christus de Verlosser staat bovenop Corcovado, met uitzicht over Rio, de baai en de omliggende bergen. Standbeeld en landschap vormen samen het iconische uitzicht van de stad.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Christ the Redeemer"
+    },
+    "cn-beijing-forbidden-city" : {
+      "city" : "Beijing",
+      "country" : "China",
+      "introduction" : "De Verboden Stad staat op de centrale as van Beijing. De poorten, binnenplaatsen en hallen verbinden keizerlijke ceremonie, architectonische orde en de geschiedenis van de stad.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Forbidden City"
+    },
+    "cn-beijing-great-wall-badaling" : {
+      "city" : "Beijing",
+      "country" : "China",
+      "introduction" : "Badaling is een van de meest bezochte Ming-secties van de Grote Muur nabij Beijing. Muren, wachttorens en bergkammen creëren het klassieke silhouet van de Grote Muur.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Badaling Great Wall"
+    },
+    "cn-chongqing-eling-erchang" : {
+      "city" : "Chongqing",
+      "country" : "China",
+      "introduction" : "Op 1 Eling Main Street werd de locatie in 1953 Chongqing Printing Factory No. 2 en was het een lokaal centrum voor kleurendruk.\n\nHet maken van een reiskrant hier verbindt een persoonlijk portret met het drukverleden van de stad.",
+      "name" : "Eling Erchang"
+    },
+    "cn-chongqing-hongyadong" : {
+      "city" : "Chongqing",
+      "country" : "China",
+      "introduction" : "Hongyadong staat aan de Jialing Riverside Road in Yuzhong. Het hedendaagse bezoekersdistrict brengt paalwoningvormen geïnspireerd op heuvelwoningen in een moderne commerciële omgeving.\n\nDe geschiedenis van een bouwvorm verschilt van de leeftijd van het district dat vandaag te zien is.",
+      "name" : "Hongyadong"
+    },
+    "cn-chongqing-jiefangbei" : {
+      "city" : "Chongqing",
+      "country" : "China",
+      "introduction" : "Jiefangbei ligt op het schiereiland Yuzhong in Chongqing. Het monument, de voetgangersstraten en de torens maken het zowel een stedelijke markering als een druk stadscentrum.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Jiefangbei"
+    },
+    "cn-xian-bell-tower" : {
+      "city" : "Xi'an",
+      "country" : "China",
+      "introduction" : "De Xi'an Bell Tower staat nabij het centrum van de oude stad. Als een oriëntatiepunt uit de Ming-dynastie dat met tijdmeting wordt geassocieerd, verankert het nog steeds het kruispunt en het uitzicht langs de hoofdstraten.\n\nEen portret hier verbindt de reiziger met de zichtbare orde van de oude stad.",
+      "name" : "Xi'an Bell Tower"
+    },
+    "cn-xian-giant-wild-goose-pagoda" : {
+      "city" : "Xi'an",
+      "country" : "China",
+      "introduction" : "De Giant Wild Goose Pagoda staat in de Da Ci'en-tempel in Xi'an. Hij is verbonden met Tang Chang'an en met de herinnering aan Xuanzangs boeddhistische vertaalwerk.\n\nEen portret hier draagt meer dan een torenomtrek: het wijst naar Xi'an als een plaats van reizen, leren en uitwisseling.",
+      "name" : "Giant Wild Goose Pagoda"
+    },
+    "cn-zhangjiajie-wulingyuan" : {
+      "city" : "Zhangjiajie",
+      "country" : "China",
+      "introduction" : "Wulingyuan in Hunan is bekend om zijn zandsteenzuilen, beboste hellingen en diepe valleien. Het schilderachtige gebied werd in 1992 opgenomen in de UNESCO Werelderfgoedlijst.",
+      "name" : "Zhangjiajie · Wulingyuan"
+    },
+    "eg-giza-pyramids" : {
+      "city" : "Caïro",
+      "country" : "Egypte",
+      "introduction" : "De Piramiden van Gizeh staan op het plateau van Gizeh in Egypte. Hun geometrie, de rand van de woestijn en het nabije stadszicht zorgen voor een treffend contrast door de tijd heen.\n\nDeze editie combineert context over de plek, kijkwijzers en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Piramiden van Gizeh"
+    },
+    "fr-paris-eiffel" : {
+      "city" : "Parijs",
+      "country" : "Frankrijk",
+      "introduction" : "Gebouwd voor de Exposition Universelle van 1889 werd de Eiffeltoren een van de duidelijkste symbolen van Parijs. De ijzeren structuur verandert techniek in skyline.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Eiffel Tower"
+    },
+    "fr-paris-louvre" : {
+      "city" : "Parijs",
+      "country" : "Frankrijk",
+      "introduction" : "Het Louvre groeide van een historisch paleis tot een groot museum. De binnenplaats en glazen piramide zetten klassieke architectuur naast een moderne ingang.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Louvre Museum"
+    },
+    "gb-london-tower-bridge" : {
+      "city" : "Londen",
+      "country" : "Verenigd Koninkrijk",
+      "introduction" : "Tower Bridge overspant de Theems en is een van de meest herkenbare bruggen van Londen. De torens en basculeconstructie verbinden stadsgeschiedenis met rivierverkeer.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Tower Bridge"
+    },
+    "it-rome-colosseum" : {
+      "city" : "Rome",
+      "country" : "Italië",
+      "introduction" : "Het Colosseum is een enorm amfitheater uit het oude Rome. Bogen, stenen oppervlakken en open interieurruimtes maken de lange tijdlijn van de stad zichtbaar.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Colosseum"
+    },
+    "jp-tokyo-sensoji" : {
+      "city" : "Tokio",
+      "country" : "Japan",
+      "introduction" : "Senso-ji verankert de wijk Asakusa in Tokio. Kaminarimon, Nakamise-dori en de hoofdhala verbinden een tempelbezoek met een levendige winkelstraat.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Senso-ji"
+    },
+    "kr-seoul-gyeongbokgung" : {
+      "city" : "Seoel",
+      "country" : "Zuid-Korea",
+      "introduction" : "Gyeongbokgung is een belangrijke Joseon-paleislocatie in Seoel. Poorten, hallen, binnenplaatsen en bergachtergrond onthullen lagen van de geschiedenis van de stad.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Gyeongbokgung Palace"
+    },
+    "pe-cusco-machu-picchu" : {
+      "city" : "Cusco",
+      "country" : "Peru",
+      "introduction" : "Machu Picchu ligt in de Andes van Peru en is een belangrijke Inca-site. Terrassen, stenen muren en bergkammen verbinden de oude stad nauw met het landschap.\n\nDeze editie combineert context over de plek, kijkwijzers en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Machu Picchu"
+    },
+    "sg-singapore-merlion" : {
+      "city" : "Singapore",
+      "country" : "Singapore",
+      "introduction" : "Merlion Park ligt aan Marina Bay. Het standbeeld, de waterkant en de skyline maken het een bekende plek om het stadsbeeld van Singapore te lezen.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Merlion Park"
+    },
+    "th-bangkok-grand-palace" : {
+      "city" : "Bangkok",
+      "country" : "Thailand",
+      "introduction" : "Het Grand Palace in Bangkok is een belangrijk koninklijk complex met paleisgebouwen, tempelruimtes en ornamentele details. Daken, spitsen en patronen bepalen het tafereel.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Grand Palace"
+    },
+    "us-new-york-liberty" : {
+      "city" : "New York",
+      "country" : "Verenigde Staten",
+      "introduction" : "Het Vrijheidsbeeld staat op Liberty Island in de haven van New York. Fakkel, sokkel en havenzicht verbinden een nationaal monument met de skyline van de stad.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Statue of Liberty"
+    },
+    "us-san-francisco-golden-gate" : {
+      "city" : "San Francisco",
+      "country" : "Verenigde Staten",
+      "introduction" : "De Golden Gate Bridge overspant de zeestraat Golden Gate. Torens, kabels, mist en het baailandschap maken het een van de sterkste visuele markeringen van San Francisco.\n\nDeze editie combineert plaatscontext, kijkclues en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Golden Gate Bridge"
+    },
+    "world-acropolis" : {
+      "city" : "Athene",
+      "country" : "Griekenland",
+      "introduction" : "De Acropolis verheft zich op een rotsachtige heuvel boven Athene en bewaart monumenten waaronder het Parthenon. Belangrijke werken uit de vijfde eeuw voor Christus maakten het een belangrijke uiting van klassieke architectuur, waarbij zuilen en terrein nog steeds de skyline van de stad bepalen.",
+      "name" : "Acropolis"
+    },
+    "world-angkor-wat" : {
+      "city" : "Siem Reap",
+      "country" : "Cambodja",
+      "introduction" : "Angkor Wat is een belangrijke tempel in het archeologische landschap van Angkor. Gebouwd onder de Khmer-koningen voor Vishnu, werd het later een centrum van boeddhistische verering. De torens, galerijen en reliëfs verbinden veranderende religieuze tradities met monumentale architectuur.",
+      "name" : "Angkor Wat"
+    },
+    "world-badshahi-mosque" : {
+      "city" : "Lahore",
+      "country" : "Pakistan",
+      "introduction" : "De Badshahi-moskee staat bij de historische ommuurde stad van Lahore. In de zeventiende eeuw gebouwd in opdracht van de Mogol-keizer Aurangzeb, combineert het rode gevels, bleke koepels en een brede binnenplaats in een monumentale setting voor de eredienst.",
+      "name" : "Badshahi-moskee"
+    },
+    "world-baobabs" : {
+      "city" : "Morondava",
+      "country" : "Madagaskar",
+      "introduction" : "De Avenue of the Baobabs bij Morondava wordt omzoomd door Grandidier-baobabs. Massieve stammen en hoog vertakte kronen vormen een onmiskenbaar landschap langs de weg en bieden een levendige kennismaking met het kenmerkende plantenleven van Madagaskar.",
+      "name" : "Avenue of the Baobabs"
+    },
+    "world-bayterek" : {
+      "city" : "Astana",
+      "country" : "Kazachstan",
+      "introduction" : "Bayterek is een monument en uitkijktoren in Astana. De witte vertakkende structuur draagt een gouden bol, waardoor het een duidelijk herkenningspunt is op een van de hoofdassen van de hoofdstad en een symbool van het moderne Kazachstan.",
+      "name" : "Bayterek"
+    },
+    "world-belem-tower" : {
+      "city" : "Lissabon",
+      "country" : "Portugal",
+      "introduction" : "De Torre de Belém is een zestiende-eeuwse vesting naast de Taag in Lissabon. Een verticale toren rijst boven een lager bastion uit, met gebeeldhouwde steendetails in de Manuelijnse stijl. De omgeving herinnert aan Portugal's maritieme en koloniale geschiedenis.",
+      "name" : "Torre de Belém"
+    },
+    "world-belgrade-fortress" : {
+      "city" : "Belgrado",
+      "country" : "Servië",
+      "introduction" : "Het Fort van Belgrado ligt op de samenvloeiing van de Sava en de Donau. De historische citadel en het Kalemegdanpark combineren muren, hellingen en weidse rivieruitzichten, waardoor een strategische positie zichtbaar wordt die deel is geworden van het openbare landschap van de stad.",
+      "name" : "Fort van Belgrado"
+    },
+    "world-borobudur" : {
+      "city" : "Magelang",
+      "country" : "Indonesië",
+      "introduction" : "Borobudur is een boeddhistisch monument in Midden-Java dat dateert uit de achtste en negende eeuw. Vierkante terrassen rijzen op naar ronde platforms, waarbij reliëfpanelen en geperforeerde stoepa's een opeenvolging vormen die uitmondt in de centrale stoepa.",
+      "name" : "Borobudur"
+    },
+    "world-bran-castle" : {
+      "city" : "Bran",
+      "country" : "Roemenië",
+      "introduction" : "Kasteel Bran bevindt zich op een rotsachtige locatie nabij een historische route in Transsylvanië. De gegroepeerde torens en muren weerspiegelen een middeleeuwse vesting. De geschiedenis van het gebouw moet vooral worden onderscheiden van de vampierliteratuur waarmee het toerisme het later in verband bracht.",
+      "name" : "Kasteel Bran"
+    },
+    "world-brandenburg-gate" : {
+      "city" : "Berlijn",
+      "country" : "Duitsland",
+      "introduction" : "De Brandenburger Tor werd eind achttiende eeuw gebouwd als neoklassiek monument in Berlijn. Zuilen, een sterke horizontale kroonlijst en de quadriga erboven geven het een duidelijk silhouet. De voormalige stadspoort draagt ook herinneringen aan de deling en hereniging van de stad.",
+      "name" : "Brandenburger Tor"
+    },
+    "world-bryggen" : {
+      "city" : "Bergen",
+      "country" : "Noorwegen",
+      "introduction" : "De houten gebouwen van Bryggen bewaren de band van Bergen met het Hanzeatische handelsnetwerk. Branden leidden tot herhaaldelijke wederopbouw, vaak volgens traditionele indelingen en methoden. De gevels aan de waterkant drukken nog steeds de structuur uit van een historische noordelijke handelswijk.",
+      "name" : "Bryggen"
+    },
+    "world-bund" : {
+      "city" : "Shanghai",
+      "country" : "China",
+      "introduction" : "The Bund volgt de historische waterkant van Shanghai op de westoever van de Huangpu. De gebouwen putten uit verschillende Europese architectuurtradities. Aan de overkant van de rivier biedt Lujiazui een heel andere skyline, waardoor twee hoofdstukken van de stadsontwikkeling in één beeld samenkomen.",
+      "name" : "The Bund"
+    },
+    "world-burj-khalifa" : {
+      "city" : "Dubai",
+      "country" : "Verenigde Arabische Emiraten",
+      "introduction" : "Burj Khalifa is de monumentale wolkenkrabber van Dubai, ontworpen door SOM. Vleugels rond een centrale kern verspringen naarmate het gebouw stijgt en smaller worden richting de spits. Dit veranderende profiel maakt van een complex technisch systeem een kenmerkende lijn aan de skyline.",
+      "name" : "Burj Khalifa"
+    },
+    "world-cape-coast-castle" : {
+      "city" : "Cape Coast",
+      "country" : "Ghana",
+      "introduction" : "Cape Coast Castle staat aan de kust van Ghana en was diep betrokken bij de Atlantische slavenhandel. De zeewaartse muren en binnenruimtes bewaren de geschiedenis van koloniale handel en gedwongen verplaatsing. Een bezoek vraagt om aandacht voor herdenking en interpretatie.",
+      "name" : "Cape Coast Castle"
+    },
+    "world-cartagena" : {
+      "city" : "Cartagena",
+      "country" : "Colombia",
+      "introduction" : "Cartagena is een historische haven aan de Caribische kust van Colombia. Vestingwerken en oude stadsdelen bewaren een geschiedenis van koloniale handel en maritieme concurrentie, waarbij verschillende buurten bijdragen aan de architectuur en openbare ruimtes van de stad.",
+      "name" : "Ommuurde stad Cartagena"
+    },
+    "world-casbah-algiers" : {
+      "city" : "Algiers",
+      "country" : "Algerije",
+      "introduction" : "De Casbah is de historische wijk van Algiers met uitzicht op de Middellandse Zee. Traditionele straten, moskeeën en overblijfselen van paleizen bevinden zich op de helling, waar dicht opeengepakte gebouwen, binnenplaatsen en doorgangen het karakter van een Noord-Afrikaanse kustmedina bewaren.",
+      "name" : "Casbah van Algiers"
+    },
+    "world-charles-bridge" : {
+      "city" : "Praag",
+      "country" : "Tsjechië",
+      "introduction" : "De Karelsbrug overspant de Moldau in Praag en werd begonnen in de veertiende eeuw. Stenen bogen verbinden de oevers, terwijl beelden en bruggenhoofden de oversteek deel maken van het artistieke en historische landschap van de stad.",
+      "name" : "Karelsbrug"
+    },
+    "world-chichen-itza" : {
+      "city" : "Yucatán",
+      "country" : "Mexico",
+      "introduction" : "Chichén Itzá is een belangrijke Maya-archeologische site op het schiereiland Yucatán in Mexico. De getrapte piramide, Tempel van de Krijgers en het ronde observatorium bewaren bewijs van verschillende culturele tradities die samenkwamen in één invloedrijke stad.",
+      "name" : "Chichén Itzá"
+    },
+    "world-chillon-castle" : {
+      "city" : "Veytaux",
+      "country" : "Zwitserland",
+      "introduction" : "Chillon is een middeleeuws kasteel aan het oostelijke uiteinde van het Meer van Genève. Torens, binnenplaatsen en muren aan het water bezetten een smalle rotsachtige locatie, wat het belang weerspiegelt van de route tussen de oever van het meer en het Alpenvallei daarbuiten.",
+      "name" : "Kasteel Chillon"
+    },
+    "world-chocolate-hills" : {
+      "city" : "Bohol",
+      "country" : "Filipijnen",
+      "introduction" : "De Chocolate Hills vormen een kenmerkend landschap op Bohol in de Filipijnen. Het gras verandert van kleur met de seizoenen, waarbij het bruin in het droge seizoen de heuvels hun bekende naam geeft. Herhaalde ronde kegels creëren een brede, ritmische horizon.",
+      "name" : "Chocolate Hills"
+    },
+    "world-cliffs-of-moher" : {
+      "city" : "County Clare",
+      "country" : "Ierland",
+      "introduction" : "De Cliffs of Moher liggen aan de Atlantische kust van County Clare. Gelaagde rotswanden rijzen boven de zee uit, met opeenvolgende landtongen die diepte langs de kustlijn creëren. Licht en weer veranderen voortdurend de verhouding tussen klif, water en horizon.",
+      "name" : "Cliffs of Moher"
+    },
+    "world-cn-tower" : {
+      "city" : "Toronto",
+      "country" : "Canada",
+      "introduction" : "De CN Tower van Toronto werd in 1976 voltooid als communicatie- en observatietoren. Een slanke schacht ondersteunt de bredere observatiestructuur, met een antenne die verder omhoog reikt, wat zorgt voor een herkenbaar profiel boven de omringende gebouwen.",
+      "name" : "CN Tower"
+    },
+    "world-dubrovnik" : {
+      "city" : "Dubrovnik",
+      "country" : "Kroatië",
+      "introduction" : "De oude binnenstad van Dubrovnik ligt aan de Adriatische Zee, omgeven door stevige stenen muren. Kerken, paleizen en tegeldaken behouden het karakter van een historische maritieme stad, gevormd door voorspoed, aardbevingen, conflicten en restauratie.",
+      "name" : "Oude binnenstad van Dubrovnik"
+    },
+    "world-el-jem" : {
+      "city" : "El Jem",
+      "country" : "Tunesië",
+      "introduction" : "Het amfitheater van El Jem is een belangrijk Romeins monument in Tunesië. De elliptische vorm, gestapelde bogen en bewaard gebleven zitplaatsen onthullen de schaal van een antieke openbare locatie en vormen een opvallend herkenningspunt in de huidige stad.",
+      "name" : "Amfitheater van El Jem"
+    },
+    "world-fort-jesus" : {
+      "city" : "Mombasa",
+      "country" : "Kenia",
+      "introduction" : "Fort Jesus werd in de late zestiende eeuw in Mombasa gebouwd om de haven te verdedigen. Het hoekige ontwerp en de stevige muren bewaren een hoofdstuk van Portugese militaire architectuur binnen de bredere geschiedenis van de handel in de Indische Oceaan en de Swahili-kust.",
+      "name" : "Fort Jesus"
+    },
+    "world-goree" : {
+      "city" : "Dakar",
+      "country" : "Senegal",
+      "introduction" : "Gorée ligt voor de kust van Dakar en is een plaats van herdenking die verbonden is met de Atlantische slavenhandel. De gebouwen, straten en zeewaartse ruimtes nodigen uit tot reflectie op gedwongen migratie en uitbuiting, naast het zichtbare historische karakter van het eiland.",
+      "name" : "Gorée"
+    },
+    "world-grand-place" : {
+      "city" : "Brussel",
+      "country" : "België",
+      "introduction" : "De Grote Markt van Brussel verenigt het Stadhuis, gildehuizen en andere burgerlijke architectuur. Versierde gevels, beeldhouwwerk en een hoge toren registreren het commerciële en openbare leven van de stad, waardoor het plein een ensemble wordt om gevel voor gevel te lezen.",
+      "name" : "Grote Markt"
+    },
+    "world-ha-long-bay" : {
+      "city" : "Ha Long",
+      "country" : "Vietnam",
+      "introduction" : "Ha Long Bay staat bekend om kalksteentorens die uit de zee oprijzen. Samen met de Cat Ba-archipel vormt het een Werelderfgoedlandschap waar eilanden en kanalen de opvallende vormen van door de zee ondergelopen karst onthullen.",
+      "name" : "Ha Long Bay"
+    },
+    "world-hagia-sophia" : {
+      "city" : "Istanbul",
+      "country" : "Turkije",
+      "introduction" : "De hoofdstructuur van de Hagia Sophia dateert uit de zesde eeuw. Het diende als kerk, moskee en museum, en wordt weer gebruikt voor islamitische erediensten. De grote koepel en overgebleven decoratielagen weerspiegelen de veranderende religieuze en burgerlijke geschiedenis van Istanbul.",
+      "name" : "Hagia Sophia"
+    },
+    "world-hallgrimskirkja" : {
+      "city" : "Reykjavík",
+      "country" : "IJsland",
+      "introduction" : "Hallgrímskirkja is een opvallende lutherse kerk in Reykjavík. De hoge toren en getrapte zijvleugels zorgen voor een sterk verticale compositie, waardoor de kerk vooral herkenbaar is boven de overwegend lagere gebouwen van de stad.",
+      "name" : "Hallgrímskirkja"
+    },
+    "world-hegra" : {
+      "city" : "AlUla",
+      "country" : "Saoedi-Arabië",
+      "introduction" : "Hegra, in de Saoedische regio AlUla, bewaart belangrijke overblijfselen van de Nabatese beschaving. Uitgehouwen graftombes, inscripties en putten onthullen architectonische en waterbeheerkennis, en breiden het culturele verhaal zuidwaarts uit vanaf Petra.",
+      "name" : "Hegra"
+    },
+    "world-humble-administrators-garden" : {
+      "city" : "Suzhou",
+      "country" : "China",
+      "introduction" : "De Tuin van de Nederige Ambtenaar behoort tot het Werelderfgoedensemble van tuinen in Suzhou. Water, paviljoens, rotsen en beplanting brengen het ruimere landschap in een besloten setting. Gangpaden en openingen leiden het oog, zodat een kleine verplaatsing een nieuwe compositie kan onthullen.",
+      "name" : "Tuin van de Nederige Ambtenaar"
+    },
+    "world-karnak" : {
+      "city" : "Luxor",
+      "country" : "Egypte",
+      "introduction" : "Karnak bij Luxor was een groot religieus complex van het oude Thebe. Opeenvolgende heersers voegden pylonen, binnenplaatsen en zalen toe, waardoor een site ontstond die over vele generaties vorm kreeg in plaats van een enkel gebouw dat in één regering werd voltooid.",
+      "name" : "Karnak"
+    },
+    "world-kinderdijk" : {
+      "city" : "Kinderdijk",
+      "country" : "Nederland",
+      "introduction" : "De molens van Kinderdijk maken deel uit van een breder Nederlands waterbeheersysteem. Dijken, boezems, gemalen en molens passen binnen de geschiedenis van het droogleggen van laaggelegen land. Het vredige uitzicht is ook een landschap gevormd door voortdurende techniek en arbeid.",
+      "name" : "Molens van Kinderdijk"
+    },
+    "world-kiyomizu-dera" : {
+      "city" : "Kyoto",
+      "country" : "Japan",
+      "introduction" : "Kiyomizu-dera staat op de oostelijke heuvels van Kyoto en maakt deel uit van de Werelderfgoedmonumenten van de stad. De houten architectuur van de tempel raakt de beboste helling, waarbij het beroemde podium een uitzicht op de stad daarbuiten opent.",
+      "name" : "Kiyomizu-dera"
+    },
+    "world-kotor" : {
+      "city" : "Kotor",
+      "country" : "Montenegro",
+      "introduction" : "Kotor ligt in een beschutte Adriatische baai, met steile bergen die direct achter de oude binnenstad oprijzen. Muren, kerken en stenen straten bewaren een geschiedenis van handel en vakmanschap en onthullen hoe sterk het terrein de nederzetting heeft gevormd.",
+      "name" : "Oude binnenstad van Kotor"
+    },
+    "world-koutoubia" : {
+      "city" : "Marrakesh",
+      "country" : "Marokko",
+      "introduction" : "De Koutoubia-moskee is een belangrijk religieus monument naast de oude stad van Marrakesh. De vierkante minaret, decoratieve details en tuinomgeving vormen een duidelijk herkenningspunt in de stad en weerspiegelen de architectonische tradities van de Maghreb.",
+      "name" : "Koutoubia-moskee"
+    },
+    "world-la-mano" : {
+      "city" : "Punta del Este",
+      "country" : "Uruguay",
+      "introduction" : "La Mano staat op Playa Brava in Punta del Este. Gemaakt door de Chileense kunstenaar Mario Irarrázabal, lijken de vijf vingers uit het zand op te rijzen, waardoor een eenvoudig en gedenkwaardig werk van publieke kunst in het kustlandschap wordt gebracht.",
+      "name" : "La Mano"
+    },
+    "world-lake-bled" : {
+      "city" : "Bled",
+      "country" : "Slovenië",
+      "introduction" : "Het Meer van Bled ligt in de noordwestelijke Alpenregio van Slovenië. Het eiland, het kasteel aan het meer en de beboste heuvels creëren een kenmerkende ordening van bezienswaardigheden rond het water, waarbij reflecties de gebouwde en natuurlijke omgeving met elkaar verbinden.",
+      "name" : "Meer van Bled"
+    },
+    "world-lalbagh-fort" : {
+      "city" : "Dhaka",
+      "country" : "Bangladesh",
+      "introduction" : "Lalbagh-fort is een onvoltooid Mogol-complex in Oud-Dhaka. De moskee, het graf en andere overgebleven structuren bewaren sporen van een ambitieus project. De plek vraagt aandacht voor onderbroken plannen en voor de gebouwen die er nog zijn.",
+      "name" : "Lalbagh-fort"
+    },
+    "world-lalibela" : {
+      "city" : "Lalibela",
+      "country" : "Ethiopië",
+      "introduction" : "De middeleeuwse rotskerken van Lalibela blijven een belangrijke heilige plek voor Ethiopische christenen. Gebouwen, binnenplaatsen en doorgangen werden uit de rots zelf gehouwen. De kruisvormige Kerk van Sint-Joris maakt deze ongebruikelijke relatie tussen architectuur en grond bijzonder duidelijk.",
+      "name" : "Kerken van Lalibela"
+    },
+    "world-luang-prabang" : {
+      "city" : "Luang Prabang",
+      "country" : "Laos",
+      "introduction" : "Wat Xieng Thong staat nabij het noordelijke uiteinde van het schiereiland van Luang Prabang. Als belangrijk Lao-klooster verbindt het koninklijke geschiedenis, boeddhistische verering en traditionele kunsten. De zwierige daklijnen en decoratieve oppervlakken bieden een intieme kennismaking met de oude stad.",
+      "name" : "Wat Xieng Thong"
+    },
+    "world-mont-saint-michel" : {
+      "city" : "Mont-Saint-Michel",
+      "country" : "Frankrijk",
+      "introduction" : "Mont-Saint-Michel rijst op uit een getijdenomgeving in Normandië. Abdij en dorp klimmen op een rotsachtig eiland boven muren en uitgestrekte zandplaten, wat laat zien hoe religieuze architectuur zich aanpaste aan een bijzonder veeleisende en veranderlijke natuurlijke locatie.",
+      "name" : "Mont-Saint-Michel"
+    },
+    "world-nyhavn" : {
+      "city" : "Kopenhagen",
+      "country" : "Denemarken",
+      "introduction" : "Nyhavn is een historische gracht en waterkantwijk in Kopenhagen. Rijen kleurrijke herenhuizen en houten boten behouden een havenkarakter, terwijl de activiteit langs de oevers het stevig verbonden houdt met het hedendaagse stadsleven.",
+      "name" : "Nyhavn"
+    },
+    "world-obelisco" : {
+      "city" : "Buenos Aires",
+      "country" : "Argentinië",
+      "introduction" : "De Obelisco staat in het Plaza de la República in Buenos Aires op de kruising van de Avenida Corrientes en de Avenida 9 de Julio. Gebouwd in 1936 om vier eeuwen sinds de eerste stichting van de stad te markeren, werd het een bepalend punt in het stadscentrum.",
+      "name" : "Obelisco"
+    },
+    "world-old-havana" : {
+      "city" : "Havana",
+      "country" : "Cuba",
+      "introduction" : "Oud Havana bewaart een historisch weefsel van pleinen, arcades, balkons en binnenplaatsen. Barokke en neoklassieke gebouwen staan naast elkaar en weerspiegelen de groei van een Caribische havenstad waar openbare ruimtes nauw verbonden blijven met het dagelijks leven.",
+      "name" : "Oud Havana"
+    },
+    "world-osaka-castle" : {
+      "city" : "Osaka",
+      "country" : "Japan",
+      "introduction" : "Kasteel Osaka is verbonden met de eenwording van Japan in de zestiende eeuw. De huidige hoofdtoren werd in 1931 gereconstrueerd en is niet onveranderd uit die tijd bewaard gebleven. De setting van stenen muren en grachten helpt de verschillende historische lagen van de plek te onthullen.",
+      "name" : "Kasteel Osaka"
+    },
+    "world-panama-viejo" : {
+      "city" : "Panama-Stad",
+      "country" : "Panama",
+      "introduction" : "Panamá Viejo bewaart resten van de oorspronkelijke nederzetting van de stad. Na de verwoesting in 1671 verplaatste het centrum zich naar een nieuwe locatie. Overgebleven torens, muren en straatpatronen maken het eerdere hoofdstuk zichtbaar in het huidige Panama-Stad.",
+      "name" : "Panamá Viejo"
+    },
+    "world-paphos" : {
+      "city" : "Paphos",
+      "country" : "Cyprus",
+      "introduction" : "Het Archeologisch Park Paphos bewaart belangrijke resten van het oude Nea Paphos, waaronder huizen, openbare gebouwen en uitgebreide vloermozaïeken. Geometrische patronen en mythologische scènes onthullen hoe kunst doordrong in de huiselijke ruimte van deze mediterrane stad.",
+      "name" : "Archeologisch Park Paphos"
+    },
+    "world-parliament-budapest" : {
+      "city" : "Boedapest",
+      "country" : "Hongarije",
+      "introduction" : "Het Hongaarse Parlementsgebouw staat aan de Pest-zijde van de Donau. De neogotische spitsen en de centrale koepel creëren een lang, ritmisch silhouet, waardoor de oever een van de duidelijkste plekken is om het burgerlijke landschap van Boedapest te herkennen.",
+      "name" : "Hongaars Parlement"
+    },
+    "world-petra" : {
+      "city" : "Wadi Musa",
+      "country" : "Jordanië",
+      "introduction" : "Petra was een Nabatese stad op een belangrijk knooppunt van handelsroutes. De gebouwen zijn deels gebouwd en deels uitgehouwen in zandsteen. Kloven, rotswanden en watersystemen helpen verklaren hoe de stad dit dramatische landschap innam.",
+      "name" : "Petra"
+    },
+    "world-petronas-towers" : {
+      "city" : "Kuala Lumpur",
+      "country" : "Maleisië",
+      "introduction" : "De Petronas Towers vormen een onmiskenbaar paar in de skyline van Kuala Lumpur, verbonden door een skybridge. Hun getrapte profielen en gevels van metaal en glas maken herhaling en symmetrie tot de bepalende kenmerken van dit moderne stadsmonument.",
+      "name" : "Petronas Towers"
+    },
+    "world-potala-palace" : {
+      "city" : "Lhasa",
+      "country" : "China",
+      "introduction" : "Het Potala Paleis verheft zich op de Rode Berg in Lhasa, waarbij het Witte en Rode Paleis een duidelijk gelaagd silhouet vormen. Als voormalige winterresidentie van de dalai lama's brengt het architectuur, religieuze kunst en de omliggende bergomgeving nauw met elkaar in verband.",
+      "name" : "Potala Paleis"
+    },
+    "world-quito" : {
+      "city" : "Quito",
+      "country" : "Ecuador",
+      "introduction" : "Het historische centrum van Quito ligt in de Andes en bewaart belangrijke kerken, kloosters en stedelijke ruimtes. De kunsten combineren Europese vormen met lokale tradities van vervaardiging, wat resulteert in een kenmerkende architectonische expressie in plaats van een simpel geïmporteerd model.",
+      "name" : "Historisch centrum van Quito"
+    },
+    "world-rapa-nui" : {
+      "city" : "Rapa Nui",
+      "country" : "Chili",
+      "introduction" : "Ahu Tongariki op Rapa Nui combineert een ceremoniële platform met een rij moai. De rechtopstaande beelden zijn hersteld na omverwerping en schade door een tsunami, waardoor zowel de beeldhouwtraditie van het eiland als een meer recente geschiedenis van conservering bewaard blijft.",
+      "name" : "Ahu Tongariki"
+    },
+    "world-registan" : {
+      "city" : "Samarkand",
+      "country" : "Oezbekistan",
+      "introduction" : "Het Registan-plein in Samarkand wordt omlijst door drie madrassa's. Hoge portalen, blauwe koepels en geometrisch tegelwerk geven het ensemble zijn herkenbare karakter, en verbinden de tradities van leren, vakmanschap en openbaar leven van de Zijderoute-stad.",
+      "name" : "Registan"
+    },
+    "world-rila-monastery" : {
+      "city" : "Rila",
+      "country" : "Bulgarije",
+      "introduction" : "Het Rilaklooster is een belangrijke orthodoxe culturele site in een Bulgaarse bergvallei. Een groot deel van het huidige complex werd in de negentiende eeuw herbouwd, met arcades, beschilderde oppervlakken en de kerk die de kunst van de Bulgaarse Nationale Wedergeboorte tot uitdrukking brengen.",
+      "name" : "Rilaklooster"
+    },
+    "world-rock-islands" : {
+      "city" : "Koror",
+      "country" : "Palau",
+      "introduction" : "De Rock Islands van Palau vormen een landschap van kalksteeneilandjes, groene vegetatie en lagunewater. De Southern Lagoon bevat ook riffen, mariene meren en culturele overblijfselen, waardoor ecologische verscheidenheid en menselijke geschiedenis in dezelfde eilandsetting samenkomen.",
+      "name" : "Rock Islands"
+    },
+    "world-sagrada-familia" : {
+      "city" : "Barcelona",
+      "country" : "Spanje",
+      "introduction" : "De Sagrada Família is nauw verbonden met Antoni Gaudí en Barcelona. Gebeeldhouwde gevels, oprijzende torens en aan de natuur ontleende vormen geven het een kenmerkende architectonische taal. De Geboortegevel en de crypte zijn opgenomen in de Werelderfgoedinschrijving van Gaudí's werken.",
+      "name" : "Sagrada Família"
+    },
+    "world-schonbrunn" : {
+      "city" : "Wenen",
+      "country" : "Oostenrijk",
+      "introduction" : "Schönbrunn was een belangrijke residentie van de Habsburgse heersers. Paleis en tuinen vormen een barok ensemble in Wenen, waar gevels, paden en tuinelementen in de verte met elkaar verbonden zijn door zorgvuldig georganiseerde assen en zichten.",
+      "name" : "Schloss Schönbrunn"
+    },
+    "world-sigiriya" : {
+      "city" : "Sigiriya",
+      "country" : "Sri Lanka",
+      "introduction" : "Sigiriya rijst als een granieten rotsformatie boven het omliggende bos in Sri Lanka. Resten van een oud koninklijk centrum bevinden zich op de hellingen en de top, met trappen, terrassen en tuinen die het dramatische landschap omvormen tot een architecturale setting.",
+      "name" : "Sigiriya"
+    },
+    "world-sky-tower" : {
+      "city" : "Auckland",
+      "country" : "Nieuw-Zeeland",
+      "introduction" : "De Sky Tower van Auckland is een communicatie- en uitkijkstructuur in het stadscentrum. De slanke schacht, uitstekende uitkijkniveaus en bovenste mast vormen een duidelijk silhouet en bieden een visuele referentie in de straten en skyline van de havenstad.",
+      "name" : "Sky Tower"
+    },
+    "world-sri-siva-subramaniya" : {
+      "city" : "Nadi",
+      "country" : "Fiji",
+      "introduction" : "De Sri Siva Subramaniya-tempel in Nadi is een belangrijke religieuze en culturele site voor de Indo-Fijische gemeenschap van Fiji. De felgekleurde toegangstoren en beeldhouwdetails brengen Zuid-Indiase tempeltradities in een Zuid-Pacifische stedelijke omgeving.",
+      "name" : "Sri Siva Subramaniya-tempel"
+    },
+    "world-stari-most" : {
+      "city" : "Mostar",
+      "country" : "Bosnië en Herzegovina",
+      "introduction" : "Stari Most overspant de Neretva in Mostar. De Ottomaanse brug werd verwoest tijdens het conflict van de jaren negentig en later herbouwd. De enkele boog draagt nu zowel een verhaal van erfgoedherstel als een route tussen de oevers.",
+      "name" : "Stari Most"
+    },
+    "world-stockholm-city-hall" : {
+      "city" : "Stockholm",
+      "country" : "Zweden",
+      "introduction" : "Het Stadhuis van Stockholm staat aan het water op Kungsholmen. Het dient de burgerlijke administratie en het ceremoniële leven, met rode baksteen, een ruime binnenplaats en een toren bekroond met drie vergulde kronen die een kenmerkend stadsoriëntatiepunt vormen.",
+      "name" : "Stadhuis van Stockholm"
+    },
+    "world-stone-town" : {
+      "city" : "Zanzibar City",
+      "country" : "Tanzania",
+      "introduction" : "Stone Town is een belangrijk voorbeeld van een Oost-Afrikaanse Swahili-handelsstad. Smalle straten, stevige gebouwen en gebeeldhouwde deuren weerspiegelen connecties met Afrika, Arabië, India en Europa, naast de moeilijke geschiedenis van slavernij en handel in de Indische Oceaan.",
+      "name" : "Stone Town"
+    },
+    "world-sultan-qaboos-mosque" : {
+      "city" : "Muscat",
+      "country" : "Oman",
+      "introduction" : "De Sultan Qaboos-moskee is een belangrijk hedendaags religieus gebouw in Muscat. De koepel, minaretten en ruime binnenplaatsen vormen een ordelijke compositie, met lichtgekleurde steentinten die natuurlijk passen in de bergachtige omgeving van de stad.",
+      "name" : "Sultan Qaboos-moskee"
+    },
+    "world-suomenlinna" : {
+      "city" : "Helsinki",
+      "country" : "Finland",
+      "introduction" : "Suomenlinna ligt op eilanden buiten de haven van Helsinki en werd begonnen onder Zweeds bewind in de achttiende eeuw. De muren en routes volgen het terrein, wat laat zien hoe een Europese zeevesting zich aanpaste aan een eilandomgeving.",
+      "name" : "Suomenlinna"
+    },
+    "world-swayambhunath" : {
+      "city" : "Kathmandu",
+      "country" : "Nepal",
+      "introduction" : "Swayambhunath ligt op een heuvel in de Kathmandu-vallei en is een belangrijke boeddhistische heilige plaats. De witte stoepa, beschilderde ogen en oprijzende spits vormen een kenmerkend silhouet, dat de stad beneden verbindt met een lange traditie van bedevaarten.",
+      "name" : "Swayambhunath"
+    },
+    "world-taj-mahal" : {
+      "city" : "Agra",
+      "country" : "India",
+      "introduction" : "De Taj Mahal staat naast de Yamuna in Agra. Shah Jahan gaf opdracht tot dit mausoleum ter nagedachtenis aan Mumtaz Mahal. Wit marmer, een centrale koepel, hoekminaretten en een formele tuinas creëren een zorgvuldig uitgebalanceerde architectonische compositie.",
+      "name" : "Taj Mahal"
+    },
+    "world-tigers-nest" : {
+      "city" : "Paro",
+      "country" : "Bhutan",
+      "introduction" : "Paro Taktsang, bekend als Tiger's Nest, is een boeddhistische heilige plaats op de kliffen boven de Paro-vallei. Witgekalkte gebouwen kleven aan de rots, waardoor de relatie tussen het klooster en de steile bergomgeving bijzonder treffend is.",
+      "name" : "Tiger's Nest"
+    },
+    "world-tikal" : {
+      "city" : "Petén",
+      "country" : "Guatemala",
+      "introduction" : "Tikal is een belangrijke Maya-stad in het regenwoud van Petén in Guatemala. Hoge tempels, paleizen en pleinen komen tevoorschijn tussen de vegetatie, waardoor verticale architectonische vormen tegenover het brede bladerdak van het omringende bos komen te staan.",
+      "name" : "Tikal"
+    },
+    "world-uluru" : {
+      "city" : "Yulara",
+      "country" : "Australië",
+      "introduction" : "Uluru is een prominente zandsteenformatie in centraal Australië en een belangrijk onderdeel van de Anangu-cultuur en -geloof. De enorme massa rijst boven de vlakte uit, waarbij veranderend licht de oppervlakken onthult, maar de betekenis reikt veel verder dan geologie.",
+      "name" : "Uluru"
+    },
+    "world-valletta" : {
+      "city" : "Valletta",
+      "country" : "Malta",
+      "introduction" : "Valletta ligt op een schiereiland tussen twee havens in Malta. Nauw verbonden met de Orde van Sint-Jan brengt het compacte historische weefsel religieuze, militaire en burgerlijke architectuur samen in een opmerkelijk geconcentreerde stedelijke omgeving.",
+      "name" : "Valletta"
+    },
+    "world-victoria-falls" : {
+      "city" : "Victoriawatervallen",
+      "country" : "Zimbabwe",
+      "introduction" : "De Victoriawatervallen liggen aan de Zambezi op de grens van Zambia en Zimbabwe. Het water stort in basaltkloven en veroorzaakt brede wolken van nevel. Watervallen, rivier en rots vormen samen een dramatisch landschap dat door beide landen wordt gedeeld.",
+      "name" : "Victoriawatervallen"
+    },
+    "world-victoria-peak" : {
+      "city" : "Hongkong",
+      "country" : "China",
+      "introduction" : "Victoria Peak verheft zich aan de westkant van Hongkong Island. Het uitzicht brengt de gebouwen van Central, Victoria Harbour en de omliggende heuvels in één setting, en onthult hoe de dichte skyline van de stad tussen steile grond en het water past.",
+      "name" : "Victoria Peak"
+    },
+    "world-wawel" : {
+      "city" : "Krakau",
+      "country" : "Polen",
+      "introduction" : "De Wawelburcht bevindt zich op een heuvel naast de Wisła in Krakau en is een belangrijke locatie in de Poolse koninklijke geschiedenis. In de loop der tijd uitgebreid, behouden de binnenplaatsen, torens en gevarieerde gevels verschillende architectonische perioden binnen één complex.",
+      "name" : "Wawelburcht"
+    },
+    "world-west-lake" : {
+      "city" : "Hangzhou",
+      "country" : "China",
+      "introduction" : "Het Westmeer verbindt open water en omliggende heuvels met dijken, eilanden, tempels en tuinen die door de eeuwen heen zijn gevormd. De zorgvuldig samengestelde uitzichten beïnvloedden tuinontwerp buiten Hangzhou, waardoor de oever een plek is om de ontmoeting van landschap en cultuur te lezen.",
+      "name" : "Westmeer"
+    },
+    "za-cape-town-table-mountain" : {
+      "city" : "Kaapstad",
+      "country" : "Zuid-Afrika",
+      "introduction" : "De Tafelberg verheft zich achter Kaapstad met zijn platte profiel. Berg, baai, stad en wisselende wolken bepalen een van de belangrijkste uitzichten van de stad.\n\nDeze editie combineert context over de plek, kijkwijzers en een persoonlijke foto, zodat het aandenken leest als een kleine lokale krant.",
+      "name" : "Tafelberg"
+    }
+  },
+  "locale" : "nl",
+  "schemaVersion" : 1,
+  "templates" : {
+    "ct01" : {
+      "description" : "Bezienswaardigheden en jouw portret in een tweeluik.",
+      "name" : "Stadseditie"
+    },
+    "dp01" : {
+      "description" : "Eén doorlopend landschap over twee panelen.",
+      "name" : "Landschapsdiptiek"
+    },
+    "fl01" : {
+      "description" : "Geïllustreerde film op licht papier.",
+      "name" : "Geïllustreerde film"
+    },
+    "fl02" : {
+      "description" : "Natuurlijke kleuren en een fijne filmrand.",
+      "name" : "Leven op film"
+    },
+    "hc01" : {
+      "description" : "Een portret, een geïllustreerde plek en een dag om te vieren.",
+      "name" : "Goed nieuws"
+    },
+    "hf01" : {
+      "description" : "Een persoonlijk kader en een geïllustreerde plek.",
+      "name" : "Filmdagboek"
+    },
+    "hm01" : {
+      "description" : "Een grote foto met een geïllustreerde reissidebar.",
+      "name" : "Reismagazine"
+    },
+    "hn01" : {
+      "description" : "Een gedurfde kop, jouw foto en een geïllustreerde stadskolom.",
+      "name" : "Stadsextra"
+    },
+    "ht01" : {
+      "description" : "Jouw foto en een illustratie van een bezienswaardigheid samen op de voorpagina.",
+      "name" : "Reisjournaal"
+    },
+    "mu01" : {
+      "description" : "Een landschap met een rustig galerielabel.",
+      "name" : "Privécollectie"
+    },
+    "nf01" : {
+      "description" : "Een gedurfde geel-op-zwarte kop voor jouw reisverhaal.",
+      "name" : "Persoonlijke extra"
+    },
+    "pc01" : {
+      "description" : "Een warme fotokaart met datum, bijschrift en reisnotitie om te bewaren en te delen.",
+      "name" : "Souvenirkaart"
+    },
+    "pc02" : {
+      "description" : "Een strakke fotokaart met warme papieren rand, datum en merk.",
+      "name" : "Fotokaart"
+    },
+    "rd01" : {
+      "description" : "Gecentreerde kop, portret en drie lokale kolommen.",
+      "name" : "Dagboek"
+    },
+    "st01" : {
+      "description" : "Illustratie van bezienswaardigheid met perforatieranden en datumstempel.",
+      "name" : "Landschapsbrieven"
+    },
+    "st02" : {
+      "description" : "Jouw foto met een optionele geïllustreerde postzegel.",
+      "name" : "Fotobrieven"
+    },
+    "tk01" : {
+      "description" : "Een blauwgroen datumstrookje, jouw foto en een verhaal om te bewaren.",
+      "name" : "Reiskaartje"
+    }
+  }
+}

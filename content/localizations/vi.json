@@ -1,0 +1,682 @@
+{
+  "landmarks" : {
+    "au-sydney-opera-house" : {
+      "city" : "Sydney",
+      "country" : "Úc",
+      "introduction" : "Nhà hát Opera Sydney nằm bên Cảng Sydney và là một trong những công trình hiện đại được nhận diện rõ nhất của Úc. Những hình khối vỏ sò của nó gặp gỡ mặt nước và đường chân trời.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và ảnh cá nhân, khiến món quà lưu niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Nhà hát Opera Sydney"
+    },
+    "br-rio-christ-redeemer" : {
+      "city" : "Rio de Janeiro",
+      "country" : "Brazil",
+      "introduction" : "Tượng Chúa Kitô Cứu Thế đứng trên đỉnh Corcovado, nhìn ra Rio, vịnh và các ngọn núi xung quanh. Tượng và cảnh quan cùng nhau tạo nên khung cảnh mang tính biểu tượng của thành phố.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Tượng Chúa Kitô Cứu Thế"
+    },
+    "cn-beijing-forbidden-city" : {
+      "city" : "Bắc Kinh",
+      "country" : "Trung Quốc",
+      "introduction" : "Tử Cấm Thành nằm trên trục trung tâm của Bắc Kinh. Các cổng, sân và điện kết nối nghi lễ hoàng gia, trật tự kiến trúc và lịch sử thành phố.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Tử Cấm Thành"
+    },
+    "cn-beijing-great-wall-badaling" : {
+      "city" : "Bắc Kinh",
+      "country" : "Trung Quốc",
+      "introduction" : "Bát Đạt Lĩnh là một trong những đoạn Vạn Lý Trường Thành thời nhà Minh được thăm nhiều nhất gần Bắc Kinh. Tường thành, tháp canh và đường sống núi tạo nên hình bóng Vạn Lý Trường Thành cổ điển.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Vạn Lý Trường Thành Bát Đạt Lĩnh"
+    },
+    "cn-chongqing-eling-erchang" : {
+      "city" : "Trùng Khánh",
+      "country" : "Trung Quốc",
+      "introduction" : "Tại số 1 phố chính Nga Lĩnh, địa điểm này trở thành Nhà máy In Trùng Khánh số 2 vào năm 1953 và là trung tâm địa phương về in màu.\n\nViệc làm một tờ báo du lịch ở đây kết nối chân dung cá nhân với quá khứ in ấn của thành phố.",
+      "name" : "Nga Lĩnh Nhị Xưởng"
+    },
+    "cn-chongqing-hongyadong" : {
+      "city" : "Trùng Khánh",
+      "country" : "Trung Quốc",
+      "introduction" : "Hồng Nhai Động nằm trên đường ven sông Gia Lăng ở Du Trung. Khu du lịch đương đại này đưa những hình thức nhà sàn lấy cảm hứng từ những ngôi nhà trên sườn đồi vào một bối cảnh thương mại hiện đại.\n\nLịch sử của một hình thức kiến trúc khác với tuổi của khu du lịch được thấy ngày nay.",
+      "name" : "Hồng Nhai Động"
+    },
+    "cn-chongqing-jiefangbei" : {
+      "city" : "Trùng Khánh",
+      "country" : "Trung Quốc",
+      "introduction" : "Bia Giải Phóng nằm trên bán đảo Du Trung của Trùng Khánh. Tượng đài, phố đi bộ và các tòa tháp khiến nơi đây vừa là dấu mốc công dân vừa là trung tâm thành phố đông đúc.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Bia Giải Phóng"
+    },
+    "cn-xian-bell-tower" : {
+      "city" : "Tây An",
+      "country" : "Trung Quốc",
+      "introduction" : "Tháp Chuông Tây An đứng gần trung tâm thành cổ. Là một dấu mốc thời nhà Minh gắn với việc giữ giờ, tháp vẫn neo giữ ngã tư và tầm nhìn dọc các con phố chính.\n\nMột bức chân dung ở đây kết nối du khách với trật tự hữu hình của thành phố cổ.",
+      "name" : "Tháp Chuông Tây An"
+    },
+    "cn-xian-giant-wild-goose-pagoda" : {
+      "city" : "Tây An",
+      "country" : "Trung Quốc",
+      "introduction" : "Đại Nhạn Tháp đứng trong chùa Đại Từ Ân ở Tây An. Tháp gắn với Trường An thời Đường và với ký ức về công việc dịch thuật Phật giáo của Huyền Trang.\n\nMột bức chân dung ở đây mang nhiều hơn đường nét của một ngọn tháp: nó chỉ đến Tây An như một nơi của du hành, học hỏi và giao lưu.",
+      "name" : "Đại Nhạn Tháp"
+    },
+    "cn-zhangjiajie-wulingyuan" : {
+      "city" : "Trương Gia Giới",
+      "country" : "Trung Quốc",
+      "introduction" : "Vũ Lăng Nguyên ở Hồ Nam nổi tiếng với các cột đá sa thạch, sườn núi có rừng và thung lũng sâu. Khu danh thắng này đã được ghi vào Danh sách Di sản Thế giới của UNESCO năm 1992.",
+      "name" : "Trương Gia Giới · Vũ Lăng Nguyên"
+    },
+    "eg-giza-pyramids" : {
+      "city" : "Cairo",
+      "country" : "Ai Cập",
+      "introduction" : "Kim tự tháp Giza nằm trên Cao nguyên Giza của Ai Cập. Hình học của chúng, rìa sa mạc và tầm nhìn ra thành phố gần đó tạo nên sự tương phản ấn tượng xuyên thời gian.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và ảnh cá nhân, khiến món quà lưu niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Kim tự tháp Giza"
+    },
+    "fr-paris-eiffel" : {
+      "city" : "Paris",
+      "country" : "Pháp",
+      "introduction" : "Được xây cho Triển lãm Toàn cầu năm 1889, Tháp Eiffel đã trở thành một trong những biểu tượng rõ ràng nhất của Paris. Kết cấu sắt của tháp biến kỹ thuật thành đường chân trời.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Tháp Eiffel"
+    },
+    "fr-paris-louvre" : {
+      "city" : "Paris",
+      "country" : "Pháp",
+      "introduction" : "Louvre phát triển từ một cung điện lịch sử thành một bảo tàng lớn. Sân và kim tự tháp kính của bảo tàng đặt kiến trúc cổ điển bên cạnh một lối vào hiện đại.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Bảo tàng Louvre"
+    },
+    "gb-london-tower-bridge" : {
+      "city" : "Luân Đôn",
+      "country" : "Vương quốc Anh",
+      "introduction" : "Cầu Tháp bắc qua sông Thames và là một trong những cây cầu dễ nhận ra nhất của Luân Đôn. Các tháp và kết cấu nâng hạ của cầu kết nối lịch sử thành phố với giao thông đường sông.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Cầu Tháp"
+    },
+    "it-rome-colosseum" : {
+      "city" : "Roma",
+      "country" : "Ý",
+      "introduction" : "Colosseum là một đấu trường khổng lồ từ thời La Mã cổ đại. Các vòm, bề mặt đá và không gian nội thất mở khiến dòng thời gian dài của thành phố trở nên hữu hình.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Đấu trường La Mã"
+    },
+    "jp-tokyo-sensoji" : {
+      "city" : "Tokyo",
+      "country" : "Nhật Bản",
+      "introduction" : "Senso-ji neo giữ khu Asakusa của Tokyo. Kaminarimon, Nakamise-dori và chính điện kết nối chuyến thăm chùa với một phố mua sắm sôi động.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Chùa Sensō"
+    },
+    "kr-seoul-gyeongbokgung" : {
+      "city" : "Seoul",
+      "country" : "Hàn Quốc",
+      "introduction" : "Gyeongbokgung là một di tích cung điện lớn thời Joseon ở Seoul. Cổng, điện, sân và nền núi phía sau hé lộ các lớp lịch sử của thành phố.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Cung Gyeongbokgung"
+    },
+    "pe-cusco-machu-picchu" : {
+      "city" : "Cusco",
+      "country" : "Peru",
+      "introduction" : "Machu Picchu nằm ở dãy Andes của Peru và là một di chỉ quan trọng của người Inca. Các ruộng bậc thang, tường đá và các đường sống núi gắn kết thành phố cổ với cảnh quan xung quanh.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và ảnh cá nhân, khiến món quà lưu niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Machu Picchu"
+    },
+    "sg-singapore-merlion" : {
+      "city" : "Singapore",
+      "country" : "Singapore",
+      "introduction" : "Công viên Merlion nằm bên Vịnh Marina. Bức tượng, bờ nước và đường chân trời khiến nơi đây thành một địa điểm quen thuộc để đọc hình ảnh thành phố Singapore.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Công viên Merlion"
+    },
+    "th-bangkok-grand-palace" : {
+      "city" : "Băng Cốc",
+      "country" : "Thái Lan",
+      "introduction" : "Cung điện Hoàng gia ở Băng Cốc là một quần thể hoàng gia lớn với các tòa nhà cung điện, không gian chùa và chi tiết trang trí công phu. Mái, chóp và họa tiết định hình khung cảnh.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Cung điện Hoàng gia"
+    },
+    "us-new-york-liberty" : {
+      "city" : "New York",
+      "country" : "Hoa Kỳ",
+      "introduction" : "Tượng Nữ thần Tự do đứng trên Đảo Liberty trong Cảng New York. Ngọn đuốc, bệ đỡ và tầm nhìn ra cảng kết nối một đài tưởng niệm quốc gia với đường chân trời thành phố.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Tượng Nữ thần Tự do"
+    },
+    "us-san-francisco-golden-gate" : {
+      "city" : "San Francisco",
+      "country" : "Hoa Kỳ",
+      "introduction" : "Cầu Cổng Vàng bắc qua eo biển Cổng Vàng. Các trụ tháp, dây cáp, sương mù và địa hình vịnh khiến nó thành một trong những dấu hiệu thị giác mạnh nhất của San Francisco.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và một bức ảnh cá nhân, để vật kỷ niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Cầu Cổng Vàng"
+    },
+    "world-acropolis" : {
+      "city" : "Athens",
+      "country" : "Hy Lạp",
+      "introduction" : "Acropolis nằm trên một ngọn đồi đá phía trên Athena và lưu giữ các di tích bao gồm Parthenon. Những công trình lớn của thế kỷ V TCN đã biến nơi đây thành một biểu hiện quan trọng của kiến trúc cổ điển, với các cột và địa hình vẫn định hình đường chân trời của thành phố.",
+      "name" : "Acropolis"
+    },
+    "world-angkor-wat" : {
+      "city" : "Siem Reap",
+      "country" : "Campuchia",
+      "introduction" : "Angkor Wat là một ngôi đền quan trọng trong quần thể khảo cổ Angkor. Được xây dựng dưới thời các vua Khmer để thờ Vishnu, sau đó trở thành trung tâm thờ Phật. Các tháp, hành lang và phù điêu của nó kết nối truyền thống tôn giáo thay đổi với kiến trúc đồ sộ.",
+      "name" : "Angkor Wat"
+    },
+    "world-badshahi-mosque" : {
+      "city" : "Lahore",
+      "country" : "Pakistan",
+      "introduction" : "Badshahi Mosque nằm bên cạnh khu thành cổ lịch sử của Lahore. Được Hoàng đế Mughal Aurangzeb cho xây dựng vào thế kỷ XVII, công trình kết hợp mặt tiền đỏ, những mái vòm nhạt màu và sân rộng lớn trong một không gian thờ tự hoành tráng.",
+      "name" : "Badshahi Mosque"
+    },
+    "world-baobabs" : {
+      "city" : "Morondava",
+      "country" : "Madagascar",
+      "introduction" : "Đại lộ Baobab gần Morondava được bao phủ bởi các cây baobab Grandidier. Những thân cây khổng lồ và tán lá phân nhánh cao tạo nên một cảnh quan khó nhầm lẫn dọc theo con đường, mang đến một giới thiệu sống động về đời sống thực vật đặc biệt của Madagascar.",
+      "name" : "Đại lộ Baobab"
+    },
+    "world-bayterek" : {
+      "city" : "Astana",
+      "country" : "Kazakhstan",
+      "introduction" : "Bayterek là một tượng đài và tháp quan sát ở Astana. Cấu trúc trắng phân nhánh nâng đỡ một quả cầu vàng, tạo nên một điểm nhấn rõ ràng trên một trong những trục công cộng chính của thủ đô và là biểu tượng gắn với Kazakhstan hiện đại.",
+      "name" : "Bayterek"
+    },
+    "world-belem-tower" : {
+      "city" : "Lisbon",
+      "country" : "Portugal",
+      "introduction" : "Belém Tower là một pháo đài thế kỷ XVI bên sông Tagus ở Lisbon. Một tòa tháp thẳng đứng vươn lên trên pháo đài thấp hơn, với những chi tiết đá chạm khắc gắn với phong cách Manueline. Bối cảnh của nó gợi nhớ lịch sử hàng hải và thuộc địa của Bồ Đào Nha.",
+      "name" : "Belém Tower"
+    },
+    "world-belgrade-fortress" : {
+      "city" : "Belgrade",
+      "country" : "Serbia",
+      "introduction" : "Pháo đài Belgrade nằm ở nơi gặp nhau của sông Sava và sông Danube. Thành cổ lịch sử và Công viên Kalemegdan kết hợp các bức tường, sườn dốc và tầm nhìn sông rộng, cho thấy một vị trí chiến lược đã trở thành một phần của cảnh quan công cộng thành phố.",
+      "name" : "Pháo đài Belgrade"
+    },
+    "world-borobudur" : {
+      "city" : "Magelang",
+      "country" : "Indonesia",
+      "introduction" : "Borobudur là một di tích Phật giáo ở miền trung Java có niên đại thế kỷ VIII và IX. Các tầng vuông vươn lên nền tròn, với các phù điêu và bảo tháp có lỗ tạo nên một trình tự dẫn đến bảo tháp trung tâm.",
+      "name" : "Borobudur"
+    },
+    "world-bran-castle" : {
+      "city" : "Bran",
+      "country" : "România",
+      "introduction" : "Lâu đài Bran nằm ở vị trí đá gần một tuyến đường lịch sử ở Transylvania. Những ngọn tháp và bức tường tụ lại phản ánh một pháo đài thời trung cổ. Lịch sử của tòa nhà nên được phân biệt rõ với văn học về ma cà rồng mà du lịch sau này đã gắn với nó.",
+      "name" : "Lâu đài Bran"
+    },
+    "world-brandenburg-gate" : {
+      "city" : "Berlin",
+      "country" : "Germany",
+      "introduction" : "Cổng Brandenburg được xây dựng vào cuối thế kỷ XVIII như một tượng đài tân cổ điển ở Berlin. Các cột, khối trụ ngang vững chãi và cỗ xe tứ mã phía trên tạo nên đường nét rõ ràng. Cổng thành trước đây cũng mang ký ức về sự chia cắt và đoàn tụ của thành phố.",
+      "name" : "Brandenburg Gate"
+    },
+    "world-bryggen" : {
+      "city" : "Bergen",
+      "country" : "Na Uy",
+      "introduction" : "Các tòa nhà gỗ của Bryggen lưu giữ mối liên hệ của Bergen với mạng lưới thương mại Hanseatic. Các vụ hỏa hoạn dẫn đến việc xây dựng lại nhiều lần, thường theo cách bố trí và phương pháp truyền thống. Những đầu hồi bên bờ nước vẫn thể hiện cấu trúc của một khu thương mại phía bắc lịch sử.",
+      "name" : "Bryggen"
+    },
+    "world-bund" : {
+      "city" : "Thượng Hải",
+      "country" : "Trung Quốc",
+      "introduction" : "Bến Thượng Hải men theo bờ sông lịch sử của Thượng Hải ở bờ tây sông Hoàng Phố. Các tòa nhà nơi đây mang nhiều truyền thống kiến trúc châu Âu. Bên kia sông, Lục Gia Chủy mang đến một đường chân trời rất khác, đưa hai chương phát triển của thành phố vào cùng một tầm nhìn.",
+      "name" : "Bến Thượng Hải"
+    },
+    "world-burj-khalifa" : {
+      "city" : "Dubai",
+      "country" : "United Arab Emirates",
+      "introduction" : "Burj Khalifa là tòa nhà chọc trời biểu tượng của Dubai, do SOM thiết kế. Các cánh xếp quanh lõi trung tâm lùi dần khi công trình vươn cao, hẹp lại về phía ngọn tháp. Hình dáng thay đổi này biến một hệ kết cấu kỹ thuật phức tạp thành một đường nét đặc trưng trên đường chân trời.",
+      "name" : "Burj Khalifa"
+    },
+    "world-cape-coast-castle" : {
+      "city" : "Cape Coast",
+      "country" : "Ghana",
+      "introduction" : "Lâu đài Cape Coast nằm trên bờ biển Ghana và có liên quan sâu sắc đến việc buôn bán nô lệ xuyên Đại Tây Dương. Các bức tường hướng biển và không gian bên trong lưu giữ lịch sử thương mại thuộc địa và di dời cưỡng bức. Chuyến thăm đòi hỏi sự chú ý đến tưởng niệm và giải thích.",
+      "name" : "Lâu đài Cape Coast"
+    },
+    "world-cartagena" : {
+      "city" : "Cartagena",
+      "country" : "Colombia",
+      "introduction" : "Cartagena là một cảng lịch sử trên bờ biển Caribe của Colombia. Các công sự và khu phố cổ bảo tồn lịch sử thương mại thuộc địa và cạnh tranh hàng hải, với những khu phố riêng biệt đóng góp vào kiến trúc và không gian công cộng của thành phố.",
+      "name" : "Thành phố có tường bao Cartagena"
+    },
+    "world-casbah-algiers" : {
+      "city" : "Algiers",
+      "country" : "Algeria",
+      "introduction" : "Casbah là khu phố lịch sử của Algiers nhìn ra Địa Trung Hải. Những con phố truyền thống, nhà thờ Hồi giáo và di tích cung điện nằm trên sườn dốc, nơi các tòa nhà xếp gần nhau, sân trong và lối đi bảo tồn đặc trưng của một khu medina ven biển Bắc Phi.",
+      "name" : "Casbah của Algiers"
+    },
+    "world-charles-bridge" : {
+      "city" : "Praha",
+      "country" : "Séc",
+      "introduction" : "Cầu Charles bắc qua sông Vltava ở Praha và được khởi công từ thế kỷ XIV. Những vòm đá nối hai bờ, trong khi các bức tượng và tháp cầu khiến con đường này trở thành một phần của cảnh quan nghệ thuật và lịch sử thành phố.",
+      "name" : "Cầu Charles"
+    },
+    "world-chichen-itza" : {
+      "city" : "Yucatán",
+      "country" : "Mexico",
+      "introduction" : "Chichén Itzá là một di chỉ khảo cổ Maya quan trọng trên Bán đảo Yucatán của Mexico. Kim tự tháp bậc thang, Đền Chiến binh và đài quan sát hình tròn lưu giữ bằng chứng về nhiều truyền thống văn hóa gặp nhau trong một thành phố có ảnh hưởng.",
+      "name" : "Chichén Itzá"
+    },
+    "world-chillon-castle" : {
+      "city" : "Veytaux",
+      "country" : "Switzerland",
+      "introduction" : "Chillon là một lâu đài thời trung cổ ở đầu phía đông Hồ Geneva. Các tòa tháp, sân trong và tường bên mặt nước chiếm một vị trí đá hẹp, phản ánh tầm quan trọng của tuyến đường giữa bờ hồ và thung lũng Alps phía sau.",
+      "name" : "Chillon Castle"
+    },
+    "world-chocolate-hills" : {
+      "city" : "Bohol",
+      "country" : "Philippines",
+      "introduction" : "Đồi Sô-cô-la tạo nên cảnh quan đặc sắc trên đảo Bohol, Philippines. Cỏ đổi màu theo mùa, với màu nâu mùa khô mang đến tên gọi quen thuộc cho những ngọn đồi. Những chóp tròn lặp lại tạo nên một đường chân trời rộng và nhịp nhàng.",
+      "name" : "Đồi Sô-cô-la"
+    },
+    "world-cliffs-of-moher" : {
+      "city" : "Hạt Clare",
+      "country" : "Ireland",
+      "introduction" : "Vách đá Moher nằm dọc theo bờ biển Đại Tây Dương của Hạt Clare. Các mặt đá phân lớp vươn lên trên biển, với những mũi đất nối tiếp nhau tạo chiều sâu dọc theo đường bờ biển. Ánh sáng và thời tiết liên tục thay đổi mối quan hệ giữa vách đá, nước và đường chân trời.",
+      "name" : "Vách đá Moher"
+    },
+    "world-cn-tower" : {
+      "city" : "Toronto",
+      "country" : "Canada",
+      "introduction" : "Tháp CN của Toronto được hoàn thành vào năm 1976 như một tháp truyền thông và quan sát. Một trục mảnh hỗ trợ cấu trúc quan sát rộng hơn, với ăng-ten tiếp tục hướng lên, tạo nên một hình dáng dễ nhận biết trên các tòa nhà xung quanh.",
+      "name" : "Tháp CN"
+    },
+    "world-dubrovnik" : {
+      "city" : "Dubrovnik",
+      "country" : "Croatia",
+      "introduction" : "Phố cổ Dubrovnik nằm bên bờ biển Adriatic, được bao quanh bởi những bức tường đá lớn. Các nhà thờ, cung điện và mái ngói giữ gìn đặc trưng của một thành phố hàng hải lịch sử được định hình bởi sự thịnh vượng, động đất, xung đột và trùng tu.",
+      "name" : "Phố cổ Dubrovnik"
+    },
+    "world-el-jem" : {
+      "city" : "El Jem",
+      "country" : "Tunisia",
+      "introduction" : "Đấu trường El Jem là một di tích La Mã quan trọng ở Tunisia. Hình dạng elip, các vòm xếp lớp và chỗ ngồi còn sót lại cho thấy quy mô của một địa điểm công cộng cổ đại, tạo nên một thắng cảnh nổi bật trong thị trấn ngày nay.",
+      "name" : "Đấu trường El Jem"
+    },
+    "world-fort-jesus" : {
+      "city" : "Mombasa",
+      "country" : "Kenya",
+      "introduction" : "Pháo đài Jesus được xây dựng ở Mombasa vào cuối thế kỷ XVI để bảo vệ cảng. Mặt bằng góc cạnh và những bức tường vững chắc lưu giữ một chương của kiến trúc quân sự Bồ Đào Nha trong lịch sử rộng lớn hơn của thương mại Ấn Độ Dương và bờ biển Swahili.",
+      "name" : "Pháo đài Jesus"
+    },
+    "world-goree" : {
+      "city" : "Dakar",
+      "country" : "Senegal",
+      "introduction" : "Gorée nằm ngoài khơi Dakar và là nơi tưởng niệm gắn liền với việc buôn bán nô lệ xuyên Đại Tây Dương. Các tòa nhà, đường phố và không gian hướng biển của đảo gợi lên sự suy ngẫm về di cư cưỡng bức và bóc lột, cùng với đặc trưng lịch sử rõ nét của đảo.",
+      "name" : "Đảo Gorée"
+    },
+    "world-grand-place" : {
+      "city" : "Brussels",
+      "country" : "Belgium",
+      "introduction" : "Quảng trường Lớn của Brussels quy tụ Tòa Thị chính, các tòa nhà phường hội và kiến trúc công cộng khác. Những đầu hồi trang trí, điêu khắc và một tòa tháp cao ghi lại đời sống thương mại và công cộng của thành phố, biến quảng trường thành một quần thể để đọc từng mặt tiền.",
+      "name" : "Grand Place"
+    },
+    "world-ha-long-bay" : {
+      "city" : "Hạ Long",
+      "country" : "Việt Nam",
+      "introduction" : "Vịnh Hạ Long nổi tiếng với những tháp đá vôi nhô lên từ biển. Cùng với quần đảo Cát Bà, nơi đây tạo thành cảnh quan Di sản Thế giới, nơi các đảo và luồng lạch hé lộ những hình dáng ấn tượng của karst bị biển nhấn chìm.",
+      "name" : "Vịnh Hạ Long"
+    },
+    "world-hagia-sophia" : {
+      "city" : "Istanbul",
+      "country" : "Thổ Nhĩ Kỳ",
+      "introduction" : "Cấu trúc chính của Hagia Sophia có từ thế kỷ VI. Công trình từng là nhà thờ, nhà thờ Hồi giáo và bảo tàng, và hiện lại được sử dụng cho việc thờ phụng của người Hồi giáo. Mái vòm lớn và những lớp trang trí còn lại phản ánh lịch sử tôn giáo và dân sự đầy biến đổi của Istanbul.",
+      "name" : "Hagia Sophia"
+    },
+    "world-hallgrimskirkja" : {
+      "city" : "Reykjavík",
+      "country" : "Iceland",
+      "introduction" : "Hallgrímskirkja là một nhà thờ Lutheran nổi bật ở Reykjavík. Tháp cao và các cánh bên dạng bậc thang tạo nên một bố cục thẳng đứng mạnh mẽ, khiến nó đặc biệt dễ nhận biết trên các tòa nhà thường thấp hơn của thành phố.",
+      "name" : "Hallgrímskirkja"
+    },
+    "world-hegra" : {
+      "city" : "AlUla",
+      "country" : "Saudi Arabia",
+      "introduction" : "Hegra, thuộc vùng AlUla của Ả Rập Xê Út, bảo tồn những di tích quan trọng của nền văn minh Nabataean. Mặt tiền lăng mộ được đục chạm, các dòng chữ khắc và giếng nước cho thấy kiến thức về kiến trúc và quản lý nước, mở rộng câu chuyện văn hóa về phía nam từ Petra.",
+      "name" : "Hegra"
+    },
+    "world-humble-administrators-garden" : {
+      "city" : "Tô Châu",
+      "country" : "Trung Quốc",
+      "introduction" : "Vườn Chuyết Chính thuộc quần thể vườn Di sản Thế giới của Tô Châu. Nước, đình, đá và cây trồng đưa cảnh quan rộng lớn hơn vào một không gian khép kín. Hành lang và các ô cửa dẫn dắt ánh nhìn, nên chỉ một thay đổi nhỏ về vị trí có thể hé lộ một bố cục khác.",
+      "name" : "Vườn Chuyết Chính"
+    },
+    "world-karnak" : {
+      "city" : "Luxor",
+      "country" : "Ai Cập",
+      "introduction" : "Karnak gần Luxor từng là một quần thể tôn giáo quan trọng của Thebes cổ đại. Các nhà cai trị kế tiếp đã thêm các tháp môn, sân và đại sảnh, tạo nên một địa điểm được định hình qua nhiều thế hệ thay vì một tòa nhà duy nhất hoàn thành trong một triều đại.",
+      "name" : "Karnak"
+    },
+    "world-kinderdijk" : {
+      "city" : "Kinderdijk",
+      "country" : "Netherlands",
+      "introduction" : "Những chiếc cối xay gió ở Kinderdijk thuộc một hệ thống quản lý nước rộng lớn của Hà Lan. Đê, hồ chứa, trạm bơm và cối xay hoạt động trong lịch sử thoát nước cho vùng đất thấp. Khung cảnh yên bình cũng là một cảnh quan được tạo nên bởi công trình kỹ thuật và lao động bền bỉ.",
+      "name" : "Kinderdijk Windmills"
+    },
+    "world-kiyomizu-dera" : {
+      "city" : "Kyoto",
+      "country" : "Nhật Bản",
+      "introduction" : "Chùa Thanh Thủy nằm trên những ngọn đồi phía đông Kyoto và là một phần trong các di tích Di sản Thế giới của thành phố. Kiến trúc gỗ của chùa hòa cùng sườn đồi rợp cây, với sân khấu nổi tiếng mở ra tầm nhìn hướng về thành phố phía xa.",
+      "name" : "Chùa Thanh Thủy"
+    },
+    "world-kotor" : {
+      "city" : "Kotor",
+      "country" : "Montenegro",
+      "introduction" : "Kotor nằm trong một vịnh Adriatic được che chắn, với những ngọn núi dốc đứng nhô lên ngay sau phố cổ. Các bức tường, nhà thờ và đường phố đá lưu giữ lịch sử thương mại và thủ công, đồng thời cho thấy địa hình đã định hình khu định cư mạnh mẽ như thế nào.",
+      "name" : "Phố cổ Kotor"
+    },
+    "world-koutoubia" : {
+      "city" : "Marrakesh",
+      "country" : "Maroc",
+      "introduction" : "Nhà thờ Hồi giáo Koutoubia là một thắng cảnh tôn giáo quan trọng bên cạnh khu phố cổ Marrakesh. Tháp hình vuông, các chi tiết trang trí và khu vườn bao quanh tạo nên một điểm tham chiếu rõ ràng trong thành phố và phản ánh truyền thống kiến trúc của Maghreb.",
+      "name" : "Nhà thờ Hồi giáo Koutoubia"
+    },
+    "world-la-mano" : {
+      "city" : "Punta del Este",
+      "country" : "Uruguay",
+      "introduction" : "La Mano nằm trên Bãi biển Brava ở Punta del Este. Được tạo ra bởi nghệ sĩ người Chile Mario Irarrázabal, năm ngón tay của nó dường như nhô lên từ cát, mang một tác phẩm nghệ thuật công cộng đơn giản và đáng nhớ vào cảnh quan ven biển.",
+      "name" : "La Mano"
+    },
+    "world-lake-bled" : {
+      "city" : "Bled",
+      "country" : "Slovenia",
+      "introduction" : "Hồ Bled nằm ở vùng Alpine phía tây bắc Slovenia. Hòn đảo, lâu đài bên hồ và những ngọn đồi phủ cây tạo nên sự sắp xếp đặc biệt của các địa danh quanh mặt nước, với những phản chiếu liên kết cảnh quan nhân tạo và thiên nhiên.",
+      "name" : "Hồ Bled"
+    },
+    "world-lalbagh-fort" : {
+      "city" : "Dhaka",
+      "country" : "Bangladesh",
+      "introduction" : "Lalbagh Fort là một quần thể Mughal chưa hoàn thành ở Dhaka Cổ. Nhà thờ Hồi giáo, lăng mộ và các công trình còn lại lưu giữ dấu vết của một dự án đầy tham vọng. Nơi đây gợi sự chú ý đến những kế hoạch dang dở cũng như những tòa nhà còn sót lại.",
+      "name" : "Lalbagh Fort"
+    },
+    "world-lalibela" : {
+      "city" : "Lalibela",
+      "country" : "Ethiopia",
+      "introduction" : "Các nhà thờ đẽo từ đá thời trung cổ của Lalibela vẫn là một thánh địa quan trọng của Kitô giáo Ethiopia. Các tòa nhà, sân và lối đi được đục vào chính đá. Nhà thờ Thánh George hình chữ thập làm nổi bật mối quan hệ bất thường giữa kiến trúc và mặt đất này.",
+      "name" : "Các nhà thờ Lalibela"
+    },
+    "world-luang-prabang" : {
+      "city" : "Luang Prabang",
+      "country" : "Lào",
+      "introduction" : "Wat Xieng Thong nằm gần đầu phía bắc bán đảo Luang Prabang. Là một tu viện quan trọng của Lào, nơi đây kết nối lịch sử hoàng gia, thờ Phật và nghệ thuật truyền thống. Những đường mái uốn lượn và bề mặt trang trí mang đến một giới thiệu gần gũi về phố cổ.",
+      "name" : "Wat Xieng Thong"
+    },
+    "world-mont-saint-michel" : {
+      "city" : "Mont-Saint-Michel",
+      "country" : "Pháp",
+      "introduction" : "Mont-Saint-Michel nhô lên từ một vùng thủy triều ở Normandy. Tu viện và ngôi làng leo lên một hòn đảo đá phía trên các bức tường và bãi cát rộng, cho thấy kiến trúc tôn giáo đã thích nghi với một địa điểm tự nhiên đặc biệt khắt khe và thay đổi như thế nào.",
+      "name" : "Mont-Saint-Michel"
+    },
+    "world-nyhavn" : {
+      "city" : "Copenhagen",
+      "country" : "Đan Mạch",
+      "introduction" : "Nyhavn là một kênh đào và khu bờ nước lịch sử ở Copenhagen. Những dãy nhà phố đầy màu sắc và thuyền gỗ giữ đặc trưng bến cảng, trong khi hoạt động dọc bờ vẫn kết nối chặt chẽ với đời sống thành phố đương đại.",
+      "name" : "Nyhavn"
+    },
+    "world-obelisco" : {
+      "city" : "Buenos Aires",
+      "country" : "Argentina",
+      "introduction" : "Obelisco tọa lạc tại Plaza de la República ở Buenos Aires, nơi giao nhau của đại lộ Corrientes và 9 de Julio. Được xây dựng vào năm 1936 để đánh dấu bốn thế kỷ kể từ lần thành lập đầu tiên của thành phố, nó đã trở thành một điểm nhấn định hình trung tâm đô thị.",
+      "name" : "Obelisco"
+    },
+    "world-old-havana" : {
+      "city" : "Havana",
+      "country" : "Cuba",
+      "introduction" : "La Habana Cổ bảo tồn một cấu trúc lịch sử gồm các quảng trường, dãy cột, ban công và sân trong. Các tòa nhà Baroque và tân cổ điển đứng cạnh nhau, phản ánh sự phát triển của một thành phố cảng Caribe nơi không gian công cộng vẫn gắn bó chặt chẽ với đời sống hàng ngày.",
+      "name" : "La Habana Cổ"
+    },
+    "world-osaka-castle" : {
+      "city" : "Osaka",
+      "country" : "Nhật Bản",
+      "introduction" : "Thành Osaka gắn với công cuộc thống nhất Nhật Bản thế kỷ XVI. Tháp chính hiện nay được tái thiết năm 1931, chứ không còn nguyên vẹn từ thời kỳ đó. Khung cảnh tường đá và hào nước giúp hé lộ những lớp lịch sử khác nhau của di tích.",
+      "name" : "Thành Osaka"
+    },
+    "world-panama-viejo" : {
+      "city" : "Thành phố Panama",
+      "country" : "Panama",
+      "introduction" : "Panamá Viejo lưu giữ những di tích của khu định cư ban đầu của thành phố. Sau khi bị phá hủy vào năm 1671, trung tâm đã chuyển đến một địa điểm mới. Những tháp, tường và mô hình đường phố còn sót lại khiến chương trước đó trở nên hữu hình trong Thành phố Panama ngày nay.",
+      "name" : "Panamá Viejo"
+    },
+    "world-paphos" : {
+      "city" : "Paphos",
+      "country" : "Síp",
+      "introduction" : "Công viên Khảo cổ Paphos lưu giữ những di tích quan trọng của Nea Paphos cổ đại, bao gồm nhà ở, công trình công cộng và tranh ghép nền công phu. Các họa tiết hình học và cảnh thần thoại cho thấy nghệ thuật đã đi vào không gian sinh hoạt trong thành phố Địa Trung Hải này như thế nào.",
+      "name" : "Công viên Khảo cổ Paphos"
+    },
+    "world-parliament-budapest" : {
+      "city" : "Budapest",
+      "country" : "Hungary",
+      "introduction" : "Tòa nhà Quốc hội Hungary nằm ở phía Pest của sông Danube. Những ngọn tháp tân Gothic và mái vòm trung tâm của tòa nhà tạo nên một đường nét nhịp nhàng kéo dài, khiến bờ sông trở thành một trong những nơi dễ nhận biết nhất cảnh quan công dân của Budapest.",
+      "name" : "Tòa nhà Quốc hội Hungary"
+    },
+    "world-petra" : {
+      "city" : "Wadi Musa",
+      "country" : "Jordan",
+      "introduction" : "Petra từng là một thành phố Nabataean tại điểm giao nhau quan trọng của các tuyến thương mại. Các công trình của nó phần được xây dựng và phần được đục vào đá sa thạch. Hẻm núi, vách đá và hệ thống nước giúp giải thích cách thành phố chiếm lĩnh khung cảnh hùng vĩ này.",
+      "name" : "Petra"
+    },
+    "world-petronas-towers" : {
+      "city" : "Kuala Lumpur",
+      "country" : "Malaysia",
+      "introduction" : "Tháp Petronas là cặp tháp không thể nhầm lẫn trên đường chân trời Kuala Lumpur, được nối bằng cầu trên không. Hình dáng bậc thang và mặt dựng kim loại và kính biến sự lặp lại và đối xứng thành đặc điểm nhận diện của công trình hiện đại này.",
+      "name" : "Tháp Petronas"
+    },
+    "world-potala-palace" : {
+      "city" : "Lhasa",
+      "country" : "Trung Quốc",
+      "introduction" : "Cung điện Potala nhô lên trên Núi Đỏ ở Lhasa, với Bạch Cung và Hồng Cung tạo nên bóng dáng phân tầng rõ nét. Từng là nơi ở mùa đông của các Đạt Lai Lạt Ma, công trình gắn kết kiến trúc, nghệ thuật tôn giáo và cảnh núi non xung quanh trong mối quan hệ gần gũi.",
+      "name" : "Cung điện Potala"
+    },
+    "world-quito" : {
+      "city" : "Quito",
+      "country" : "Ecuador",
+      "introduction" : "Trung tâm lịch sử của Quito nằm trong dãy Andes và bảo tồn các nhà thờ, tu viện và không gian đô thị quan trọng. Nghệ thuật của nó kết hợp các hình thức châu Âu với truyền thống chế tác địa phương, tạo ra một biểu hiện kiến trúc đặc biệt thay vì một mô hình nhập khẩu đơn thuần.",
+      "name" : "Trung tâm Lịch sử Quito"
+    },
+    "world-rapa-nui" : {
+      "city" : "Rapa Nui",
+      "country" : "Chile",
+      "introduction" : "Ahu Tongariki trên đảo Rapa Nui kết hợp một nền tảng nghi lễ với một hàng tượng moai. Những bức tượng đang đứng đã được phục hồi sau khi bị đổ và hư hại do sóng thần, bảo tồn cả truyền thống điêu khắc của đảo lẫn lịch sử bảo tồn gần đây hơn.",
+      "name" : "Ahu Tongariki"
+    },
+    "world-registan" : {
+      "city" : "Samarkand",
+      "country" : "Uzbekistan",
+      "introduction" : "Quảng trường Registan ở Samarkand được bao quanh bởi ba madrasa. Cổng cao, mái vòm xanh và gạch men hình học tạo nên đặc trưng dễ nhận biết của quần thể, kết nối truyền thống học tập, thủ công và đời sống công cộng của thành phố trên Con đường Tơ lụa.",
+      "name" : "Registan"
+    },
+    "world-rila-monastery" : {
+      "city" : "Rila",
+      "country" : "Bulgaria",
+      "introduction" : "Tu viện Rila là một địa điểm văn hóa Chính thống quan trọng trong một thung lũng núi ở Bulgaria. Phần lớn quần thể hiện nay được xây dựng lại vào thế kỷ XIX, với các hành lang, bề mặt sơn và nhà thờ thể hiện nghệ thuật của thời kỳ Phục hưng Quốc gia Bulgaria.",
+      "name" : "Tu viện Rila"
+    },
+    "world-rock-islands" : {
+      "city" : "Koror",
+      "country" : "Palau",
+      "introduction" : "Quần đảo Đá của Palau tạo thành một cảnh quan gồm các đảo nhỏ đá vôi, thảm thực vật xanh và nước đầm phá. Đầm phá phía Nam còn chứa các rạn san hô, hồ biển và di tích văn hóa, mang sự đa dạng sinh thái và lịch sử con người vào cùng một khung cảnh đảo.",
+      "name" : "Quần đảo Đá"
+    },
+    "world-sagrada-familia" : {
+      "city" : "Barcelona",
+      "country" : "Spain",
+      "introduction" : "Sagrada Família gắn liền với Antoni Gaudí và Barcelona. Những mặt tiền điêu khắc, các tòa tháp vươn cao và hình thức lấy cảm hứng từ tự nhiên tạo cho công trình một ngôn ngữ kiến trúc riêng biệt. Mặt tiền Giáng sinh và hầm mộ của công trình nằm trong danh sách Di sản Thế giới các tác phẩm của Gaudí.",
+      "name" : "Sagrada Família"
+    },
+    "world-schonbrunn" : {
+      "city" : "Viên",
+      "country" : "Áo",
+      "introduction" : "Schönbrunn từng là nơi ở quan trọng của các vị vua nhà Habsburg. Cung điện và khu vườn tạo thành một quần thể Baroque ở Viên, nơi mặt tiền, lối đi và các yếu tố vườn ở xa được liên kết bằng những trục và tầm nhìn được tổ chức chặt chẽ.",
+      "name" : "Cung điện Schönbrunn"
+    },
+    "world-sigiriya" : {
+      "city" : "Sigiriya",
+      "country" : "Sri Lanka",
+      "introduction" : "Sigiriya nổi lên như một mỏm đá granit trên vùng rừng cây xung quanh ở Sri Lanka. Dấu tích của một trung tâm hoàng gia cổ đại nằm trên các sườn dốc và đỉnh núi, với những bậc thang, sân hiên và khu vườn biến địa hình hùng vĩ thành một bối cảnh kiến trúc.",
+      "name" : "Sigiriya"
+    },
+    "world-sky-tower" : {
+      "city" : "Auckland",
+      "country" : "New Zealand",
+      "introduction" : "Sky Tower của Auckland là một công trình truyền thông và quan sát ở trung tâm thành phố. Thân tháp mảnh mai, các tầng quan sát nhô ra và cột ăng-ten phía trên tạo thành một hình bóng rõ ràng, mang lại một điểm tham chiếu thị giác khắp các đường phố và đường chân trời của thành phố cảng.",
+      "name" : "Sky Tower"
+    },
+    "world-sri-siva-subramaniya" : {
+      "city" : "Nadi",
+      "country" : "Fiji",
+      "introduction" : "Đền Sri Siva Subramaniya ở Nadi là một địa điểm tôn giáo và văn hóa quan trọng của cộng đồng người Ấn-Fiji ở Fiji. Tháp cổng rực rỡ màu sắc và chi tiết điêu khắc của nó mang truyền thống đền thờ Nam Ấn Độ vào một bối cảnh đô thị Nam Thái Bình Dương.",
+      "name" : "Đền Sri Siva Subramaniya"
+    },
+    "world-stari-most" : {
+      "city" : "Mostar",
+      "country" : "Bosnia và Herzegovina",
+      "introduction" : "Stari Most bắc qua sông Neretva ở Mostar. Cây cầu thời Ottoman đã bị phá hủy trong cuộc xung đột thập niên 1990 và sau đó được xây dựng lại. Vòm đơn của nó hiện mang câu chuyện về phục hồi di sản cũng như tuyến đường nối hai bờ.",
+      "name" : "Stari Most"
+    },
+    "world-stockholm-city-hall" : {
+      "city" : "Stockholm",
+      "country" : "Thụy Điển",
+      "introduction" : "Tòa thị chính Stockholm nằm bên mặt nước trên đảo Kungsholmen. Tòa nhà phục vụ quản lý công dân và đời sống nghi lễ, với gạch đỏ, một sân rộng và một ngọn tháp được vương miện bởi ba vương miện mạ vàng tạo nên địa danh đặc trưng của thành phố.",
+      "name" : "Tòa thị chính Stockholm"
+    },
+    "world-stone-town" : {
+      "city" : "Thành phố Zanzibar",
+      "country" : "Tanzania",
+      "introduction" : "Stone Town là một ví dụ quan trọng của thành phố thương mại Swahili ở Đông Phi. Những con phố hẹp, các tòa nhà kiên cố và cửa chạm khắc phản ánh mối liên hệ với châu Phi, Ả Rập, Ấn Độ và châu Âu, cùng lịch sử khó khăn của chế độ nô lệ và thương mại ở Ấn Độ Dương.",
+      "name" : "Stone Town"
+    },
+    "world-sultan-qaboos-mosque" : {
+      "city" : "Muscat",
+      "country" : "Oman",
+      "introduction" : "Sultan Qaboos Grand Mosque là một công trình tôn giáo đương đại quan trọng ở Muscat. Mái vòm, tháp minaret và sân rộng tạo nên một bố cục có trật tự, với tông đá nhạt hòa hợp tự nhiên trong khung cảnh núi non của thành phố.",
+      "name" : "Sultan Qaboos Grand Mosque"
+    },
+    "world-suomenlinna" : {
+      "city" : "Helsinki",
+      "country" : "Phần Lan",
+      "introduction" : "Suomenlinna nằm trên các đảo ngoài bến cảng Helsinki và được khởi công dưới sự cai trị của Thụy Điển vào thế kỷ XVIII. Các bức tường và tuyến đường của nó đi theo địa hình, cho thấy một pháo đài biển châu Âu đã thích nghi với bối cảnh đảo như thế nào.",
+      "name" : "Suomenlinna"
+    },
+    "world-swayambhunath" : {
+      "city" : "Kathmandu",
+      "country" : "Nepal",
+      "introduction" : "Swayambhunath nằm trên một ngọn đồi ở Thung lũng Kathmandu và là một thánh địa Phật giáo quan trọng. Bảo tháp trắng, đôi mắt được vẽ và ngọn tháp vươn lên tạo thành một đường nét riêng biệt, kết nối thành phố bên dưới với truyền thống hành hương lâu đời.",
+      "name" : "Swayambhunath"
+    },
+    "world-taj-mahal" : {
+      "city" : "Agra",
+      "country" : "Ấn Độ",
+      "introduction" : "Taj Mahal nằm bên sông Yamuna ở Agra. Shah Jahan ra lệnh xây lăng mộ này để tưởng nhớ Mumtaz Mahal. Đá cẩm thạch trắng, mái vòm trung tâm, các tháp minaret ở góc và trục vườn trang trọng tạo nên một bố cục kiến trúc cân đối tinh tế.",
+      "name" : "Taj Mahal"
+    },
+    "world-tigers-nest" : {
+      "city" : "Paro",
+      "country" : "Bhutan",
+      "introduction" : "Paro Taktsang, được biết đến với tên gọi Tiger's Nest, là một thánh địa Phật giáo trên vách núi phía trên Thung lũng Paro. Những tòa nhà tường trắng bám vào đá, khiến mối quan hệ giữa tu viện và khung cảnh núi non dốc đứng càng thêm ấn tượng.",
+      "name" : "Tiger's Nest"
+    },
+    "world-tikal" : {
+      "city" : "Petén",
+      "country" : "Guatemala",
+      "introduction" : "Tikal là một di chỉ thành phố Maya quan trọng trong rừng nhiệt đới Petén của Guatemala. Những ngôi đền cao, cung điện và quảng trường nổi lên giữa thảm thực vật, đặt các hình thức kiến trúc thẳng đứng tương phản với tán rừng rộng lớn xung quanh.",
+      "name" : "Tikal"
+    },
+    "world-uluru" : {
+      "city" : "Yulara",
+      "country" : "Úc",
+      "introduction" : "Uluru là một khối đá sa thạch nổi bật ở trung tâm Úc và là một phần quan trọng trong văn hóa và tín ngưỡng của người Anangu. Khối đá khổng lồ của nó vươn lên trên đồng bằng, với ánh sáng thay đổi làm lộ rõ các bề mặt, nhưng ý nghĩa của nó vượt xa địa chất.",
+      "name" : "Uluru"
+    },
+    "world-valletta" : {
+      "city" : "Valletta",
+      "country" : "Malta",
+      "introduction" : "Valletta nằm trên một bán đảo giữa hai bến cảng ở Malta. Gắn bó chặt chẽ với Dòng Thánh John, cấu trúc lịch sử nhỏ gọn của thành phố kết hợp kiến trúc tôn giáo, quân sự và công dân trong một bối cảnh đô thị tập trung đáng kể.",
+      "name" : "Valletta"
+    },
+    "world-victoria-falls" : {
+      "city" : "Thác Victoria",
+      "country" : "Zimbabwe",
+      "introduction" : "Thác Victoria nằm trên sông Zambezi ở biên giới Zambia và Zimbabwe. Nước đổ xuống các hẻm núi bazan và tạo ra những đám mây phun rộng lớn. Thác, sông và đá cùng nhau tạo nên một cảnh quan ấn tượng được chia sẻ bởi hai quốc gia.",
+      "name" : "Thác Victoria"
+    },
+    "world-victoria-peak" : {
+      "city" : "Hồng Kông",
+      "country" : "Trung Quốc",
+      "introduction" : "Đỉnh Victoria nhô lên ở phía tây Đảo Hồng Kông. Tầm nhìn từ đây đưa các tòa nhà Trung Hoàn, Cảng Victoria và những ngọn đồi xung quanh vào một khung cảnh, cho thấy đường chân trời dày đặc của thành phố nằm gọn giữa địa hình dốc và mặt nước.",
+      "name" : "Đỉnh Victoria"
+    },
+    "world-wawel" : {
+      "city" : "Kraków",
+      "country" : "Ba Lan",
+      "introduction" : "Lâu đài Wawel nằm trên một ngọn đồi bên sông Vistula ở Kraków và là một địa điểm quan trọng trong lịch sử hoàng gia Ba Lan. Được mở rộng theo thời gian, các sân, tháp và mặt tiền đa dạng của lâu đài lưu giữ nhiều thời kỳ kiến trúc khác nhau trong một quần thể.",
+      "name" : "Lâu đài Wawel"
+    },
+    "world-west-lake" : {
+      "city" : "Hàng Châu",
+      "country" : "Trung Quốc",
+      "introduction" : "Tây Hồ kết hợp mặt nước rộng mở và những ngọn đồi xung quanh với các con đê, đảo, chùa và vườn được tạo dáng qua nhiều thế kỷ. Những khung cảnh được bố trí tinh tế của nó đã ảnh hưởng đến nghệ thuật thiết kế vườn ngoài Hàng Châu, khiến bờ hồ trở thành nơi để đọc sự gặp gỡ giữa cảnh quan và văn hóa.",
+      "name" : "Tây Hồ"
+    },
+    "za-cape-town-table-mountain" : {
+      "city" : "Cape Town",
+      "country" : "Nam Phi",
+      "introduction" : "Núi Bàn nhô lên phía sau Cape Town với đỉnh phẳng đặc trưng. Núi, vịnh, thành phố và những đám mây thay đổi tạo nên một trong những khung cảnh chủ đạo của thành phố.\n\nẤn bản này kết hợp bối cảnh địa điểm, gợi ý ngắm nhìn và ảnh cá nhân, khiến món quà lưu niệm đọc như một tờ báo địa phương nhỏ.",
+      "name" : "Núi Bàn"
+    }
+  },
+  "locale" : "vi",
+  "schemaVersion" : 1,
+  "templates" : {
+    "ct01" : {
+      "description" : "Câu chuyện điểm đến và ảnh chân dung của bạn trong ấn bản hai cột.",
+      "name" : "Ấn bản thành phố"
+    },
+    "dp01" : {
+      "description" : "Cùng một phong cảnh, trải dài qua hai khung.",
+      "name" : "Giữa hai khung"
+    },
+    "fl01" : {
+      "description" : "Minh họa trên nền giấy nhạt.",
+      "name" : "Khung phim minh họa"
+    },
+    "fl02" : {
+      "description" : "Ảnh lớn giữ màu gốc với viền phim mảnh.",
+      "name" : "Phim đời thường"
+    },
+    "hc01" : {
+      "description" : "Tít đỏ, chân dung và phong cảnh, kỷ niệm ngày đáng nhớ.",
+      "name" : "Tin vui hôm nay"
+    },
+    "hf01" : {
+      "description" : "Một khung thực, một miền xa, lưu giữ ánh sáng trên đường.",
+      "name" : "Nhật ký ảnh phim"
+    },
+    "hm01" : {
+      "description" : "Ảnh lớn và cột minh họa, biên tập hành trình thành tạp chí riêng.",
+      "name" : "Tạp chí du lịch"
+    },
+    "hn01" : {
+      "description" : "Tít lớn, ảnh hiện trường và cột chặt, bạn là nhân vật chính.",
+      "name" : "Số đặc biệt thành phố"
+    },
+    "ht01" : {
+      "description" : "Ảnh của bạn và minh họa điểm đến trên trang nhất hành trình.",
+      "name" : "Ký sự du lịch"
+    },
+    "mu01" : {
+      "description" : "Một bức phong cảnh, một bộ sưu tập riêng.",
+      "name" : "Bộ sưu tập riêng"
+    },
+    "nf01" : {
+      "description" : "Tiêu đề vàng đen nổi bật ghi lại hành trình của bạn.",
+      "name" : "Số đặc biệt"
+    },
+    "pc01" : {
+      "description" : "Ảnh lớn, giấy ảnh trắng ấm, ngày tháng và ghi chú du lịch, thích hợp lưu và chia sẻ.",
+      "name" : "Thiệp kỷ niệm"
+    },
+    "pc02" : {
+      "description" : "Chỉ giữ ảnh lớn, viền giấy ảnh, ngày tháng và nhãn hiệu, thích hợp lưu thành ảnh.",
+      "name" : "Thẻ ảnh"
+    },
+    "rd01" : {
+      "description" : "Tiêu đề căn giữa, ảnh chân dung và ba cột chủ đề địa phương.",
+      "name" : "Nhật báo cổ điển"
+    },
+    "st01" : {
+      "description" : "Minh họa điểm đến, tem răng cưa và dấu ngày tháng.",
+      "name" : "Thư từ sơn thủy · Minh họa"
+    },
+    "st02" : {
+      "description" : "Ảnh cá nhân kèm tem minh họa tùy chọn.",
+      "name" : "Thư ảnh"
+    },
+    "tk01" : {
+      "description" : "Cuống vé xanh ngọc và ảnh du lịch, lưu lại chặng này.",
+      "name" : "Báo cuống vé"
+    }
+  }
+}
