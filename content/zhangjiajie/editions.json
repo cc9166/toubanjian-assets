@@ -1,0 +1,266 @@
+[
+  {
+    "displayName": "张家界 · 武陵源",
+    "editorial": {
+      "contentID": "zhangjiajie-zh-Hans",
+      "locale": "zh-Hans",
+      "placeID": "zhangjiajie",
+      "sections": [
+        {
+          "body": "湖南 · 张家界武陵源",
+          "heading": "",
+          "id": "place"
+        },
+        {
+          "body": "武陵源位于湖南，以砂岩峰柱、深谷与林木交织的山地景观闻名。1992 年，武陵源风景名胜区被列入《世界遗产名录》。",
+          "heading": "在地故事",
+          "id": "story"
+        },
+        {
+          "body": "先看峰林的整体轮廓，再看石柱之间的空隙。拍照时留一点天空和远山，让山势的层次进入画面。",
+          "heading": "观察笔记",
+          "id": "observation"
+        },
+        {
+          "body": "湖南武陵源以砂岩峰林闻名，1992 年列入《世界遗产名录》。",
+          "heading": "在地故事",
+          "id": "storyShort"
+        },
+        {
+          "body": "从峰林轮廓看到谷地层次，留一点远山，记住眼前的开阔。",
+          "heading": "观察笔记",
+          "id": "observationShort"
+        },
+        {
+          "body": "张家界 · 武陵源 / 峰林间的旅行记忆",
+          "heading": "",
+          "id": "caption"
+        },
+        {
+          "body": "本期线索 / 砂岩峰林 · 林木 · 山谷\n观察笔记：从远处看轮廓，从近处看层次。",
+          "heading": "",
+          "id": "keywords"
+        },
+        {
+          "body": "砂岩峰林 / 林木 / 山谷\n把这一页，留给张家界。",
+          "heading": "",
+          "id": "keywordsShort"
+        },
+        {
+          "body": "头版见 · 张家界专题 / 湖南旅行纪念",
+          "heading": "",
+          "id": "footer"
+        },
+        {
+          "body": "资料：UNESCO。摄影：Cncs / Commons，CC BY-SA 4.0；原图未改。",
+          "heading": "",
+          "id": "sources"
+        },
+        {
+          "body": "峰林旅行票根",
+          "heading": "",
+          "id": "ticketName"
+        },
+        {
+          "body": "湖南 · 张家界 / TRAVEL JOURNAL",
+          "heading": "",
+          "id": "ticketMeta"
+        },
+        {
+          "body": "旅行纪念",
+          "heading": "",
+          "id": "ticketPurpose"
+        },
+        {
+          "body": "湖南 / 张家界",
+          "heading": "",
+          "id": "ticketRegion"
+        },
+        {
+          "body": "武陵源",
+          "heading": "",
+          "id": "ticketPlace"
+        },
+        {
+          "body": "峰林之间\n山野笔记",
+          "heading": "",
+          "id": "ticketHint"
+        },
+        {
+          "body": "留存这一站 / 个人旅行纪念",
+          "heading": "",
+          "id": "ticketKeep"
+        },
+        {
+          "body": "读懂峰林层次",
+          "heading": "",
+          "id": "contextHeading"
+        },
+        {
+          "body": "看近处的石壁与林木，再看远处山峰的排列。明暗和距离让同一片峰林呈现不同层次。\n\n这些是观察建议，今天的天气、同行的人和自己的感受，留给你亲手补充。",
+          "heading": "",
+          "id": "context"
+        },
+        {
+          "body": "号外",
+          "heading": "",
+          "id": "extraBadge"
+        },
+        {
+          "body": "个人旅行纪念",
+          "heading": "",
+          "id": "extraPurpose"
+        }
+      ],
+      "sourceURLs": [
+        "https://whc.unesco.org/en/list/640/",
+        "https://commons.wikimedia.org/wiki/File:Zhangjiajie-Hunan.jpg",
+        "https://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "subtitle": "湖南武陵源 · 把山野的层次留在纸上。",
+      "title": "在张家界，读一页峰林",
+      "verifiedAt": {
+        "day": 10,
+        "month": 10,
+        "year": 2026
+      },
+      "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    }
+  },
+  {
+    "displayName": "Zhangjiajie · Wulingyuan",
+    "editorial": {
+      "contentID": "zhangjiajie-en",
+      "locale": "en",
+      "placeID": "zhangjiajie",
+      "sections": [
+        {
+          "body": "Hunan · Wulingyuan, Zhangjiajie",
+          "heading": "",
+          "id": "place"
+        },
+        {
+          "body": "Wulingyuan in Hunan is known for sandstone pillars, wooded slopes and deep valleys. The scenic area joined the UNESCO World Heritage List in 1992.",
+          "heading": "PLACE",
+          "id": "story"
+        },
+        {
+          "body": "Start with the outline of the peaks, then notice the spaces between them. Leave some sky and distant hills in the frame to hold the depth of the landscape.",
+          "heading": "LOOK",
+          "id": "observation"
+        },
+        {
+          "body": "Wulingyuan is known for sandstone pillars and has been a UNESCO World Heritage site since 1992.",
+          "heading": "PLACE",
+          "id": "storyShort"
+        },
+        {
+          "body": "Look from the skyline into the valleys. Leave room for the distant hills.",
+          "heading": "LOOK",
+          "id": "observationShort"
+        },
+        {
+          "body": "ZHANGJIAJIE / A memory among the peaks",
+          "heading": "",
+          "id": "caption"
+        },
+        {
+          "body": "IN THIS ISSUE / SANDSTONE PILLARS · WOODLAND · VALLEYS\nLOOKING NOTES / Follow the skyline, then the layers below.",
+          "heading": "",
+          "id": "keywords"
+        },
+        {
+          "body": "SANDSTONE / WOODLAND / VALLEYS\nA page from Zhangjiajie.",
+          "heading": "",
+          "id": "keywordsShort"
+        },
+        {
+          "body": "ZHANGJIAJIE / HUNAN · A TRAVEL KEEPSAKE",
+          "heading": "",
+          "id": "footer"
+        },
+        {
+          "body": "UNESCO. Photo: Cncs / Commons, CC BY-SA 4.0; unchanged.",
+          "heading": "",
+          "id": "sources"
+        },
+        {
+          "body": "THE MOUNTAIN TICKET",
+          "heading": "",
+          "id": "ticketName"
+        },
+        {
+          "body": "Hunan · Zhangjiajie / TRAVEL JOURNAL",
+          "heading": "",
+          "id": "ticketMeta"
+        },
+        {
+          "body": "TRAVEL KEEPSAKE",
+          "heading": "",
+          "id": "ticketPurpose"
+        },
+        {
+          "body": "HUNAN / ZHANGJIAJIE",
+          "heading": "",
+          "id": "ticketRegion"
+        },
+        {
+          "body": "WULINGYUAN",
+          "heading": "",
+          "id": "ticketPlace"
+        },
+        {
+          "body": "MOUNTAIN AIR\nTRAVEL NOTES",
+          "heading": "",
+          "id": "ticketHint"
+        },
+        {
+          "body": "KEEP THIS STOP / PERSONAL SOUVENIR",
+          "heading": "",
+          "id": "ticketKeep"
+        },
+        {
+          "body": "LAYERS OF LANDSCAPE",
+          "heading": "",
+          "id": "contextHeading"
+        },
+        {
+          "body": "Look at the nearby rock and trees, then follow the peaks into the distance. Light and space give the view its layers.\n\nThese are prompts for looking. Add your own weather, companions and memories to the page.",
+          "heading": "",
+          "id": "context"
+        },
+        {
+          "body": "EXTRA",
+          "heading": "",
+          "id": "extraBadge"
+        },
+        {
+          "body": "PERSONAL\nTRAVEL KEEPSAKE",
+          "heading": "",
+          "id": "extraPurpose"
+        }
+      ],
+      "sourceURLs": [
+        "https://whc.unesco.org/en/list/640/",
+        "https://commons.wikimedia.org/wiki/File:Zhangjiajie-Hunan.jpg",
+        "https://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "subtitle": "A page among the peaks of Wulingyuan.",
+      "title": "Zhangjiajie, in print",
+      "verifiedAt": {
+        "day": 10,
+        "month": 10,
+        "year": 2026
+      },
+      "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    }
+  }
+]

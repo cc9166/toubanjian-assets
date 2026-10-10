@@ -1,0 +1,16 @@
+{
+  "id": "cn-zhangjiajie-wulingyuan",
+  "zh": "张家界·武陵源",
+  "en": "Zhangjiajie · Wulingyuan",
+  "countryZH": "中国",
+  "countryEN": "China",
+  "cityZH": "张家界",
+  "cityEN": "Zhangjiajie",
+  "latitude": 29.33333,
+  "longitude": 110.5,
+  "rankInCity": 1,
+  "featured": true,
+  "editionPlaceID": "zhangjiajie",
+  "imageName": "lm_zhangjiajie",
+  "previewImageName": "lm_zhangjiajie"
+}
